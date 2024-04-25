@@ -1,20 +1,39 @@
 # INE018 Matemática Computacional
 
 ## Descripción
-
-
+Se hace hincapié en buenas prácticas y en las funcionalidades integradas de cada lenguaje.
+Utilizaremos los lenguajes de programación C++ y Python.
 
 ## Objetivos del curso
+Tras completar INE018, esperamos que hayas alcanzado los siguientes objetivos de aprendizaje:
+- Quiero usar la programación para resolver problemas del mundo real fuera del salón de clases.
+- Puedo identificar conceptos de programación y abstracciones computacionales
+en las tecnologías que uso en mi día a día
+pues entiendo cómo funciona la computadora.
+- Puedo evaluar las ventajas y desventajas del diseño de una solución
+cuando creamos una estructura de datos o utilizamos un determinado algoritmo.
+- Estoy en una posición en la cual puedo competentemente
+formar parte de un proyecto de investigación,
+emprendimiento,
+empleo
+o curso
+con componentes de programación.
 
+## Calificación
+Las notas finales del curso serán determinadas usando los siguientes pesos:
+- 50% Desafíos de programación
+- 30% Tareas
+- 15% Examen final
+- 5% Participación
 
 ## Cronograma
 
 | Clase | Temas | Lecturas |
 |------|------|------|
-| 1 | Introducción <br> C++ | [Speech on why coding is important - Evan Chen](https://web.evanchen.cc/techspeech.html) <br> [What is a programming language? - Codecademy](https://www.codecademy.com/resources/blog/programming-languages/) <br> [Industrial Perspective on Static Analysis - Wichmann, Canning, Clutterbuck, Winsbarrow, Ward, Marsh](https://web.archive.org/web/20110927010304/http://www.ida.liu.se/~TDDC90/papers/industrial95.pdf)<br> [Compiler vs Interpreter - John Smith](https://www.guru99.com/difference-compiler-vs-interpreter.html) <br> [IDEs vs. Code Editors: Everything you need to know - David Watson](https://blog.jetbrains.com/webstorm/2024/03/ides-vs-code-editors/) <br> [Linux FAQs - Evan Chen](https://web.evanchen.cc/faq-linux.html) <br> [What are the biggest misconceptions about Computer science? - Tikhon Jelvis](https://qr.ae/pvKNII) |
-| 2 | I/O streams <br> Variables <br> Tipos de datos | [Standard library header &lt;iostream&gt; - cppreference](https://en.cppreference.com/w/cpp/header/iostream) <br> [Fundamental types - cppreference](https://en.cppreference.com/w/cpp/language/types) |
-| 3 | Expresiones <br> Operadores | [Expressions - cppreference](https://en.cppreference.com/w/cpp/language/expressions) <br> [Expressions (C++) - Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/expressions-cpp?view=msvc-170) <br> [Object-Oriented Programming in C++ - A case study - Richard S. Wiener](https://dl.acm.org/doi/pdf/10.1145/24900.24906)|
-| 4 | Conversión de tipos <br> Constantes <br> Bibliotecas para funciones matemáticas | [Explicit type conversion - cppreference](https://en.cppreference.com/w/cpp/language/explicit_cast) <br> [Implicit conversion - cppreference](https://en.cppreference.com/w/cpp/language/implicit_conversion) <br> [const (C++) - Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/const-cpp?view=msvc-170) <br> [Standard library header &lt;cmath&gt; - cppreference](https://en.cppreference.com/w/cpp/header/cmath) <br> [std::rand - cppreference](https://en.cppreference.com/w/cpp/numeric/random/rand)|
+| 1 | Introducción <br> C++ | - [Evan Chen: Speech on why coding is important](https://web.evanchen.cc/techspeech.html) <br>- [Codecademy: What is a programming language?](https://www.codecademy.com/resources/blog/programming-languages/) <br>- [Wichmann, Canning, Clutterbuck, Winsbarrow, Ward and Marsh: Industrial Perspective on Static Analysis](https://web.archive.org/web/20110927010304/http://www.ida.liu.se/~TDDC90/papers/industrial95.pdf) <br>- [John Smith: Compiler vs Interpreter](https://www.guru99.com/difference-compiler-vs-interpreter.html) <br>- [David Watson: IDEs vs. Code Editors: Everything you need to know](https://blog.jetbrains.com/webstorm/2024/03/ides-vs-code-editors/) <br>- [Evan Chen: Linux FAQs](https://web.evanchen.cc/faq-linux.html) <br>- [Tikhon Jelvis: What are the biggest misconceptions about Computer science?](https://qr.ae/pvKNII) |
+| 2 | I/O streams <br> Variables <br> Tipos de datos | - [cppreference: Standard library header &lt;iostream&gt;](https://en.cppreference.com/w/cpp/header/iostream) <br> - [cppreference: Fundamental types](https://en.cppreference.com/w/cpp/language/types) |
+| 3 | Expresiones <br> Operadores | - [cppreference: Expressions](https://en.cppreference.com/w/cpp/language/expressions) <br> - [Microsoft Learn: Expressions (C++)](https://learn.microsoft.com/en-us/cpp/cpp/expressions-cpp?view=msvc-170) <br> - [Richard S. Wiener: Object-Oriented Programming in C++ - A case study](https://dl.acm.org/doi/pdf/10.1145/24900.24906)|
+| 4 | Conversión de tipos <br> Constantes <br> Bibliotecas para funciones matemáticas | - [cppreference: Explicit type conversion](https://en.cppreference.com/w/cpp/language/explicit_cast) <br> - [cppreference: Implicit conversion](https://en.cppreference.com/w/cpp/language/implicit_conversion) <br> - [Microsoft Learn: const (C++)](https://learn.microsoft.com/en-us/cpp/cpp/const-cpp?view=msvc-170) <br> - [cppreference: Standard library header &lt;cmath&gt;](https://en.cppreference.com/w/cpp/header/cmath) <br> - [cppreference: std::rand](https://en.cppreference.com/w/cpp/numeric/random/rand)|
 | 5 | Condicionales | [if statement - cppreference](https://en.cppreference.com/w/cpp/language/if) <br> [if-else statement (C++) - Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/if-else-statement-cpp?view=msvc-170) <br> [Scope - cppreference](https://en.cppreference.com/w/cpp/language/scope) |
 | 6 | Bucles | [while loop - cppreference](https://en.cppreference.com/w/cpp/language/while) <br> [for loop - cppreference](https://en.cppreference.com/w/cpp/language/for) |
 | 7 | Funciones | [Functions - cppreference](https://en.cppreference.com/w/cpp/language/functions) <br> [Functions (C++) - Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/functions-cpp?view=msvc-170) |
