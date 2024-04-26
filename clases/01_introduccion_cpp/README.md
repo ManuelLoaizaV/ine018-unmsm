@@ -63,6 +63,7 @@ Nuestros ancestros se hicieron la siguiente lluvia de ideas:
 
 Un **compilador** es un programa que toma código
 y construye un programa que podemos correr.
+Si la compilación es exitosa, el programa puede ser ejecutado.
 
 ### C
 
@@ -89,7 +90,7 @@ Su simplicidad lo hizo muy popular, la cual también era su debilidad:
 ### C++
 
 En 1983, Bjarne Stroustrup creó C++.
-Nada mejor que escuchar al creador explicar el porqué en la siguiente entrevista:
+Nada mejor que escuchar al creador explicar el porqué de su creación en la siguiente entrevista:
 
 [![Bjarne Stroustrup](http://img.youtube.com/vi/JBjjnqG0BP8/0.jpg)](https://www.youtube.com/watch?v=JBjjnqG0BP8)
 
