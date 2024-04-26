@@ -34,18 +34,18 @@ Primero meditemos sobre assembly:
 
 ```asm
 section .text
-global _start              ;must be declared for linker (ld)
-_start:                    ;tell linker entry point
- mov edx,len               ;message length
- mov ecx,msg               ;message to write
- mov ebx,1                 ;file descriptor (stdout)
- mov eax,4                 ;system call number (sys_write)
- int 0x80                  ;call kernel
- mov eax,1                 ;system call number (sys_exit)
- int 0x80                  ;call kernel
+global _start              ; debe ser declarado para el linker (ld)
+_start:                    ; indica el punto de entrada al linker
+ mov edx,len               ; longitud del mensaje
+ mov ecx,msg               ; mensaje a escribir
+ mov ebx,1                 ; descriptor de archivo (stdout)
+ mov eax,4                 ; número de system call (sys_write)
+ int 0x80                  ; llamar al kernel
+ mov eax,1                 ; número de system call (sys_exit)
+ int 0x80                  ; llamar al kernel
 section .data
-msg db 'Hola, mundo!',0xa  ;our dear string
-len equ $ - msg            ;length of our dear string
+msg db 'Hola, mundo!',0xa  ; nuestra querida cadena
+len equ $ - msg            ; longitud de nuestra querida cadena
 ```
 
 ¿Por qué no usamos siempre assembly?
