@@ -86,7 +86,7 @@ Su simplicidad lo hizo muy popular, lo cual también era su debilidad:
 ### C++
 
 En 1983, Bjarne Stroustrup creó C++.
-Nada mejor que escuchar al creador explicar el porqué:
+Nada mejor que escuchar al creador explicar el porqué en la siguiente entrevista:
 
 [![Bjarne Stroustrup](http://img.youtube.com/vi/JBjjnqG0BP8/0.jpg)](https://www.youtube.com/watch?v=JBjjnqG0BP8)
 
@@ -108,4 +108,15 @@ Su filosofía era la siguiente:
 - No sacrificar el rendimiento excepto como último recurso.
 - Imponer seguridad en tiempo de compilación siempre que sea posible.
 
-Pero ... ¿qué es C++?
+Concibamos nuestro primer programa en C++:
+
+```cpp
+#include <iostream>
+
+int main(void) {
+    std::cout << "Hola, mundo!" << std::endl;
+    return 0;
+}
+```
+
+### Pero ... ¿qué es C++?
