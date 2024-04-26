@@ -59,7 +59,10 @@ Nuestros ancestros se hicieron la siguiente lluvia de ideas:
 - El código fuente puede ser escrito en un lenguaje más intuitivo.
 - Un programa adicional puede convertir este código fuente en assembly.
 
-> ¡A ese programa adicional le llamamos compilador!
+¡A ese programa adicional le llamamos compilador!
+
+Un **compilador** es un programa que toma código
+y construye un programa que podemos correr.
 
 ### C
 
@@ -92,7 +95,7 @@ Nada mejor que escuchar al creador explicar el porqué en la siguiente entrevist
 
 *Bjarne Stroustrup: Why I Created C++.*
 
-El quería un lenguaje que cumplea con lo siguiente:
+Él quería un lenguaje que cumpla con lo siguiente:
 - Rápido.
 - Simple.
 - Multiplatafotma.
@@ -108,15 +111,40 @@ Su filosofía era la siguiente:
 - No sacrificar el rendimiento excepto como último recurso.
 - Imponer seguridad en tiempo de compilación siempre que sea posible.
 
-Concibamos nuestro primer programa en C++:
+### Sintaxis versus semántica
 
-```cpp
-#include <iostream>
+Definamos los siguientes términos:
+- Sintaxis: las reglas para construir sentencias gramaticales en un lenguaje.
+- Semántica: Significado.
 
-int main(void) {
-    std::cout << "Hola, mundo!" << std::endl;
-    return 0;
-}
-```
+Estas definiciones son independientes de referirse a un lenguaje humano o un lenguaje de programación.
+
+Consideremos el siguiente ejemplo:
+
+> Amortajadas las pupilas, traza su aullido pastoral un perro.
+
+Hay muchas cosas ocurriendo en esta oración, sintácticamente hablando.
+La puntuación al final de la oración es parte de la sintaxis, al igual que la coma.
+La oración comienza con un complemento adverbial ("Amortajadas las pupilas").
+El verbo de la oración es "traza",
+el cual indica la acción realizada por el sujeto ("un perro").
+El complemento directo del verbo es "su aullido pastoral".
+Es una oración gramaticalmente correcta.
+
+La semántica de la oración está relacionada con
+una metáfora explosiva y religiosa.
+Las yuxtaposiciones inflaman las diferencias entre impulsos religiosos y naturalistas.
+Por ejemplo, "aullido pastoral" combina lo simple e idílico de "pastoral"
+con lo violento y desesperado de "aullido".
+Un poema como este no se construye sobre una comprensión preconcebida de la realidad.
+Al contrario, está desagarrado por gestos brutales de hiperrealidad.
+
+
+¿Por qué esto es relevante?
+
+Conforme descubramos todo lo que podemos hacer con C++,
+iremos aprendiendo la sintaxis que tenemos que seguir
+(i.e. cómo escribir las líneas de código que el compilador digerirá)
+y la semántica asociada (i.e. qué hace o significa dicha sintaxis).
 
 ### Pero ... ¿qué es C++?
