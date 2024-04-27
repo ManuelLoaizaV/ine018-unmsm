@@ -238,7 +238,18 @@ int main(void) {
 }
 ```
 
-Si eliminamos tanto `using namespace std;` como `std::`, nuestro programa no compilará:
+Si eliminamos tanto `using namespace std;` como `std::`
+
+```cpp
+#include <iostream>
+
+int main(void) {
+    cout << "Hola, mundo!" << endl;
+    return 0;
+}
+```
+
+nuestro programa no compilará:
 
 ```bash
 manuel@thinkpad:~/UNMSM/ine018-unmsm$ g++ clases/02/hola_mundo.cpp 
