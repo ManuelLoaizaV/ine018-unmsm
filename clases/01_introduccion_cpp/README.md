@@ -16,7 +16,7 @@ Y también en la vida real!
 
 ![Usuarios de C++](/assets/images/cpp-users.png)
 
-*Java, Spirit, Windows 11, World of Warcraft, Google Chrome.*
+*Java, Spirit, Windows 11, Dota, Google Chrome.*
 
 Además, es bastante rápido.
 
