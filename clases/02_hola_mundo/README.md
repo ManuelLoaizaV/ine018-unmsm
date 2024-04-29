@@ -205,7 +205,7 @@ y llamamos `CrearConexion`, necesitamos una manera de determinar a cuál de las 
 En C++ usamos namespaces para lidiar con este problema.
 Un namespace es una colección nombrada de entidades.
 Una biblioteca de redes podría orquestar un namespace `net`,
-y una biblioteca de bases de dotas podría estructurar un namespace `db`.
+y una biblioteca de bases de datos podría estructurar un namespace `db`.
 Luego llamaríamos a estas funciones `CrearConexion` de la siguiente manera:
 
 ```cpp
