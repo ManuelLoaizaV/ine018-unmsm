@@ -21,10 +21,8 @@ con componentes de programación.
 
 ## Calificación
 Las notas finales del curso serán determinadas usando los siguientes pesos:
-- 50% Desafíos de programación
-- 25% Tareas
-- 10% Examen parcial
-- 10% Examen final
+- 55% Listas de ejercicios
+- 40% Tareas
 - 5% Participación
 
 ## Cronograma
@@ -33,7 +31,7 @@ Las notas finales del curso serán determinadas usando los siguientes pesos:
 |------|------|------|
 | [1](/clases/01_introduccion_cpp/) | Bienvenidos <br> ¿Por qué C++? <br> ¿Qué es C++? <br> | - [Evan Chen: Speech on why coding is important](https://web.evanchen.cc/techspeech.html) <br>- [GitHub: What is a programming language?](https://resources.github.com/software-development/what-is-a-programming-language/) <br> - [John Smith: Compiler vs Interpreter](https://www.guru99.com/difference-compiler-vs-interpreter.html) <br> - [David Watson: IDEs vs. Code Editors: Everything you need to know](https://blog.jetbrains.com/webstorm/2024/03/ides-vs-code-editors/) <br> - [Wichmann, Canning, Clutterbuck, Winsbarrow, Ward and Marsh: Industrial Perspective on Static Analysis](https://web.archive.org/web/20110927010304/http://www.ida.liu.se/~TDDC90/papers/industrial95.pdf)<br>- [Evan Chen: Linux FAQs](https://web.evanchen.cc/faq-linux.html) <br>- [Tikhon Jelvis: What are the biggest misconceptions about Computer science?](https://qr.ae/pvKNII) |
 | [2](/clases/02_hola_mundo/) | Directivas <br> Función `main` <br> I/O streams <br> Comentarios <br> Namespaces | - [cppreference: Preprocessor](https://en.cppreference.com/w/cpp/preprocessor)<br>- [cppreference: Main function](https://en.cppreference.com/w/cpp/language/main_function)<br>- [cppreference: Standard library header &lt;iostream&gt;](https://en.cppreference.com/w/cpp/header/iostream)<br>- [cppreference: `std::endl`](https://en.cppreference.com/w/cpp/io/manip/endl)<br>- [cppreference: Comment](https://en.cppreference.com/w/c/comment)<br>- [cppreference: Namespaces](https://en.cppreference.com/w/cpp/language/namespace) |
-| 3 | Variables <br> Tipos de datos <br> Expresiones <br> Operadores | - [cppreference: Fundamental types](https://en.cppreference.com/w/cpp/language/types)<br> - [cppreference: Expressions](https://en.cppreference.com/w/cpp/language/expressions) <br> - [Microsoft Learn: Expressions (C++)](https://learn.microsoft.com/en-us/cpp/cpp/expressions-cpp?view=msvc-170) <br> - [Richard S. Wiener: Object-Oriented Programming in C++ - A case study](https://dl.acm.org/doi/pdf/10.1145/24900.24906)|
+| [3](/clases/03_tipos_variables_operadores_expresiones/) | Variables <br> Tipos de datos <br> Expresiones <br> Operadores | - [cppreference: Fundamental types](https://en.cppreference.com/w/cpp/language/types)<br> - [cppreference: Expressions](https://en.cppreference.com/w/cpp/language/expressions)<br> - [Microsoft Learn: Expressions (C++)](https://learn.microsoft.com/en-us/cpp/cpp/expressions-cpp?view=msvc-170)<br> - [cppreference: Standard library header &lt;string&gt;](https://en.cppreference.com/w/cpp/header/string)<br> - [Richard S. Wiener: Object-Oriented Programming in C++ - A case study](https://dl.acm.org/doi/pdf/10.1145/24900.24906)|
 | 4 | Conversión de tipos <br> Constantes <br> Bibliotecas para funciones matemáticas | - [cppreference: Explicit type conversion](https://en.cppreference.com/w/cpp/language/explicit_cast) <br> - [cppreference: Implicit conversion](https://en.cppreference.com/w/cpp/language/implicit_conversion) <br> - [Microsoft Learn: const (C++)](https://learn.microsoft.com/en-us/cpp/cpp/const-cpp?view=msvc-170) <br> - [cppreference: Standard library header &lt;cmath&gt;](https://en.cppreference.com/w/cpp/header/cmath) <br> - [cppreference: std::rand](https://en.cppreference.com/w/cpp/numeric/random/rand)|
 | 5 | Condicionales | [if statement - cppreference](https://en.cppreference.com/w/cpp/language/if) <br> [if-else statement (C++) - Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/if-else-statement-cpp?view=msvc-170) <br> [Scope - cppreference](https://en.cppreference.com/w/cpp/language/scope) |
 | 6 | Bucles | [while loop - cppreference](https://en.cppreference.com/w/cpp/language/while) <br> [for loop - cppreference](https://en.cppreference.com/w/cpp/language/for) |
@@ -55,6 +53,11 @@ Las notas finales del curso serán determinadas usando los siguientes pesos:
 | 22 | `__hash__` <br> `__eq__` <br> Excepciones | |
 | 23 | Internet | [How does the Internet work? - Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work) <br> [What is the difference between web page, website, web server, and search engine? - Mozila](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines) <br> [Working with JSON - Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) <br> [First steps - FastAPI](https://fastapi.tiangolo.com/tutorial/first-steps/)|
  24 | Inteligencia Artificial | [Reasoning Foundations of Medical Diagnosis - Robert S. Ledley, Lee B. Lusted](https://www.cs.tufts.edu/comp/150AIH/pdf/LedleyLu59.pdf) <br> [Some Studies in Machine Learning Using the Game of Checkers - Arthur Samuel](https://ieeexplore.ieee.org/document/5392560) <br> [Learning While Searching in Constraint-Satisfaction-Problems - Rina Dechter](https://web.archive.org/web/20180202012739/https://www.researchgate.net/profile/Rina_Dechter/publication/221605378_Learning_While_Searching_in_Constraint-Satisfaction-Problems/links/555e11a608ae8c0cab2c5f1a.pdf?inViewer=0&pdfJsDownload=0&origin=publication_detail) <br> [Attention Is All You Need - Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) <br> [GPT-4 Technical Report - OpenAI](https://cdn.openai.com/papers/gpt-4.pdf)|
+
+## Organización de las carpetas
+- `clases` - contiene las notas de clase y el código desarrollado durante estas.
+- `ejercicios` - contiene las soluciones de las listas de ejercicios del curso.
+- `tareas` - contiene los enunciados de las tareas del curso.
 
 ## Nota aclaratoria sobre el nombre del curso
 El nombre del curso podría inducir a confusión, ya que podría implicar que su contenido abarca alguno de los siguientes campos:
