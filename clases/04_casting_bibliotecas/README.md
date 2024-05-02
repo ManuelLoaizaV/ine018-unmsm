@@ -28,7 +28,7 @@ no es el que hemos escrito, sino el código de una biblioteca
 que hemos importado en nuestro programa.
 
 En las clases anteriores hemos utilizado la biblioteca
-`&lt;iostream&gt;` para poder acceder a los streams `cin` y `cout`.
+`<iostream>` para poder acceder a los streams `cin` y `cout`.
 Los detalles de implementación de estos streams
 no son importantes a la hora de escribir nuestro primer `Hola, mundo!`.
 Como ingenieros, lo que nos importa es saber cómo usar estas bibliotecas
@@ -42,7 +42,7 @@ memorizando ciertos valores sin tener que computarlos manualmente
 ni tener que saber sobre funciones analíticas u holomorfas.
 A la hora de programar, seguiremos la misma estrategia que en el colegio.
 
-### `&lt;cmath&gt;`
+### `<cmath>`
 
 C++ nos provee una biblioteca matemática bastante rica.
 Podemos encontrar funciones matemáticas generales:
@@ -73,7 +73,7 @@ Funciones trigonométricas:
 | `atan(x)` | Retorna $x^y$. |
 | `atan2(y, x)` | Retorna el ángulo en radianes formado entre el eje $x$ y el segmento que une el origen con $(x, y)$. |
 
-### `&lt;algoritm&gt;`
+### `<algoritm>`
 
 Esta biblioteca define funciones para
 búsquedas,
@@ -94,7 +94,7 @@ y otras cosas más.
 | `max` | Retorna el máximo de los valores dados. |
 | `min` | Retorna el mínimo de los valores dados. |
 
-### `&lt;cstdlib&gt;`
+### `<cstdlib>`
 
 | Función | Descripción |
 |---|---|
@@ -102,7 +102,7 @@ y otras cosas más.
 | `atoi` | Convierte una cadena en un `int`. |
 | `rand` | Genera un número aleatorio. |
 
-### `&lt;cctype&gt;`
+### `<cctype>`
 
 | Función | Descripción |
 |---|---|
