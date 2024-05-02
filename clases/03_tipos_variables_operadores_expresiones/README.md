@@ -1,11 +1,48 @@
 ## Tipos fundamentales
+
+En C++, todo valor de un dato tiene asociado un tipo de dato.
+Formalmente, un **tipo de dato** está definido por dos propiedades:
+- **Dominio**: Conjunto de valores que pertenecen a ese tipo de dato.
+- **Conjunto de operaciones**: Define el comportamiento del tipo de dato.
+
+Por ejemplo, sabemos que el dominio del tipo de dato `int` son los números en $\mathbb{Z}$
+que pueden ser representados en nuestra arquitectura de la computadora.
+El conjunto de operaciones aplicables al tipo de dato `int` serían
+las operaciones aritméticas estándares como la suma, multiplicación o resto.
+
+Una ventaja que tenemos en lenguajes modernos como C++
+es la posibilidad de crear nuestros propios tipos basados en los tipos de datos fundamentales.
+Tenemos cinco categorías de tipos de datos predefinidos en C++:
+- Entero: `short`, `int` y `long`. Podemos obtener nuevos tipos si utilizamos el prefijo `unsigned`.
+- Punto flotante: `float`, `double` y `long double`.
+También pueden ser escritos en notación científica.
+Por ejemplo, `double e = 2.9979E+8`.
+- Booleano: Los únicos valores legales son `true` y `false`.
+- Caracter: El sistema de codificación para representar caracteres se llama ASCII.
+Cuando tipeas una letra `A`, la lógica del hardware construida en el teclado
+traduce ese caracter en el código ASCII `65`.
+Análogamente, cuando la computadora envía el código ASCII `65` a la pantalla,
+aparece la letra `A`.
+- Enumeración.
+
 ```cpp
 int siete = 7;  // Entero con signo de 32 bits (usualmente)
 char efe = 'F';  // Caracter ASCII de 8 bits (usualmente)
 float pi = 3.1415;  // Número de punto flotante de precisión simple de 32 bits (usualmente)
 double e = 2.718281828459;  // Número de punto flotante con precisión doble de 64 bits (usualmente)
 bool verdad = true;  // 1 bit
+```
 
+El tipo de dato `string` no viene integrado en el lenguaje
+sino que está definido en la biblioteca `<string>`.
+Dado que trabajar con caracteres es más útil cuando
+estos están agrupados secuencialmente,
+se creó esta noción de secuencia de caracteres llamada cadena.
+
+Escribimos una cadena en C++
+encerrando los caracteres contenidas en esta entre comillas inglesas.
+
+```cpp
 #include <string>
 std::str curso = "INE018";  // Cadena de caracteres
 ```
@@ -247,7 +284,7 @@ Una expresión es una sucesión de operadores y sus operandos que especifican co
 
 Evaluar una expresión puede producir un resultado o generar efectos secundarios.
 
-### Precedencia
+### Precedencia de operadores
 1. Negación.
 2. Paréntesis.
 3. Multiplicación, módulo, división.
@@ -256,6 +293,18 @@ Evaluar una expresión puede producir un resultado o generar efectos secundarios
 6. Operadores de igualdad.
 7. Y lógico.
 8. O lógico.
+
+### Jerarquía de conversión de tipos al mezclarlos en una expresión
+1. `long double`
+2. `double`
+3. `float`
+4. `unsigned long`
+5. `long`
+6. `unsigned int`
+7. `int`
+8. `unsigned short`
+9. `short`
+10. `char`
 
 ### Practiquemos
 
