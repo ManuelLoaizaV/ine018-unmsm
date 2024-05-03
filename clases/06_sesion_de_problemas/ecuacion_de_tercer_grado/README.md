@@ -1,7 +1,7 @@
 # Ecuación de tercer grado
 
 ```cpp
-void EncontrarRaicesEnterasDeCubica(double a, double b, double c, double d)
+tuple<int, int, int> EncontrarRaicesEnterasDeEcuacionCubica(double a, double b, double c, double d)
 ```
 
 Escriba una función que reciba los coeficientes $a$, $b$, $c$ y $d$
@@ -12,7 +12,7 @@ ax^3 + bx^2 + cx + d = 0.
 $$
 
 Está garantizado que la función tiene tres raíces reales y enteras.
-Debes imprimir las tres raíces en orden creciente.
+Debes hallar las tres raíces en orden creciente.
 
 Para comenzar, querrás leer sobre la fórmula cúbica de Cardano [aquí](https://mathworld.wolfram.com/CubicFormula.html).
 A partir de eso, puedes usar esta fórmula:
