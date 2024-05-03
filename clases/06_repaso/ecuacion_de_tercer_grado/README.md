@@ -18,8 +18,8 @@ Para comenzar, querrás leer sobre la fórmula cúbica de Cardano [aquí](https:
 A partir de eso, puedes usar esta fórmula:
 
 $$
-x = \left(q + \left(q^2 + (r-p^2)^3\right)^{1/2}\right)^{1/3}
-+ \left(q - \left(q^2 + (r-p^2)^3\right)^{1/2}\right)^{1/3}
+x = (q + (q^2 + (r-p^2)^3)^{1/2})^{1/3}
++ (q - (q^2 + (r-p^2)^3)^{1/2})^{1/3}
 + p,
 $$
 
