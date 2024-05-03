@@ -7,7 +7,9 @@ double CalcularAreaEntreLasRectas(double m1, double b1, double m2, double b2, do
 Escriba una función que recibe seis números reales representando tres rectas:
 
 $$y = m_1 x + b_1,$$
+
 $$y = m_2 x + b_2,$$
+
 $$y = m_3 x + b_3.$$
 
 Primero encuentre en donde se intersecta cada par de rectas.
