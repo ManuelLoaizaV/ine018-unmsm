@@ -1,4 +1,4 @@
-# Area entre las rectas
+# Área entre las rectas
 
 ```cpp
 double CalcularAreaEntreLasRectas(double m1, double b1, double m2, double b2, double m3, double b3)

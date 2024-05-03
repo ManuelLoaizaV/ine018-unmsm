@@ -73,7 +73,7 @@ Funciones trigonométricas:
 | `atan(x)` | Retorna $x^y$. |
 | `atan2(y, x)` | Retorna el ángulo en radianes formado entre el eje $x$ y el segmento que une el origen con $(x, y)$. |
 
-### `<algoritm>`
+### `<algorithm>`
 
 Esta biblioteca define funciones para
 búsquedas,
