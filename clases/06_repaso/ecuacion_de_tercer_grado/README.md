@@ -16,19 +16,23 @@ Debes imprimir las tres raíces en orden creciente.
 
 Para comenzar, querrás leer sobre la fórmula cúbica de Cardano [aquí](https://mathworld.wolfram.com/CubicFormula.html).
 A partir de eso, puedes usar esta fórmula:
+
 $$
 x = \left(q + \left(q^2 + (r-p^2)^3\right)^{1/2}\right)^{1/3}
 + \left(q - \left(q^2 + (r-p^2)^3\right)^{1/2}\right)^{1/3}
-+ p
++ p,
 $$
+
 $$
-p = -\frac{b}{3a}
+p = -\frac{b}{3a},
 $$
+
 $$
-q = p^3 + \frac{bc - 3ad}{6a^2}
+q = p^3 + \frac{bc - 3ad}{6a^2},
 $$
+
 $$
-r = \frac{c}{3a}
+r = \frac{c}{3a}.
 $$
 
 Esto no es tan simple como parece
