@@ -12,8 +12,8 @@ En caso de empates, ir al paradero con la calle de menor número
 (en los primeros paraderos el bus suele tener menos pasajeros).
 
 ```cpp
-ObtenerParaderoMasCercano(19)  // 16
-ObtenerParaderoMasCercano(24)  // 24
-ObtenerParaderoMasCercano(28)  // 24
-ObtenerParaderoMasCercano(29)  // 32
+assert(ObtenerParaderoMasCercano(19) == 16);
+assert(ObtenerParaderoMasCercano(24) == 24);
+assert(ObtenerParaderoMasCercano(28) == 24);
+assert(ObtenerParaderoMasCercano(29) == 32);
 ```
