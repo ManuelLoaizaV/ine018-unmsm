@@ -36,7 +36,7 @@ plataforma para anunciar asesorías.
 y aprender a utilizar [GitHub Desktop](https://desktop.github.com/) para completar las tareas.
 - Encontrarás útil utilizar
 [Markdown](https://www.markdownguide.org/),
-[$\LaTeX$](https://www.latex-project.org/)
+[LaTeX](https://www.latex-project.org/)
 y [Mermaid](https://mermaid.js.org/)
 para contribuir al repositorio.
 
@@ -53,7 +53,7 @@ Para motivarte, hemos reservado el 5% de tu calificación para la participación
 de una manera que solo puede ayudar y no perjudicar tu calificación.
 
 ## Bibliografía
-No es necesario, ya que todo se aprenderá en clase.
+No es necesaria, ya que todo se aprenderá en clase.
 Sin embargo, no estaría de más revisar los siguientes recursos:
 la documentación de C++ en [cppreference](https://en.cppreference.com/) y algunos papers relevantes.
 En el cronograma se han especificado los enlaces correspondientes para cada clase.
