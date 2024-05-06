@@ -1,4 +1,4 @@
-# Bloques
+## Bloques
 
 En C++ está definido que las sentencias de control se aplican a sentencias simples.
 Cuando estás escribiendo un programa,
@@ -20,7 +20,7 @@ el cual es una colección de sentencias rodeadas por llaves:
 Cuando el compilador de C++ encuentra un bloque,
 este trata el bloque entero como si fuese una sola sentencia.
 
-# La sentencia `if`
+## La sentencia `if`
 
 Cuando escribimos un programa,
 solemos querer verificar cierta condición
@@ -59,7 +59,7 @@ if (n % 2 == 0) {
 }
 ```
 
-# La sentencia `switch`
+## La sentencia `switch`
 
 La sentencia `if` era perfecta
 cuando la lógica de nuestro tenía dos rutas dependiendo de una condición.
