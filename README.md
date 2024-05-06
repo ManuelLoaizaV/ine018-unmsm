@@ -21,6 +21,46 @@ empleo
 o curso
 con componentes de programación.
 
+## Páginas web y tecnología
+La página principal de INE018 es donde te encuentras ahora mismo.
+Aquí tienes un resumen rápido de nuestras herramientas:
+- Nuestra página web del curso se encuentra en el repositorio
+[ine-018-unmsm](https://github.com/ManuelLoaizaVasquez/ine018-unmsm/) en [GitHub](https://github.com/).
+Aquí encontrarás toda la información del curso, incluyendo material de clases, enlaces, soluciones, etc.
+- Para resolver las listas de ejercicios, utilizarás [Virtual Judge](https://vjudge.net/),
+donde recibirás retroalimentación inmediata, ya que evalúa tus soluciones de manera automatizada.
+- Utilizamos [Discord](https://discord.com/) como nuestro foro de preguntas y respuestas,
+medio de comunicación y
+plataforma para anunciar asesorías.
+- Deberás descargar, instalar y configurar [Visual Studio Code](https://code.visualstudio.com/)
+y aprender a utilizar [GitHub Desktop](https://desktop.github.com/) para completar las tareas.
+- Encontrarás útil utilizar
+[Markdown](https://www.markdownguide.org/),
+[$\LaTeX$](https://www.latex-project.org/)
+y [Mermaid](https://mermaid.js.org/)
+para contribuir al repositorio.
+
+## Prerrequisitos
+Este curso está dirigido a estudiantes con poca o ninguna experiencia en programación.
+Solo se requiere conocimiento básico de la escuela secundaria.
+
+## Clases
+Nuestras clases se llevan a cabo durante cuatro horas a la semana en los laboratorios de informática.
+Es fundamental mantener el ritmo con las clases en lugar de acumularlas
+y resolver todos los ejercicios de una vez 
+(eso funciona muy bien para las series de Netflix, pero no es ideal para el aprendizaje).
+Para motivarte, hemos reservado el 5% de tu calificación para la participación en clases
+de una manera que solo puede ayudar y no perjudicar tu calificación.
+
+## Bibliografía
+No es necesario, ya que todo se aprenderá en clase.
+Sin embargo, no estaría de más revisar los siguientes recursos:
+la documentación de C++ en [cppreference](https://en.cppreference.com/) y algunos papers relevantes.
+En el cronograma se han especificado los enlaces correspondientes para cada clase.
+Además, se recomiendan dos libros de texto para este curso:
+*The C++ Programming Language, Fourth Edition* de Bjarne Stroustrup,
+e *Introduction to Algorithms, Fourth Edition* de Cormen, Leiserson, Rivest y Stein.
+
 ## Calificación
 Las notas finales del curso serán determinadas usando los siguientes pesos:
 - 45% Listas de ejercicios
@@ -38,10 +78,10 @@ Las notas finales del curso serán determinadas usando los siguientes pesos:
 | [3](/clases/03_tipos_variables_operadores_expresiones/) | - Tipos de datos <br> - Variables <br> - Expresiones <br> - Operadores | - [cppreference: Fundamental types](https://en.cppreference.com/w/cpp/language/types)<br> - [cppreference: Expressions](https://en.cppreference.com/w/cpp/language/expressions)<br> - [Microsoft Learn: Expressions (C++)](https://learn.microsoft.com/en-us/cpp/cpp/expressions-cpp?view=msvc-170)<br> - [cppreference: Standard library header &lt;string&gt;](https://en.cppreference.com/w/cpp/header/string)<br> - [Richard S. Wiener: Object-Oriented Programming in C++ - A case study](https://dl.acm.org/doi/pdf/10.1145/24900.24906)|
 | [4](/clases/04_casting_bibliotecas/) | - Conversión de tipos <br> - Bibliotecas | - [Igor Zhirkov: How does typecasting work in programming languages?](https://qr.ae/psws1U)<br> - [cppreference: Explicit type conversion](https://en.cppreference.com/w/cpp/language/explicit_cast) <br> - [cppreference: Implicit conversion](https://en.cppreference.com/w/cpp/language/implicit_conversion) <br> - [cppreference: Standard library header &lt;cmath&gt;](https://en.cppreference.com/w/cpp/header/cmath) <br> - [cppreference: std::rand](https://en.cppreference.com/w/cpp/numeric/random/rand)|
 | [5](/clases/05_condicionales/) | Condicionales | - [cppreference: if statement](https://en.cppreference.com/w/cpp/language/if) <br> - [Microsoft Learn: if-else statement (C++)](https://learn.microsoft.com/en-us/cpp/cpp/if-else-statement-cpp?view=msvc-170) <br> - [cppreference: switch statement](https://en.cppreference.com/w/cpp/language/switch) <br> - [cppreference: Scope](https://en.cppreference.com/w/cpp/language/scope) |
-| [6](/clases/06_sesion_de_problemas/) | Sesión de problemas | - Clases [2](/clases/02_hola_mundo/), [3](/clases/03_tipos_variables_operadores_expresiones/), [4](/clases/04_casting_bibliotecas/) y 5. <br> - [Bar-Yosef: The Impact of Radiocarbon Dating on Old World Archaeology](https://dash.harvard.edu/bitstream/handle/1/12211569/3851-3522-1-PB.pdf?sequence=1&isAllowed=y) <br> - [Wolfram MathWorld: Cubic Formula](https://mathworld.wolfram.com/CubicFormula.html)|
+| [6](/clases/06_sesion_de_problemas/) | Sesión de problemas | - Clases [2](/clases/02_hola_mundo/), [3](/clases/03_tipos_variables_operadores_expresiones/), [4](/clases/04_casting_bibliotecas/) y [5](/clases/05_condicionales/). <br> - [Bar-Yosef: The Impact of Radiocarbon Dating on Old World Archaeology](https://dash.harvard.edu/bitstream/handle/1/12211569/3851-3522-1-PB.pdf?sequence=1&isAllowed=y) <br> - [Wolfram MathWorld: Cubic Formula](https://mathworld.wolfram.com/CubicFormula.html)|
 | [7](/clases/07_bucles/) | Bucles | - [cppreference: while loop](https://en.cppreference.com/w/cpp/language/while) <br> - [cppreference: for loop](https://en.cppreference.com/w/cpp/language/for) |
 | 8 | Funciones | - [cppreference: Functions](https://en.cppreference.com/w/cpp/language/functions) <br> - [Microsoft Learn: Functions (C++)](https://learn.microsoft.com/en-us/cpp/cpp/functions-cpp?view=msvc-170) <br> |
-| 9 | Sesión de problemas | - Clases 7 y 8. <br> - [Hasbro: Yahtzee](https://www.hasbro.com/common/instruct/Yahtzee_2004_Spanish.pdf) <br> - [David Barina: Convergence Verification of the Collatz problem](https://link.springer.com/article/10.1007/s11227-020-03368-x) <br> - [Wolfram MathWorld: Pi Formulas](https://mathworld.wolfram.com/PiFormulas.html) |
+| [9](/clases/09_sesion_de_problemas/) | Sesión de problemas | - Clases [7](/clases/07_bucles/) y 8. <br> - [Hasbro: Yahtzee](https://www.hasbro.com/common/instruct/Yahtzee_2004_Spanish.pdf) <br> - [David Barina: Convergence Verification of the Collatz problem](https://link.springer.com/article/10.1007/s11227-020-03368-x) <br> - [Wolfram MathWorld: Pi Formulas](https://mathworld.wolfram.com/PiFormulas.html) |
 | 10 | Cadenas | - [cppreference: Strings library](https://en.cppreference.com/w/cpp/string) |
 | 11 | Vectores | - [cppreference: Standard library header &lt;vector&gt;](https://en.cppreference.com/w/cpp/header/vector)|
 | 12 | Sesión de problemas | - Clases 10 y 11. |
