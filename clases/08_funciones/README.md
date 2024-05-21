@@ -23,12 +23,14 @@ Es decir, para todo $a \in A$ existe $b \in B$ tal que $f(a) = b$.
 Es decir, para todo $a_1$ y $a_2$ en $A$, si $a_1 = a_2$ entonces $f(a_1) = f(a_2)$.
 
 Por ejemplo, definamos la función valor absoluto $|\cdot|: \mathbb{R} \to \mathbb{R}$ con
-$$
-|x| = \begin{cases}
-x & \text{si } x \geq 0,\\
--x & \text{si } x < 0.
+
+```math
+|x| =
+\begin{cases}
+    x & \quad \text{si } x \geq 0,\\
+    -x & \quad \text{si } x < 0.
 \end{cases}
-$$
+```
 
 > [!NOTE]
 > La función debe estar definida
@@ -124,3 +126,45 @@ double ValorAbsoluto(double x) {
     }
 }
 ```
+
+## Parámetros por referencia
+ 
+En C++, cuando uno pasa una variable como argumento,
+la función recibe una copia del valor de esta variable al ser llamada.
+Asignar un valor al parámetro de la función cambia a la copia local pero
+no tiene efectos en el argumento original.
+
+Por ejemplo, el siguiente método asigna cero a una variable:
+
+ ```cpp
+ void AsignarCero(int x) {
+    x = 0;
+ }
+ ```
+
+Sin embargo, esta función no tiene efecto alguno en la variable `n`
+
+ ```cpp
+ int n = 1024;
+ AsignarCero(n);
+ ```
+
+pues el parámetro `x` es inicializado con una copia del valor guardado en `n`.
+
+Si quieres cambiar el valor del argumento original,
+tenemos que sustituir la forma usual de un parámetro en C++, **parámetro por valor**,
+por un **parámetro por referencia** añadiendo un et entre el tipo y el nombre
+en la definición de la función.
+
+ ```cpp
+ void AsignarCero(int& x) {
+    x = 0;
+ }
+ ```
+
+En C++, uno de los casos más comunes para realizar llamadas por referencia
+es cuando la función necesita retornar más de un valor.
+Un solo resultado fácilmente puede ser retornado por la función misma.
+Si queremos retornar más de un resultado,
+la manera estándar de resolver esto es convertir la función en un procedimiento
+y pasar los argumentos a través de parámetros por referencia.
