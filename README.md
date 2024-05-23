@@ -58,6 +58,7 @@ Sin embargo, no estaría de más revisar los siguientes recursos:
 la documentación de C++ en [cppreference](https://en.cppreference.com/) y algunos papers relevantes.
 En el cronograma se han especificado los enlaces correspondientes para cada clase.
 Además, se recomiendan dos libros de texto para este curso:
+*Programming: Principles and Practices Using C++, Third Edition* de Bjarne Stroustrup.
 *The C++ Programming Language, Fourth Edition* de Bjarne Stroustrup,
 e *Introduction to Algorithms, Fourth Edition* de Cormen, Leiserson, Rivest y Stein.
 
@@ -81,10 +82,10 @@ Las notas finales del curso serán determinadas usando los siguientes pesos:
 | [6](/clases/06_sesion_de_problemas/) | Sesión de problemas | - Clases [2](/clases/02_hola_mundo/), [3](/clases/03_tipos_variables_operadores_expresiones/), [4](/clases/04_casting_bibliotecas/) y [5](/clases/05_condicionales/). <br> - [Bar-Yosef: The Impact of Radiocarbon Dating on Old World Archaeology](https://dash.harvard.edu/bitstream/handle/1/12211569/3851-3522-1-PB.pdf?sequence=1&isAllowed=y) <br> - [Wolfram MathWorld: Cubic Formula](https://mathworld.wolfram.com/CubicFormula.html)|
 | [7](/clases/07_bucles/) | Bucles | - [cppreference: while loop](https://en.cppreference.com/w/cpp/language/while) <br> - [cppreference: for loop](https://en.cppreference.com/w/cpp/language/for) |
 | [8](/clases/08_funciones/) | Funciones | - [cppreference: Functions](https://en.cppreference.com/w/cpp/language/functions) <br> - [Microsoft Learn: Functions (C++)](https://learn.microsoft.com/en-us/cpp/cpp/functions-cpp?view=msvc-170) <br> |
-| [9](/clases/09_sesion_de_problemas/) | Sesión de problemas | - Clases [7](/clases/07_bucles/) y 8. <br> - [Hasbro: Yahtzee](https://www.hasbro.com/common/instruct/Yahtzee_2004_Spanish.pdf) <br> - [David Barina: Convergence Verification of the Collatz problem](https://link.springer.com/article/10.1007/s11227-020-03368-x) <br> - [Wolfram MathWorld: Pi Formulas](https://mathworld.wolfram.com/PiFormulas.html) |
-| 10 | Cadenas | - [cppreference: Strings library](https://en.cppreference.com/w/cpp/string) |
+| [9](/clases/09_sesion_de_problemas/) | Sesión de problemas | - Clases [7](/clases/07_bucles/) y [8](/clases/08_funciones/). <br> - [Hasbro: Yahtzee](https://www.hasbro.com/common/instruct/Yahtzee_2004_Spanish.pdf) <br> - [David Barina: Convergence Verification of the Collatz problem](https://link.springer.com/article/10.1007/s11227-020-03368-x) <br> - [Wolfram MathWorld: Pi Formulas](https://mathworld.wolfram.com/PiFormulas.html) |
+| [10](/clases/10_cadenas/) | Cadenas | - [cppreference: Strings library](https://en.cppreference.com/w/cpp/string) |
 | 11 | Vectores | - [cppreference: Standard library header &lt;vector&gt;](https://en.cppreference.com/w/cpp/header/vector)|
-| 12 | Sesión de problemas | - Clases 10 y 11. |
+| 12 | Sesión de problemas | - Clases [10](/clases/10_cadenas/) y 11. |
 | 13 | Pilas | - [cppreference: Standard library header &lt;stack&gt;](https://en.cppreference.com/w/cpp/header/stack) |
 | 14 | Colas | - [cppreference: Standard library header &lt;queue&gt;](https://en.cppreference.com/w/cpp/header/queue) |
 | 15 | Sesión de problemas | - Clases 13 y 14. |
