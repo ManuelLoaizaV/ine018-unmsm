@@ -64,10 +64,10 @@ e *Introduction to Algorithms, Fourth Edition* de Cormen, Leiserson, Rivest y St
 
 ## Calificación
 Las notas finales del curso serán determinadas usando los siguientes pesos:
-- 45% Listas de ejercicios
-- 30% Tareas
-- 10% Examen parcial
-- 10% Examen final
+- 40% Listas de ejercicios
+- 20% Examen parcial
+- 20% Examen final
+- 15% Tareas
 - 5% Participación
 
 ## Cronograma
