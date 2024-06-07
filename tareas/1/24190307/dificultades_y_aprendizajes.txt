@@ -1,0 +1,21 @@
+Bueno, el proceso de instalar lo que era el Visual Studio Code lo hice hace algún tiempo cuando le 
+pregunté donde debía de codear o aprender a codear. 
+
+En ese tiempo, cuando lo instalé, la mayor dificultad que encontré fue el hecho de que por alguna 
+razón siempre me marcaba error, pasé mucho tiempo tratando de averiguar el por qué de ello hasta que 
+me di cuenta de que todo era culpa del Antivirus xd y que debía desactivarlo para ejecutar mi programa
+(de verdad no tenía idea de que ello influenciara/bloqueara la ejecución de mi código), pero pues, 
+al final sí lo conseguí, con ayuda de otras extensiones incluso. 
+
+Ahora, volviendo al presente, me puse el reto de experimentar y probar lo que era Linux y todo lo 
+relacionado a ello, y vaya que se me dificultó. Al menos ya estoy aprendiendo como se utiliza Ubuntu
+e incluso los terminales ya sea de Windows como de Ubuntu. Es más, el código lo intenté compilar
+desde la terminal y me salió :D (Ya no fue necesario desactivar el Antivirus xd).
+
+Mas allá de ello, pues lo de utilizar git se me dificulta mucho, pero con el tiempo sé que aprenderé 
+mucho acerca de ello y su utilidad :,
+
+Tengo en claro que aprendí cosas interesantes gracias a esta tarea y me esforcé en comprender 
+lo máximo posible de todos los datos que pude investigar. :3
+
+Relmente espero haber hecho la tarea de la forma indicada ^^
