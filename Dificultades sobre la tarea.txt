@@ -1,6 +1,0 @@
-¿Qué dificultades tuve y que aprendí en el proceso de completar la tarea?
-
-Las principales dificultades que tuve fue entender el programa de Visual Studio Code; no comprendía que para cada programa debía instalar una extensión para poder ejecutarlo. Sin duda Visual Studio Code otorga una diversidad de ejecutables y con la ayuda del IntelliSense es mucho más fácil ver los errores y recomendaciones que debería completar el código. 
-Otra dificultad fue entender sobre el uso del Github, en mi poco conocimiento creía que era una herramienta solo para la presentación de documentos mas no de presentar tareas ni subir archivos. Para subir los cambios en la tarea y el uso de “commits” se siente algo tedioso, pero igualmente con un poco de practica es entendible.
-Lo que aprendí en el proceso de la tarea son nuevos programas que me amplían varios recursos para poder programar de una manera mas eficiente y ordenada con el uso de aplicativos que mejoran el código.
-En general, fue un proceso un poco complicado sin embargo me lleno de conocimientos con estos nuevos programas.
