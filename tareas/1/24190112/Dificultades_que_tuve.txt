@@ -1,0 +1,7 @@
+¿Qué dificultades y aprendizajes tuve?
+- Con Visual Studio Code: Diría que la principal dificultad fue modificar el espacio de trabajo, añadiendo las extensiones para C++ y
+un compilador para C++ que añadí por cuenta propia. Los nuevos aprendizajes es que con Visual Studio Code se puede programar más facil
+pues con el sistema IntelliSense que tiene ayuda bastante.
+- Con Github: Las dificultades es en entender las ramas y mandar a la raíz principal, los archivos eliminados y demás problemas que
+se me presentaron. Sobre los aprendizajes diría que el conocer esta nueva herramienta de trabajo resulta muy importante para el
+trabajo con distintos programadores que pueden ayudar a mejorar nuestros codigos.
