@@ -1,0 +1,16 @@
+Bueno, durante el proceso descarga del programa no tuve mucho problema. Quizás podría 
+consierar que, al instalar el VSCode, olvidé instalar el la extensión de C++, por lo que
+no me aparecía el C++ en el buscador del VSCode cuando lo iba a probar y pensé que 
+había hecho algo mal.
+
+El problema fue al descargar el compilador, no porque haya sido un proceso complicado 
+en sí mismo, sino porque no reconocía los programas que se mostraban en el vídeo, por lo
+que tuve que tantear de acuerdo a los íconos para saber cuál era el que necesitaba.
+Otro problema que tuve con el compilador fue que, al momento de buscar el archivo "bin"
+en el Path, no encontraba el archivo "msys64" en el sitio en el que se suponía que 
+debería estar (según el vídeo: "Disco local"), así que por un momento me desesperé 
+porque pensé que había movido algo y tendría que hacer una búsqueda exhaustiva, 
+pero no estaba muy lejos, al final lo encontré en "SISTEMA".
+
+Lo que más se me complicó fue subir esto al GitHub, pero conseguí hacerlo mirando 
+algunos tutoriales y ahora entiendo conceptos que antes ni siquiera conocía.
