@@ -1,0 +1,19 @@
+DIFICULTADES Y APRENDIZAJES:
+
+-Uso del github: La primera vez que entré a un repositorio todo me pareció confuso, puesto que habian demasiadas opciones que desconocía, 
+al principio asustaba el hecho que tenia que realizar los trabajos acá, sin embargo, cuando me propuse a realizar esta actividad investigué 
+acerca de los forks y como servian , además del por qué es importante github (es una herramienta de suma importancia para realizar trabajos
+cooperativamente). Cuando quise crear una carpeta sin querer creé un archivo con mi codigo, y despues estaba intentando crear una nueva 
+carpeta con el mismo nombre, pero no me dejaba, estuve como 20 minutos investigando la razon, y me di cuenta de que era por que tenian el 
+nombre, quise eliminarlo pero por alguna razon no se borraba, despues estuve otro buen rato viendo el por qué y aprendí que con cada 
+modificación que hagas tienes que hacer un commit, asi sea para borrar un archivo. En internet hay mucha informacion al respecto y es
+atractivo aprender estas cosas pues facilitan los trabajos y hacen que se mejore el ambiente de estudio.
+
+-Uso del VSCode: Al intalarlo junto con el compilador no tenia ni idea como incluirlos, tuve que ver un tutorial en youtube para aprender,
+ademas fue divertido el hecho de poder configurar el espacio de trabajo con este programa, hace que todo sea mas personal. Aprendí también
+a como compilar y como funcionan algunas herramientas, pero soy conciente que no es nada comparado a lo que este programa puede ofrecer,
+asi que pienso seguir viendo y aprendiendo a usarlo, yo estaba acostumbrado al uso de replit que era mas sencillo creo yo jaja.
+
+-Codigo fuente: El codigo fuente en esta carpeta es un codigo que realicé hace poco más de una semana para afianzar los conocimientos de los
+temas vistos en clase, fue un reto que pude encontrar en un curso por internet y la verdad a sido de gran ayuda para poder complementar
+e implementar cada conocimiento. Finalmente pude realizarlo y con una gran satisfaccion me ha ayudado bastante.
