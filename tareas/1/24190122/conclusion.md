@@ -1,0 +1,2 @@
+
+Dificulades del codigo
