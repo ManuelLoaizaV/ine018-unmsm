@@ -1,0 +1,1 @@
+Mediante la respectiva tarea tuve la dificultad en cuanto a compilación, puesto que en un principio me salía error, además de que no tenía idea alguno de qué hacer para subir la tarea al GITHUB. Sin embargo, con ayuda de mis compañeras logré entender cómo solucionar el problema y pude comprender de mejor forma el VSCODE y el GITHUB y algunas de sus diferentes funciones.
