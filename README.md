@@ -84,24 +84,25 @@ Las notas finales del curso serán determinadas usando los siguientes pesos:
 | [8](/clases/08_funciones/) | Funciones | - [cppreference: Functions](https://en.cppreference.com/w/cpp/language/functions) <br> - [Microsoft Learn: Functions (C++)](https://learn.microsoft.com/en-us/cpp/cpp/functions-cpp?view=msvc-170) <br> |
 | [9](/clases/09_sesion_de_problemas/) | Sesión de problemas | - Clases [7](/clases/07_bucles/) y [8](/clases/08_funciones/). <br> - [Hasbro: Yahtzee](https://www.hasbro.com/common/instruct/Yahtzee_2004_Spanish.pdf) <br> - [David Barina: Convergence Verification of the Collatz problem](https://link.springer.com/article/10.1007/s11227-020-03368-x) <br> - [Wolfram MathWorld: Pi Formulas](https://mathworld.wolfram.com/PiFormulas.html) |
 | [10](/clases/10_cadenas/) | Cadenas | - [cppreference: Strings library](https://en.cppreference.com/w/cpp/string) |
-| 11 | Vectores | - [cppreference: Standard library header &lt;vector&gt;](https://en.cppreference.com/w/cpp/header/vector)|
-| 12 | Sesión de problemas | - Clases [10](/clases/10_cadenas/) y 11. |
-| 13 | Pilas | - [cppreference: Standard library header &lt;stack&gt;](https://en.cppreference.com/w/cpp/header/stack) |
-| 14 | Colas | - [cppreference: Standard library header &lt;queue&gt;](https://en.cppreference.com/w/cpp/header/queue) |
-| 15 | Sesión de problemas | - Clases 13 y 14. |
-| 16 | - Sets <br> - Multisets | - [cppreference: Standard library header &lt;set&gt;](https://en.cppreference.com/w/cpp/header/set)|
-| 17 | - Maps <br> - Hash tables | - [cppreference: Standard library header &lt;map&gt;](https://en.cppreference.com/w/cpp/header/map) <br> - [cppreference: Standard library header &lt;unordered_map&gt;](https://en.cppreference.com/w/cpp/header/unordered_map) |
-| 18 | Sesión de problemas | - Clases 16 y 17. |
-| 19 | - Estructuras <br> - Clases | - [cppreference: Struct declaration](https://en.cppreference.com/w/c/language/struct) <br> - [cppreference: Classes](https://en.cppreference.com/w/cpp/language/classes) |
-| 20 | - Sobrecarga de operadores <br> - Herencia | - [cppreference: Operator overloading in C++](https://en.cppreference.com/book/intro/operator_overloading) <br> - [Microsoft Learn: Inheritance (C++)](https://learn.microsoft.com/en-us/cpp/cpp/inheritance-cpp?view=msvc-170) |
-| 21 | Sesión de problemas | - Clases 19 y 20. |
-| 22 | Recursión | - [Scholand, Graf, Mackner, Holme, Uecker: Rational Approximation of Golden Angles for Simple and Reproducible Radial Sampling](https://arxiv.org/pdf/2401.02892v1) <br> - [Zhao, Dong, Chang, Xu: Recursive Cascaded Networks for Unsupervised Medical Image Registration](https://arxiv.org/pdf/1907.12353) <br> - [Pham, Musielak: Spectra of Reduced Fractals and Their Applications in Biology](https://arxiv.org/pdf/2111.01719)|
-| 23 | Backtracking | - [Robison, Hafner, Skiena: Computer Games: Eight Pieces Cannot Cover a Chess Board](https://academic.oup.com/comjnl/article/32/6/567/341699) <br> - [Jain, Mizutani, Sullivan: Faster Decomposition of Weighted Graphs into Cliques using Fisher’s Inequality](https://arxiv.org/pdf/2206.07286) <br> - [Pootheri, Govindan: Localisation of Mammographic masses by Greedy Backtracking of Activations in the Stacked Auto-Encoders](https://arxiv.org/pdf/2305.05136)|
-| 24 | Algoritmos | - [Donald E. Knuth: Big Omicron and big Omega and big Theta](https://dl.acm.org/doi/10.1145/1008328.1008329) <br> - [Juraj Hromkovič: Algorithmic adventures: from knowledge to magic](https://archive.org/details/algorithmicadven0000hrom/) <br> - [Google Research: Nearly All Binary Searches and Mergesorts are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/) <br> - [Censor, Schubert, Schulte: Developments in Mathematical Algorithms and Computational Tools for Proton CT and Particle Therapy Treatment Planning](https://arxiv.org/pdf/2108.09459)|
+| 11 | Repaso | |
+| 12 | Examen parcial | |
+| 13 | Vectores | - [cppreference: Standard library header &lt;vector&gt;](https://en.cppreference.com/w/cpp/header/vector)|
+| 14 | Sesión de problemas | - Clases [10](/clases/10_cadenas/) y 13. |
+| 15 | Pilas | - [cppreference: Standard library header &lt;stack&gt;](https://en.cppreference.com/w/cpp/header/stack) |
+| 16 | Colas | - [cppreference: Standard library header &lt;queue&gt;](https://en.cppreference.com/w/cpp/header/queue) |
+| 17 | Sesión de problemas | - Clases 15 y 16. |
+| 18 | - Sets <br> - Multisets | - [cppreference: Standard library header &lt;set&gt;](https://en.cppreference.com/w/cpp/header/set)|
+| 19 | - Maps <br> - Hash tables | - [cppreference: Standard library header &lt;map&gt;](https://en.cppreference.com/w/cpp/header/map) <br> - [cppreference: Standard library header &lt;unordered_map&gt;](https://en.cppreference.com/w/cpp/header/unordered_map) |
+| 20 | Sesión de problemas | - Clases 18 y 19. |
+| 21 | Recursión | - [Scholand, Graf, Mackner, Holme, Uecker: Rational Approximation of Golden Angles for Simple and Reproducible Radial Sampling](https://arxiv.org/pdf/2401.02892v1) <br> - [Zhao, Dong, Chang, Xu: Recursive Cascaded Networks for Unsupervised Medical Image Registration](https://arxiv.org/pdf/1907.12353) <br> - [Pham, Musielak: Spectra of Reduced Fractals and Their Applications in Biology](https://arxiv.org/pdf/2111.01719)|
+| 22 | Algoritmos | - [Donald E. Knuth: Big Omicron and big Omega and big Theta](https://dl.acm.org/doi/10.1145/1008328.1008329) <br> - [Juraj Hromkovič: Algorithmic adventures: from knowledge to magic](https://archive.org/details/algorithmicadven0000hrom/) <br> - [Google Research: Nearly All Binary Searches and Mergesorts are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/) <br> - [Censor, Schubert, Schulte: Developments in Mathematical Algorithms and Computational Tools for Proton CT and Particle Therapy Treatment Planning](https://arxiv.org/pdf/2108.09459)|
+| 23 | Repaso | |
+| 24 | Examen final | |
 
 ## Organización de las carpetas
 - `clases` - contiene las notas de clase y el código desarrollado durante estas.
 - `ejercicios` - contiene las soluciones de las listas de ejercicios del curso.
+- `examenes` - contiene los enunciados y soluciones de los exámenes parciales y finales del curso.
 - `tareas` - contiene los enunciados de las tareas del curso.
 
 ## Nota aclaratoria sobre el nombre del curso
@@ -118,3 +119,8 @@ La asignatura tiene por finalidad desarrollar las capacidades para
 comprender estructuras de datos y algoritmos, y usar un lenguaje de programación imperativo
 para la solución de un problema de ingeniería:
 formulación, especificación, diseño, implantación, prueba, documentación y evaluación.
+
+<!-- | 19 | - Estructuras <br> - Clases | - [cppreference: Struct declaration](https://en.cppreference.com/w/c/language/struct) <br> - [cppreference: Classes](https://en.cppreference.com/w/cpp/language/classes) |
+| 20 | - Sobrecarga de operadores <br> - Herencia | - [cppreference: Operator overloading in C++](https://en.cppreference.com/book/intro/operator_overloading) <br> - [Microsoft Learn: Inheritance (C++)](https://learn.microsoft.com/en-us/cpp/cpp/inheritance-cpp?view=msvc-170) |
+| 21 | Sesión de problemas | - Clases 19 y 20. |
+| 23 | Backtracking | - [Robison, Hafner, Skiena: Computer Games: Eight Pieces Cannot Cover a Chess Board](https://academic.oup.com/comjnl/article/32/6/567/341699) <br> - [Jain, Mizutani, Sullivan: Faster Decomposition of Weighted Graphs into Cliques using Fisher’s Inequality](https://arxiv.org/pdf/2206.07286) <br> - [Pootheri, Govindan: Localisation of Mammographic masses by Greedy Backtracking of Activations in the Stacked Auto-Encoders](https://arxiv.org/pdf/2305.05136)|-->
