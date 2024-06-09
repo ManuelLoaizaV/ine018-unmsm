@@ -1,0 +1,11 @@
+##Dificultades y problemas:
+fue un largo proceso ya que no sabia como instalar el mingw64 muy aparte de saber si la ejecucion era exitosa
+otro problema fue que una ves en vs code no corria el compilador use el c++ compiler y aun asi me salia errror de compilacion
+use el code runner y me facilitaba mejor y si se pudo de esa forma
+al crear el fork en github me olvide que se tenia que crear una carpeta
+
+##aprendizaje
+si lo dejaba a medias muy problablemente aparte del estres me iba a quedar ahi no mas, empece a ver tutoriales y conforme a eso
+me pude adaptar mejor, fui constante ya que queria hacerlo lo mas antes posible y no acumular mis trabajos y por fin se pudo, fue largo
+pero se pudo llegar al resultado, como dice la frase todos los caminos llevan a Roma, me ayudo esa frase y mi constancia de no quedarme estancado 
+si no ver soluciones.
