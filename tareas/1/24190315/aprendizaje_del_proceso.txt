@@ -1,0 +1,11 @@
+Durante el proceso que realicé la tarea no tuve ningún inconveniente en cuanto a las instalaciones 
+ya que las guías y tutoriales fueron muy claras, he aquí la importancia de contar con recursos 
+confiables y detallados. Luego de las instalaciones, tuve varios tropiezos: 
+al crear un fork, por más sencillo que era este paso, tuve inconvenientes de ubicarlo y eso sucedió 
+porque no estaba familiarizado con la interfaz del GitHub, después busqué información para usar el 
+GitHub Desktop correctamente. Este paso fue sencillo y me permitió clonar el 
+repositorio y ejecutar los commits. El último paso es donde tuve mayor dificultad, tenía que ejecutar 
+mí código en el VSCode y me arrojaba error, no porque estaba mal el código sino porque estaba escribiendo  
+de manera errónea la ruta de acceso, esto demuestra lo importante que es la precisión. Finalmente me llevo 
+un grandioso aprendizaje, al realizar la tarea con éxito adquirí conocimientos en el manejo de estas 
+herramientas con mi capacidad de resolución de problemas, paciencia y perseverancia.
