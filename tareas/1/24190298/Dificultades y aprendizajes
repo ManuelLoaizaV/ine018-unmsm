@@ -1,0 +1,15 @@
+Mis dificultades y aprendizajes:
+
+En primer lugar, yo trabajaba todo en Windows, sin embargo me pareció un buen reto el de pasarme a Linux y desarrollar las tareas en ese sistema por lo que opté
+por intentar hacer una instalación dual-boot y lo logré. Sentí que todo en Linux era distinto y un tanto más complejo pero fue una buena forma de aprender más.
+
+Visual Studio Code:
+	Las dificultades que tuve en un principio fue encontrar cómo instalarle un compilador en ubuntu y tuve que leer bastante documentación para poder 
+	comprender cómo funciona todo en Linux, al fin y al cabo si pude instalar gcc desde mi terminal y logré abrir el compilador en Vscode. Sin embargo, luego
+	tuve otro problema, para poder compilar y ejecutar el código que implementé como prueba, me negaba el permiso al archivo. AL final, aprendí bastante; 
+	relacioné los comandos que encontré para poder compilar, con las demostraciones que en la clase se daban (ejemplo: ./<archivo>) y comprendí otras 
+	funciones de la terminal en ubuntu.
+
+GitHub:
+	Las dificultades que encontré fue que la plataforma misma se me hacía algo compleja de comprender, no entendía conceptos de "fork" o "commit" pero luego
+	de leer GitHub Docs y explorar entre otras funcionalidades, pude entender cada vez más de que iba todo.
