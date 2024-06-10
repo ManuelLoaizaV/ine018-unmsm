@@ -1,1 +1,5 @@
+Dificultades : 
+Instalar Visual Studio Code y configurar el entorno para C++ fue complicado. Tuve problemas añadiendo Mingw-w64 al PATH de mi PC, lo que impedía que se pueda compilar, finalmente se pudo compilar con éxito. 
 
+Aprendizaje : 
+Aprendí mucho sobre Visual Studio Code durante este proceso. Descubrí la importancia de las extensiones y que facilitó la compilación y ejecución de mi código en C++. 
