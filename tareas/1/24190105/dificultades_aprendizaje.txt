@@ -1,0 +1,16 @@
+*Ejecución*: Al momento de querer ejecutar mi código en visual studio code no me permitía, me pedían completar la configuración del "launch.json" y 
+tuve que investigar por mi cuenta para poder configurarlo y me puse a leer esta guía para poder depurar en VSC: https://code.visualstudio.com/docs/editor/debugging#_launch-configurations. 
+Luego de muchos intentos fallidos, tuve que optar por otros métodos y me puse a ver diferentes videos para encontrar mi error. Instalé el compilador 
+"Mingw" y las extensiones de C++ para VSC, pero a pesar de eso me seguía apareciendo para configurar el "launch.json". Incluso opté por desinstalar
+VSC, lo hice y a pesar de eso me salía lo mismo, más de 3 horas intentando. Al final me encontré con un video que dio solución a mi problema, lo
+único que tenía que hacer era ir a "terminal" > "ejecutar tarea  de compilación" o "Ctrl+Mayus+B" > y ejecutar el comando " ./(nombre de mi archivo cpp) 
+y se ejecutaba mi código correctamente. 
+Disculpar mi ignorancia en este tema, no estoy acostumbrada a usar VSC suelo utilizar Replit el cual se me hace más accesible. 
+
+*Git-hub*: Al momento de hacer mi fork no sabía qué era lo que continuaba, vi algunos videos de youtube para poder saber utilizar este programa y 
+entender en qué consistía, pude entenderlo y se me hizo muy accesible e interesante, te permite modificar los repositorios que desees y de esta 
+manera aprender de ellos. 
+
+Al final no tuve que configurar el "launch.json" sin embargo me causa curiosidad poder aprender a utilizarlo, espero en un futuro cercano poder 
+configurarlo correctamente:) 
+Con ello concluyo mis dificultades y aprendizajes para esta tarea, muchas gracias. 

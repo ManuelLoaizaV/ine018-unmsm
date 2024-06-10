@@ -1,0 +1,7 @@
+DIFICULTADES
+Al realizar la configuración de mi entorno tuve muchas dificultades. En primer lugar, no podía añadir al path la dirección de los archivos del compilador. Luego, no podía compilar mi codigo en VScode. Por último, no entendía muy bien cómo lograr mi pull request correctamente. Sim embargo, puede superar todas estas dificultades buscando información en internet y preguntando a compañeras que ya habían logrado la tarea.
+
+
+
+APRENDIZAJES
+Aprendí qué es VScode y cómo agregar todas las extensiones necesarias para su uso. También aprendí a colaborar en un repositorio en Github, usando el github desktop.
