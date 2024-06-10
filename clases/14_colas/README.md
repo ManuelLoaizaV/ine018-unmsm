@@ -19,7 +19,7 @@ de la cola, el cual es tradicionalmente llamado **cola**.
 La operación **desencolar** elimina un elemento al inicio
 de la cola, el cual es tradicionalmente llamado **cabeza**.
 
-<!-- añadir imagen -->
+![Cola](https://miro.medium.com/v2/resize:fit:720/1*DRW4lVeUoIc2qS6Wel4Caw.png)
 
 Como debes esperar por el hecho de que los modelos son similares,
 la estructura de la clase `queue` es casi la misma
@@ -33,5 +33,3 @@ que su contraparte `stack`.
 | `pop()` | Elimina un elemento de la cabeza de la cola. |
 | `front()` | Retorna el valor en la cabeza de la cola sin eliminarlo. |
 | `clear()` | Elimina todos los elementos de la cola. |
-
-<!-- añadir aplicaciones -->
