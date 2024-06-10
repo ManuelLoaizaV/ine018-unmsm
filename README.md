@@ -120,7 +120,7 @@ comprender estructuras de datos y algoritmos, y usar un lenguaje de programació
 para la solución de un problema de ingeniería:
 formulación, especificación, diseño, implantación, prueba, documentación y evaluación.
 
-<!-- | 19 | - Estructuras <br> - Clases | - [cppreference: Struct declaration](https://en.cppreference.com/w/c/language/struct) <br> - [cppreference: Classes](https://en.cppreference.com/w/cpp/language/classes) |
-| 20 | - Sobrecarga de operadores <br> - Herencia | - [cppreference: Operator overloading in C++](https://en.cppreference.com/book/intro/operator_overloading) <br> - [Microsoft Learn: Inheritance (C++)](https://learn.microsoft.com/en-us/cpp/cpp/inheritance-cpp?view=msvc-170) |
-| 21 | Sesión de problemas | - Clases 19 y 20. |
-| 23 | Backtracking | - [Robison, Hafner, Skiena: Computer Games: Eight Pieces Cannot Cover a Chess Board](https://academic.oup.com/comjnl/article/32/6/567/341699) <br> - [Jain, Mizutani, Sullivan: Faster Decomposition of Weighted Graphs into Cliques using Fisher’s Inequality](https://arxiv.org/pdf/2206.07286) <br> - [Pootheri, Govindan: Localisation of Mammographic masses by Greedy Backtracking of Activations in the Stacked Auto-Encoders](https://arxiv.org/pdf/2305.05136)|-->
+<!-- | 19 | - Estructuras <br> - Clases | - [cppreference: Struct declaration](https://en.cppreference.com/w/c/language/struct) <br> - [cppreference: Classes](https://en.cppreference.com/w/cpp/language/classes) | -->
+<!-- | 20 | - Sobrecarga de operadores <br> - Herencia | - [cppreference: Operator overloading in C++](https://en.cppreference.com/book/intro/operator_overloading) <br> - [Microsoft Learn: Inheritance (C++)](https://learn.microsoft.com/en-us/cpp/cpp/inheritance-cpp?view=msvc-170) | -->
+<!-- | 21 | Sesión de problemas | - Clases 19 y 20. | -->
+<!-- | 23 | Backtracking | - [Robison, Hafner, Skiena: Computer Games: Eight Pieces Cannot Cover a Chess Board](https://academic.oup.com/comjnl/article/32/6/567/341699) <br> - [Jain, Mizutani, Sullivan: Faster Decomposition of Weighted Graphs into Cliques using Fisher’s Inequality](https://arxiv.org/pdf/2206.07286) <br> - [Pootheri, Govindan: Localisation of Mammographic masses by Greedy Backtracking of Activations in the Stacked Auto-Encoders](https://arxiv.org/pdf/2305.05136)| -->
