@@ -1,4 +1,5 @@
 #include<iostream>
+#include<iomanip>
 using namespace std;
 
 int main(void) {
@@ -13,6 +14,6 @@ int main(void) {
   }
    float media_armonica = n / suma_armonica;
 
-   cout << "La media armónica de los "<< n << " primeros términos es: " << media_armonica << endl;
+   cout << "La media armónica de los "<< n << " primeros términos es: " << fixed << setprecision(5) << media_armonica << endl;
   return 0;
 }
