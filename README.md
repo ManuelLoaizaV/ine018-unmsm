@@ -57,7 +57,7 @@ No es necesaria, ya que todo se aprenderá en clase.
 Sin embargo, no estaría de más revisar los siguientes recursos:
 la documentación de C++ en [cppreference](https://en.cppreference.com/) y algunos papers relevantes.
 En el cronograma se han especificado los enlaces correspondientes para cada clase.
-Además, se recomiendan dos libros de texto para este curso:
+Además, se recomiendan tres libros para este curso:
 *Programming: Principles and Practices Using C++, Third Edition* de Bjarne Stroustrup.
 *The C++ Programming Language, Fourth Edition* de Bjarne Stroustrup,
 e *Introduction to Algorithms, Fourth Edition* de Cormen, Leiserson, Rivest y Stein.
@@ -86,16 +86,16 @@ Las notas finales del curso serán determinadas usando los siguientes pesos:
 | [10](/clases/10_cadenas/) | Cadenas | - [cppreference: Strings library](https://en.cppreference.com/w/cpp/string) |
 | 11 | Repaso | |
 | 12 | Examen parcial | |
-| 13 | Vectores | - [cppreference: Standard library header &lt;vector&gt;](https://en.cppreference.com/w/cpp/header/vector)|
-| 14 | Sesión de problemas | - Clases [10](/clases/10_cadenas/) y 13. |
-| 15 | Pilas | - [cppreference: Standard library header &lt;stack&gt;](https://en.cppreference.com/w/cpp/header/stack) |
-| 16 | Colas | - [cppreference: Standard library header &lt;queue&gt;](https://en.cppreference.com/w/cpp/header/queue) |
-| 17 | Sesión de problemas | - Clases 15 y 16. |
-| 18 | - Sets <br> - Multisets | - [cppreference: Standard library header &lt;set&gt;](https://en.cppreference.com/w/cpp/header/set)|
-| 19 | - Maps <br> - Hash tables | - [cppreference: Standard library header &lt;map&gt;](https://en.cppreference.com/w/cpp/header/map) <br> - [cppreference: Standard library header &lt;unordered_map&gt;](https://en.cppreference.com/w/cpp/header/unordered_map) |
-| 20 | Sesión de problemas | - Clases 18 y 19. |
-| 21 | Recursión | - [Scholand, Graf, Mackner, Holme, Uecker: Rational Approximation of Golden Angles for Simple and Reproducible Radial Sampling](https://arxiv.org/pdf/2401.02892v1) <br> - [Zhao, Dong, Chang, Xu: Recursive Cascaded Networks for Unsupervised Medical Image Registration](https://arxiv.org/pdf/1907.12353) <br> - [Pham, Musielak: Spectra of Reduced Fractals and Their Applications in Biology](https://arxiv.org/pdf/2111.01719)|
-| 22 | Algoritmos | - [Donald E. Knuth: Big Omicron and big Omega and big Theta](https://dl.acm.org/doi/10.1145/1008328.1008329) <br> - [Juraj Hromkovič: Algorithmic adventures: from knowledge to magic](https://archive.org/details/algorithmicadven0000hrom/) <br> - [Google Research: Nearly All Binary Searches and Mergesorts are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/) <br> - [Censor, Schubert, Schulte: Developments in Mathematical Algorithms and Computational Tools for Proton CT and Particle Therapy Treatment Planning](https://arxiv.org/pdf/2108.09459)|
+| [13](/clases/13_vectores/) | Vectores | - [cppreference: Standard library header &lt;vector&gt;](https://en.cppreference.com/w/cpp/header/vector)|
+| [14](/clases/14_sesion_de_problemas/) | Sesión de problemas | - Clases [10](/clases/10_cadenas/) y [13](/clases/13_vectores/). |
+| [15](/clases/15_pilas/) | Pilas | - [cppreference: Standard library header &lt;stack&gt;](https://en.cppreference.com/w/cpp/header/stack) |
+| [16](/clases/16_colas/) | Colas | - [cppreference: Standard library header &lt;queue&gt;](https://en.cppreference.com/w/cpp/header/queue) |
+| [17](/clases/17_sesion_de_problemas/) | Sesión de problemas | - Clases [15](/clases/15_pilas/) y [16](/clases/16_colas/). |
+| [18](/clases/18_sets/) | - Sets <br> - Multisets | - [cppreference: Standard library header &lt;set&gt;](https://en.cppreference.com/w/cpp/header/set)|
+| [19](/clases/19_maps_hash_tables/) | - Maps <br> - Hash tables | - [cppreference: Standard library header &lt;map&gt;](https://en.cppreference.com/w/cpp/header/map) <br> - [cppreference: Standard library header &lt;unordered_map&gt;](https://en.cppreference.com/w/cpp/header/unordered_map) |
+| [20](/clases/20_sesion_de_problemas/) | Sesión de problemas | - Clases [18](/clases/18_sets/) y [19](/clases/19_maps_hash_tables/). |
+| [21](/clases/21_recursion/) | Recursión | - [Zhao, Dong, Chang, Xu: Recursive Cascaded Networks for Unsupervised Medical Image Registration](https://arxiv.org/pdf/1907.12353) <br> - [Pham, Musielak: Spectra of Reduced Fractals and Their Applications in Biology](https://arxiv.org/pdf/2111.01719)|
+| [22](/clases/22_algoritmos/) | Algoritmos | - [Donald E. Knuth: Big Omicron and big Omega and big Theta](https://dl.acm.org/doi/10.1145/1008328.1008329) <br> - [Juraj Hromkovič: Algorithmic adventures: from knowledge to magic](https://archive.org/details/algorithmicadven0000hrom/) <br> - [Google Research: Nearly All Binary Searches and Mergesorts are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/) <br> - [Censor, Schubert, Schulte: Developments in Mathematical Algorithms and Computational Tools for Proton CT and Particle Therapy Treatment Planning](https://arxiv.org/pdf/2108.09459)|
 | 23 | Repaso | |
 | 24 | Examen final | |
 
