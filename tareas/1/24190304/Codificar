@@ -1,0 +1,16 @@
+#include<iostream>
+
+using namespace std;
+
+int main() {
+    int edad_mental , edad_cronologica;
+    cout << "Ingrese su edad mental: "; 
+    cin >> edad_mental;
+    cout << "Ingrese su edad cronologica: ";
+    cin >> edad_cronologica;
+//Calcular el cociente intelectual
+       double CI = static_cast<double>(edad_mental * 100) / edad_cronologica;
+    cout << "Su Cociente Intelectual es: " << CI << std::endl;
+
+    return 0;
+}
