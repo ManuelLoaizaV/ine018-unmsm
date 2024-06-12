@@ -25,7 +25,7 @@ Usted está preocupado por otro tipo de cuestiones y desea respuestas a las sigu
 2. ¿Cómo creo un objeto que es instancia de la clase `vector`?
 3. ¿Qué métodos existen en la clase `vector` que implementan su comportamiento abstracto?
 
-## Especificando el tipo de base de un vector
+## Especificando el tipo base de un vector
 
 En C++, el tipo de objetos que contendrá una colección se tiene que especificar
 incluyendo el nombre del tipo entre cocodrilos luego del nombre de la clase.
@@ -35,12 +35,13 @@ y `vector<string>` especifica un vector en el cual los elementos son cadenas.
 El tipo encerrado entre cocodrilos es llamado el **tipo base** de la colección.
 
 Las clases que requieren una especificación del tipo base se llaman **clases parametrizadas**.
-En C++, estas clases parametrizadas son llamadas **templates**, por lo que el compilador
-trata a `vector<int>` y `vector<char>` como clases independientes que comparten una estructura común.
+En C++, estas clases parametrizadas son llamadas **templates**.
+Debido a esto, el compilador trata a `vector<int>` y `vector<char>`
+como clases independientes que comparten una estructura común.
 El nombre `vector` actúa como una plantilla para una familia de clases en donde
 la única diferencia es el tipo de valor que el vector contiene.
 Por ahora solo debes entender cómo usar estas plantillas
-y no cómo implementar una.
+y no cómo implementarlas.
 
 ## Declarando un objeto vector
 Parte de la filosofía detrás de las estructuras de datos
