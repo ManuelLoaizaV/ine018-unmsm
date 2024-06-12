@@ -9,9 +9,7 @@ la cual es el promedio tradicional.
 Para la distribución,
 $x_1, x_2, \dots, x_n$,
 la media suele ser representada como
-$$
-\overline{x} = \frac{\sum_{i=1}^n x_i}{n}.
-$$.
+$$\overline{x} = \frac{\sum_{i=1}^n x_i}{n}.$$
 Escriba una función
 ```cpp
 long double Media(vector<long double>& datos)
