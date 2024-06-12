@@ -3,7 +3,7 @@
 > And the first one now<br>
 > Will later be last<br>
 > For the times they are a-changin'<br>
-> -- Bob Dylan, 1963
+> *Bob Dylan, 1963*
 
 Inspirándonos en la canción
 The Times They Are A-Changin'
