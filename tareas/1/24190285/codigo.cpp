@@ -7,6 +7,6 @@ int main(){
     cout<<"Ingrese el segundo valor: ";
     cin>>b;
     suma=a+b;
-    cout<<"La suma es: "<<endl;
+    cout<<"La suma es: "<<suma<<endl;
     return 0;
 }
