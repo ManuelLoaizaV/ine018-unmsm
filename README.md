@@ -91,8 +91,8 @@ Las notas finales del curso serán determinadas usando los siguientes pesos:
 | [15](/clases/15_pilas/) | Pilas | - [cppreference: Standard library header &lt;stack&gt;](https://en.cppreference.com/w/cpp/header/stack) |
 | [16](/clases/16_colas/) | Colas | - [cppreference: Standard library header &lt;queue&gt;](https://en.cppreference.com/w/cpp/header/queue) |
 | [17](/clases/17_sesion_de_problemas/) | Sesión de problemas | - Clases [15](/clases/15_pilas/) y [16](/clases/16_colas/). |
-| [18](/clases/18_sets/) | - Sets <br> - Multisets | - [cppreference: Standard library header &lt;set&gt;](https://en.cppreference.com/w/cpp/header/set)|
-| [19](/clases/19_maps_hash_tables/) | - Maps <br> - Hash tables | - [cppreference: Standard library header &lt;map&gt;](https://en.cppreference.com/w/cpp/header/map) <br> - [cppreference: Standard library header &lt;unordered_map&gt;](https://en.cppreference.com/w/cpp/header/unordered_map) |
+| [18](/clases/18_conjuntos/) | Conjuntos | - [cppreference: Standard library header &lt;set&gt;](https://en.cppreference.com/w/cpp/header/set)|
+| [19](/clases/19_mapas/) | Mapas | - [cppreference: Standard library header &lt;map&gt;](https://en.cppreference.com/w/cpp/header/map) |
 | [20](/clases/20_sesion_de_problemas/) | Sesión de problemas | - Clases [18](/clases/18_sets/) y [19](/clases/19_maps_hash_tables/). |
 | [21](/clases/21_recursion/) | Recursión | - [Zhao, Dong, Chang, Xu: Recursive Cascaded Networks for Unsupervised Medical Image Registration](https://arxiv.org/pdf/1907.12353) <br> - [Pham, Musielak: Spectra of Reduced Fractals and Their Applications in Biology](https://arxiv.org/pdf/2111.01719)|
 | [22](/clases/22_algoritmos/) | Algoritmos | - [Donald E. Knuth: Big Omicron and big Omega and big Theta](https://dl.acm.org/doi/10.1145/1008328.1008329) <br> - [Juraj Hromkovič: Algorithmic adventures: from knowledge to magic](https://archive.org/details/algorithmicadven0000hrom/) <br> - [Google Research: Nearly All Binary Searches and Mergesorts are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/) <br> - [Censor, Schubert, Schulte: Developments in Mathematical Algorithms and Computational Tools for Proton CT and Particle Therapy Treatment Planning](https://arxiv.org/pdf/2108.09459)|
@@ -111,7 +111,7 @@ El nombre del curso podría inducir a confusión, ya que podría implicar que su
 - Computación Científica: ajuste de datos, álgebra lineal numérica, cálculo numérico, optimización, métodos iterativos.
 
 De conformidad con la resolución decanal 000040-2022-D-FIEE/UNMSM,
-el curso *Matemática Computacional* impartido en el ciclo I comprende lo siguiente:
+el curso *Matemática Computacional* impartido en el primer ciclo comprende lo siguiente:
 
 > La asignatura corresponde al área de formación de estudios generales,
 es obligatoria y de naturaleza práctica.
