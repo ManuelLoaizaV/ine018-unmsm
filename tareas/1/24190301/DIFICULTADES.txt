@@ -1,0 +1,5 @@
+Durante la tarea tuve algunas dificultades sobre como instalar bien el compilador porque a pesar de que ya lo tenia instalado no me dejaba compilarlo y nos sabia 
+porque, incluse desintale y volvi a intalar el mingw y el msys2 y aun asi no encontraba solucion, hasta que me di cuenta de que el nombre del archivo tiene que llevar
+el .cpp ya que sin el no deja compilar entonces le agregue el .cpp al nombre del archivo y ahi recien me dejo compilarlo. Fuera de eso con la ayuda del video que esta
+en la misma web de vscode mas algun video tutorial en youtube no se me hizo complicado poder instalar el vscode y el compilador.
+
