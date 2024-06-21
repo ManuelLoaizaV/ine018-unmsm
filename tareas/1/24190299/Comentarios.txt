@@ -1,0 +1,5 @@
+-Ya tenía VS Code instalado en mi pc.
+ No presenté dificultades notorias al instalar el compilador de c++. 
+ Seguí los pasos del tutorial de Microsoft.
+-Aprendí a forkear un repositorio y a hacer un pull request en
+ github para poder subir mi tarea, XD.
