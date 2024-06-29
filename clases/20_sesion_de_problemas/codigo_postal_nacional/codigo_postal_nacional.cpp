@@ -38,7 +38,7 @@ int main(void) {
     }
 
     while (true) {
-        cout << "Ingrese el código o el nombre del distrito: ";
+        cout << "> ";
         string entrada;
         getline(cin, entrada);
         if (EsNumerica(entrada)) {
