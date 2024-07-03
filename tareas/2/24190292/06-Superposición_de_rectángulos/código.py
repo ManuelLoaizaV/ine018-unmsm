@@ -17,4 +17,5 @@ def main():
         print("falso")
     
     
-
+if __name__ == "__main__":
+    main()

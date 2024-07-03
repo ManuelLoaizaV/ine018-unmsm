@@ -27,9 +27,11 @@ for bal in datos_ordenados:
         historigrama[10]+=1
 a=0
 for dat in historigrama:
+    if a < 10:
+        print("0",end="")
     print(a,": ",end=" ")
     for _ in range(dat):
-        print("*",end=" ")
+        print("*",end="")
     print()    
     a+=2
 
