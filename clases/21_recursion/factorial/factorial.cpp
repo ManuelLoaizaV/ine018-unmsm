@@ -11,6 +11,8 @@ long long f(long long n) {
 }
 
 int main(void) {
-    cout << f(6LL) << endl;
+    cout << "3! = " << f(3LL) << endl;
+    cout << "6! = " << f(6LL) << endl;
+    cout << "9! = " << f(9LL) << endl;
     return 0;
 }
