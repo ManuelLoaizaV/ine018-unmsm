@@ -26,6 +26,7 @@ def Salida(archivoRuta,texto):
 
 def main():
     archivoRuta = 'entrada.txt'
+    archivoSalida = 'salida.txt'
     contenido = LeerDocumento(archivoRuta)
     n = ExtraigoNumeros(contenido)
     
@@ -33,7 +34,7 @@ def main():
         texto="Los rectánglos se intersecan? -> verdad"
     else:
         texto="Los rectánglos se intersecan? -> falso"
-    Salida(archivoRuta,texto)
+    Salida(archivoSalida,texto)
 
 if __name__ == "__main__":
     main()
