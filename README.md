@@ -85,7 +85,7 @@ Las notas finales del curso serán determinadas usando los siguientes pesos:
 | [9](/clases/09_sesion_de_problemas/) | Sesión de problemas | - Clases [7](/clases/07_bucles/) y [8](/clases/08_funciones/). <br> - [Hasbro: Yahtzee](https://www.hasbro.com/common/instruct/Yahtzee_2004_Spanish.pdf) <br> - [David Barina: Convergence Verification of the Collatz problem](https://link.springer.com/article/10.1007/s11227-020-03368-x) <br> - [Wolfram MathWorld: Pi Formulas](https://mathworld.wolfram.com/PiFormulas.html) |
 | [10](/clases/10_cadenas/) | Cadenas | - [cppreference: Strings library](https://en.cppreference.com/w/cpp/string) |
 | 11 | Repaso | |
-| 12 | Examen parcial | |
+| [12](/examenes/parciales/) | Examen parcial | |
 | [13](/clases/13_vectores/) | Vectores | - [cppreference: Standard library header &lt;vector&gt;](https://en.cppreference.com/w/cpp/header/vector)|
 | [14](/clases/14_sesion_de_problemas/) | Sesión de problemas | - Clases [10](/clases/10_cadenas/) y [13](/clases/13_vectores/). |
 | [15](/clases/15_pilas/) | Pilas | - [cppreference: Standard library header &lt;stack&gt;](https://en.cppreference.com/w/cpp/header/stack) |
@@ -96,7 +96,7 @@ Las notas finales del curso serán determinadas usando los siguientes pesos:
 | [20](/clases/20_sesion_de_problemas/) | Sesión de problemas | - Clases [18](/clases/18_sets/) y [19](/clases/19_maps_hash_tables/). |
 | [21](/clases/21_recursion/) | Recursión | - [Zhao, Dong, Chang, Xu: Recursive Cascaded Networks for Unsupervised Medical Image Registration](https://arxiv.org/pdf/1907.12353) <br> - [Pham, Musielak: Spectra of Reduced Fractals and Their Applications in Biology](https://arxiv.org/pdf/2111.01719)|
 | [22](/clases/22_algoritmos/) | Algoritmos | - [Donald E. Knuth: Big Omicron and big Omega and big Theta](https://dl.acm.org/doi/10.1145/1008328.1008329) <br> - [Juraj Hromkovič: Algorithmic adventures: from knowledge to magic](https://archive.org/details/algorithmicadven0000hrom/) <br> - [Google Research: Nearly All Binary Searches and Mergesorts are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/) <br> - [Censor, Schubert, Schulte: Developments in Mathematical Algorithms and Computational Tools for Proton CT and Particle Therapy Treatment Planning](https://arxiv.org/pdf/2108.09459)|
-| 23 | Repaso | |
+| [23](/clases/23_sesion_de_problemas/) | Repaso | - Clases [21](/clases/21_recursion/) y [22](/clases/22_algoritmos/). |
 | 24 | Examen final | |
 
 ## Organización de las carpetas
