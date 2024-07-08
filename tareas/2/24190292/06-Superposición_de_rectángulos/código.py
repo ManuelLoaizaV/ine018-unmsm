@@ -27,7 +27,7 @@ def Salida(archivoRuta,texto):
 def main():
     archivoRuta = 'entrada.txt'
     contenido = LeerDocumento(archivoRuta)
-    n = extraigoNumeros(contenido)
+    n = ExtraigoNumeros(contenido)
     
     if superponenrectángulos(n[0],n[1],n[2],n[3],n[4],n[5],n[6],n[7]):
         texto="Los rectánglos se intersecan? -> verdad"
