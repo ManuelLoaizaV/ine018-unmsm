@@ -11,6 +11,10 @@ print("y yo que pensaba que el que codeaba era programador :(")
 ```py
 with open(archivoDeEntrada, 'w', enconding='utf-8') as archivo:
 ```
+5. Puedo encontrar palabras y números gracias a una sintaxis que ayuda a buscar algo más preciso que quieres.
+```py
+numeros=re.findall(r'-?\d+\.?\d*',contenido)
+```
 
 # ¿En qué tuve problemas?
 

@@ -1,4 +1,3 @@
-import re
 def LeerDocumento(archivoEntrada):
     with open(archivoEntrada, 'r',encoding='utf-8') as archivo:
         contenido = archivo.readlines()
