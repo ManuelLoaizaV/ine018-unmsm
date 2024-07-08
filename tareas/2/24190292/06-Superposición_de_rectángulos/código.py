@@ -6,7 +6,7 @@ def LeerDocumento(archivoRuta):
 
 def ExtraigoNumeros(contenido):
     numeros= re.findall(r'-?\d+',contenido)
-    numeros = [int(num) for num in contenido]
+    numeros = [int(num) for num in numeros]
     return numeros
 
 def superponenrectángulos(a,b,alto_1,ancho_1,x,y,alto_2,ancho_2):

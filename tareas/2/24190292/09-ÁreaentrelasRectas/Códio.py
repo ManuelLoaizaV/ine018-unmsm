@@ -1,4 +1,18 @@
+import re
 import math
+def LeerDocumento(archivoEntrada):
+    with open(archivoEntrada, 'r') as archivo:
+        contenido = archivo.read()
+    return contenido
+
+def Extraer(contenido):
+    numeros=re.findall(r'-?\d+\.?\d*',contenido)
+    numeros=[float(num) for num in numeros]
+    return numeros
+
+def Escribir(archivoSalida,texto):
+    with open(archivoSalida, 'w') as archivo:
+        archivo.write(texto)
 
 def absisa_de_interseccion(m1 , b1, m2, b2):
     return ( b2 - b1 )/( m1 - m2 )
@@ -21,11 +35,17 @@ def CalcularAreaEntreLasRectas(m1,  b1, m2,  b2, m3, b3):
     
     p = (distancia1 + distancia2 + distancia3)/2
     area=math.sqrt(p * (p - distancia1) * (p - distancia2) * (p - distancia3))
+
     return area
     
 def main():
-    a=round(CalcularAreaEntreLasRectas(2,3,-1,1,0.5,-4),2)
-    print("el área es : ",a)
-    
+    Entrada = 'entradaAreas.txt'
+    Salida = 'salidaAreas.txt'
+    contenido = LeerDocumento(Entrada)
+    n = Extraer(contenido)
+    m1, b1, m2, b2, m3, b3 = n
+    resultado=round(CalcularAreaEntreLasRectas(m1,b1,m2,b2,m3,b3),2)
+    texto="el área es : " + str(resultado)
+    Escribir(Salida,texto)    
 if __name__ == "__main__":
     main()

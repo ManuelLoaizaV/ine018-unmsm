@@ -1,6 +1,14 @@
-from collections import deque
-a="hHOLAGaaaaAAAA"
-stack="xaA"
+def LeerDocumento(archivoRuta):
+    with open(archivoRuta , 'r') as archivo:
+        contenido = archivo.readlines()
+    cadena=contenido[1].strip()
+    return cadena
+
+def Salidas(archivoRuta,texto):
+    with open(archivoRuta,'w') as archivo:
+        archivo.write(texto)
+        
+
 def esBool(abcd):
     
     for letra in range(len(abcd)):
@@ -9,7 +17,6 @@ def esBool(abcd):
                 return True
     
     return False
-
 
 def cadena_buena(a,stack):
     
@@ -28,7 +35,10 @@ def cadena_buena(a,stack):
         a=stack
     else:
         stack=a
-    print(stack)
- 
-     
-cadena_buena(a,stack)
+    return stack
+
+a=LeerDocumento('EntradaCadenas.txt')
+stack="xaA"
+cade = cadena_buena(a,stack)
+texto= f"Cadena originla: {a}\nCadena convertida a buena: {cade}"
+Salidas('SalidaCadenas.txt',texto)

@@ -1,8 +1,34 @@
-valores_que_deseamos = input()
-valores = valores_que_deseamos.split()
-datos_ordenados= [int(val) for val in valores ]
+import re
+def LeerDocumento(archivoRuta):
+    with open(archivoRuta , 'r') as archivo:
+        contenido = archivo.read()
+    return contenido
+
+def ExtraigoNumeros(contenido):
+    numeros= re.findall(r'-?\d+',contenido)
+    numeros = [int(num) for num in numeros]
+    return numeros
+
+def Salidas(archivoRuta):
+    with open(archivoRuta,'w') as archivo:
+        a=0
+        for dat in historigrama:
+            if a < 10:
+                archivo.write("0")
+            archivo.write(f"{a}: ")
+            for _ in range(dat):
+                archivo.write("*")
+            archivo.write("\n")
+            a+=2
+
+
+Entrada = 'EntradaHist.txt'
+Salida = 'SalidaHist.txt'
+contenido = LeerDocumento(Entrada)
+numeros= ExtraigoNumeros(contenido)
+ 
 historigrama = [0,0,0,0,0,0,0,0,0,0,0]
-for bal in datos_ordenados:
+for bal in numeros:
     if 0<=bal<2: 
         historigrama[0]+=1
     if 2<=bal<4:
@@ -25,13 +51,6 @@ for bal in datos_ordenados:
         historigrama[9]+=1
     if 20 == bal:
         historigrama[10]+=1
-a=0
-for dat in historigrama:
-    if a < 10:
-        print("0",end="")
-    print(a,": ",end=" ")
-    for _ in range(dat):
-        print("*",end="")
-    print()    
-    a+=2
+
+Salidas(Salida)
 

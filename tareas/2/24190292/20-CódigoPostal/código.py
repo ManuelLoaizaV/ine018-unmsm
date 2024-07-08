@@ -1,3 +1,13 @@
+import re
+def LeerDocumento(archivoEntrada):
+    with open(archivoEntrada, 'r',encoding='utf-8') as archivo:
+        contenido = archivo.readlines()
+    return contenido[1]
+
+def Imprimir(archicoSalida,texto):
+    with open(archicoSalida, 'w',encoding='utf-8') as archivo:
+        archivo.write(texto)
+
 codigos_postales_cada_cuidad = {}
 codigos_postales_cada_cuidad["Breña"] = {15082, 15083}
 codigos_postales_cada_cuidad["Magdalena del Mar"] = {7021, 15076, 15086}
@@ -14,16 +24,17 @@ for ciudad in codigos_postales_cada_cuidad:
         else:
             codigoAciudad[numeros]=[ciudad]
         
-print("ingresa el nombre de tu ciudad o el código postal que bucas") 
-while True:
-    print(">>",end=" ")
-    a=input()
-    if a in codigos_postales_cada_cuidad:
-        print(codigos_postales_cada_cuidad[a])
-    elif a.isdigit():
-        if int(a) in codigoAciudad:
-            print(codigoAciudad[int(a)])
-        else:
-            print("no existe el código postal en mi memoria")
+a=LeerDocumento('EntradaPostales.txt')
+
+texto=""
+if a in codigos_postales_cada_cuidad:
+    texto+=f"Los códigos de {a} son:\n{codigos_postales_cada_cuidad[a]}"
+elif a.isdigit():
+    if int(a) in codigoAciudad:
+            texto+=f"Las ciudades que tienen como códigos postales a {a} son:\n{codigoAciudad[int(a)]}"
     else:
-        print("No existe tu ciudad en mi memoria")
+        texto+="no existe el código postal en mi memoria"
+else:
+    texto+="No existe tu ciudad en mi memoria"
+
+Imprimir('SalidaPostales.txt',texto)
