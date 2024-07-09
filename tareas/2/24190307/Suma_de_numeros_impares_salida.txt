@@ -1,2 +1,0 @@
-La suma de 1 + ... + 7 es 16
-La suma de 1 + ... + 13 es 49
