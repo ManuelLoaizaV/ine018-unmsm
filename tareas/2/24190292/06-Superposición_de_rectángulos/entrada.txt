@@ -1,0 +1,11 @@
+Primer rectángulo
+Abscisa del vertice inferior derecho:-3
+Ordenadas del vertice inferior derecho: -2
+Altura del rectángulo:3
+Anchura del rectángulo:4
+
+Segundo rectángulo
+Abscisa del vertice inferior derecho: -5
+Ordenadas del vertice inferior derecho: 2
+Altura del rectángulo: 3
+Anchura del rectángulo: 3
