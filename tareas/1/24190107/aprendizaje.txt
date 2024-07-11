@@ -1,0 +1,14 @@
+pues tuve muchos dificultades mientras instalaba el oracle, el ubuntu, el git, de 
+igual forma con el sistema operativo linux, tuve un imprevisto al momento de instalar 
+pues me salieron muchas opciones de las cuales no entendia.
+tuve que ver varios videos sobre como instalar linux y tambien las instalacion de ubuntu y oracle.
+una vez terminado de instalar el sistema pude ver mejor el interfaz , al principio me 
+desoriente por que hacer y como instalar , pues instalar el git era desde el terminal 
+y msys tambien(era algo confuso usarlo).
+Tuve muchos problemas para entregar la tarea no entendia bien como hacerlo,entendiendo mas 
+sobre git pude saber que se hacia,
+
+Pude aprender acerca de como usar la consola usando el codigo , me gusto bastante 
+lo rapido que podia ser todo si sabias el codigo, y lo preciso que era las respuestas.
+Acerca de Github,pude aprender mas sobre las funcionalidades que ofrece ,los repositorios,etc.
+Sobre Visual Studio Code,entendi mas sobre como compilar codigos y como se relaciona con la terminal.

@@ -1,0 +1,13 @@
+##Aprendizaje
+Este trabajo trajo consigo muchos escollos , tales como las instalaciones y el uso de cada una
+de las herramientas , pero a la vez , en lo personal, me genera mucha satisfacción poder comprender paso a
+paso este amplio ámbito de la programación.
+Para la creación del programa usé mis conocimientos aprendidos durante las clases , tales como el uso del
+for y de crear mi propia función.
+El objetivo de mi programa es insertar dos números enteros , de los cuales , uno será un número entero y el otro 
+determinará el numero de múltiplos que se tendrá que imprimir del primer número insertado y a la vez determinará
+la cantidad que se repetirá cada multiplo.
+
+##Dificultades
+Sin duda alguna la mayor dificultad fue hacer el procedimiento del envío de la tarea , que se me complicó un poco 
+al querer acelerar el aprendizaje , ya cuando estructuré los pasos , pude llegar a concretar la tarea.

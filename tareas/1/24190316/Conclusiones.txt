@@ -1,0 +1,7 @@
+Dificultades: En mi experiencia, mi mayor dificultad fue con el manejo del idioma inglés, la mayoría de
+documentación, guías o videotutoriales están en ese idioma, aparte de usar términos referente a este campo
+resultó en que tenga inseguridad al realizar ciertos pasos en la instalación y configuración del entorno.
+
+Aprendizajes: Pude aprender a utilizar de mejor manera Github, aunque aún me falte mucho por aprender o descubrir, 
+ya tengo una idea clara de la posibilidad y utilidades de esta "red social", también acerca del CMD de Windows, 
+que nunca antes lo había usado para algo específico en esta ocasión me fue de gran ayuda.
