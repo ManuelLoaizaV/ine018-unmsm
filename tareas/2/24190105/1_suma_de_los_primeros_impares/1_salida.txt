@@ -1,1 +1,1 @@
-La suma de 1 + ... + 9 es 25
+La suma de 1 + ... + 7 es 16
