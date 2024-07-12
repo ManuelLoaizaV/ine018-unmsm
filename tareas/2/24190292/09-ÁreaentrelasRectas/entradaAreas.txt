@@ -1,0 +1,11 @@
+las fórmulas deben tener la forma siguiente: mx + b
+No colocar mismas pendientes
+Primera recta
+m = 2
+b = 3
+Segunda recta
+m = -1
+b = 1
+Tercera recta
+m = 0.5
+b = -4

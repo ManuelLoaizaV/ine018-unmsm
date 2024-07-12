@@ -1,0 +1,5 @@
+UTILIZACIÓN DEL LENGUAJE PYTHON:
+Fue algo fascinante  ya que al momento de buscar la información tales sean como condicionales, conjuntos mapas, etc, pudé ver que 
+que entendia, solo se cambiaba la forma de codear, pero las ideas se mantienen. me sorprendio ver como los codigos se reducian 
+a gran escala , me gustaba la facilidad que hay aqui( no ser tan explicitos con lo que pidó, no como c++) al final fue gran gusto
+utilizar otro lenguaje, esta vez no hubo tantas complicaciones, se entendio mucho mejor.

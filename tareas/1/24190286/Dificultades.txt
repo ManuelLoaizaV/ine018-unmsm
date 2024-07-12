@@ -1,0 +1,10 @@
+En la instalacion del Visual Studio code:
+
+Fue realmente algo que en si me costo màs en entender porque no funcionaba el compilador, demore bastante tiempo instalando y desinstalando 
+el VScode. Al final descubri el modo y logre solucionarlo y pude programar VScode. En si fue un descubrimiento que en si me gusto
+
+En ll investigacion de usar Git and Github:
+
+Realmente me incentive y me estrese con esto, solo en buscar y leer los posting para poder entender y como usarlos.
+Al final logre entender y logre aunque si costo bastante tiempo pero me gusta investigar y buscar la solucion a esos detalles; sè que 
+el usò de estas herramientas nos seran muy ùtiles.
