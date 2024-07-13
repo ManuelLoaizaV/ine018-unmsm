@@ -1,5 +1,7 @@
-# ¿Cómo funciona Sympy?
+# Sympy
+habla causa
+## ¿Cómo funciona Sympy?
+gaaaaaaa
 
-
-# ¿Como funciona Sympy en mis códigos?
-
+## ¿Como funciona Sympy en mis códigos?
+gaaaaaa
