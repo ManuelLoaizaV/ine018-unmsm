@@ -1,4 +1,3 @@
-with open( '6entrada.txt', "r") as entrada:
 with open('6entrada.txt',"r") as entrada:
   contenido = entrada.read().strip()
   
