@@ -33,8 +33,3 @@ with open('4_salida.txt', 'w') as salida:
             salida.write(str(codigo)+"\n")
     else:
             salida.write("El distrito no existe.\n")
-
-
-
-
-    
