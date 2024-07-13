@@ -1,0 +1,11 @@
+Ingrese expresiones en RPN,
+en donde los operadores aparecen luego de
+los operandos sobre los cuales seran aplicados.
+Cada linea consiste de numero, un operador,
+o uno de los siguientes comandos:
+Q: Terminar el programa
+H: Mostrar este mensaje de ayuda
+C: Limpiar la memoria de la calculadora
+19.0
+30.0
+22.0
