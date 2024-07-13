@@ -22,7 +22,7 @@ with open ('4_entrada.txt', 'r') as entrada:
 with open('4_salida.txt', 'w') as salida: 
  if entrada.isdigit():
     if int(entrada) in distritos:
-        salida.write(str(distritos[int(entrada)])+"\n")
+        salida.write(", ".join(distritos[int(entrada)])+"\n")
 
     else:
         salida.write("El codigo postal no existe.\n")
@@ -30,6 +30,6 @@ with open('4_salida.txt', 'w') as salida:
  else:
     if entrada in codigos_postales:
         for codigo in codigos_postales[entrada]:
-            salida.write(str(codigo)+"\n")
+            salida.write(", ".join(codigo)+"\n")
     else:
             salida.write("El distrito no existe.\n")
