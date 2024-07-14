@@ -30,9 +30,9 @@ Como ya mencioné antes, aquí mi clase `Cuenta` tiene encapsulados a dos atribu
           self.__usuario = usuario
           self.__contraseña = contraseña
       ```
-     _**Ahora sabemos que nuestros atributos están encapsulados por el uso del doble guion bajo (`__`), entonces debido a eso, debemos utilizar los métodos de 'getter' y 'setter' para acceder y modificar estos atributos de manera controlada.**_
+     _**Ahora, sabemos que nuestros atributos están encapsulados por el uso del doble guion bajo (`__`), entonces debido a eso, debemos utilizar los métodos de 'getter' y 'setter' para acceder y modificar estos atributos de manera controlada.**_
 
-  - `get_usuario(self)`: En este caso, el método 'getter' nos permite acceder a nuestro usuario. Luego de eso, lo imprimimos
+  - `get_usuario(self)`: En este caso, el método 'getter' nos permite acceder a nuestro usuari. Luego de eso, lo imprimimos
        ``` python
       def get_usuario(self):
         print ("El usuario actual es '" + str(self.__usuario) + "'.")
@@ -67,7 +67,7 @@ Como ya mencioné antes, aquí mi clase `Cuenta` tiene encapsulados a dos atribu
      ```python
     mi_cuenta = Cuenta("Fuuka2", "abcd")
     ```
-    Aquí ya está creada nuestra cuenta. Nuestro nombre de usuario sería Fuuka2 y nuestra contraseña (ultra secreta) es abcd.
+    Aquí ya está creada nuestra cuenta. Nuestro nombre de usuario sería 'Fuuka2' y nuestra contraseña (ultra secreta) es 'abcd'.
 
 2. **Obtengo e imprimo el usuario actual y la contraseña actual:**
 
@@ -153,7 +153,7 @@ Contraseña Nueva: 'Goat'.
 
 # Respuesta a ello:
 
-Resulta que en Python, los atributos y métodos son públicos por defecto. Aunque hemos aplicado encapsulamiento, aún es posible acceder y modificar los atributos directamente utilizando el *"name mangling"* (Lo que usé en los casos anteriores: `_Cuenta__usuario` y `_Cuenta__contraseña`). Esto lo pudimos demostrar aquí.
+Resulta que en Python, los atributos y métodos son públicos por defecto, y, aunque hemos aplicado encapsulamiento, aún es posible acceder y modificar los atributos directamente utilizando el *"name mangling"* (Lo que usé en los casos anteriores: `_Cuenta__usuario` y `_Cuenta__contraseña`). _Esto lo pudimos demostrar aquí._
 
 **Finalmente, dentro de mi ejemplo, también coloqué dicha sección de código:**
 
@@ -178,4 +178,4 @@ Usuario actual: 'Fuuka_2'.
 Contraseña actual: 'xyz'.
 Usuario Nuevo: 'CR7'.
 Contraseña Nueva: 'Goat'.
-  ```
+```
