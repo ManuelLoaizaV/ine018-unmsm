@@ -7,7 +7,7 @@ En este ejemplo creé una clase `Robot`, que básicamente es un robot que tiene 
 class Robot  
 ```
 
-Aquí  mi clase `Robot` tiene los atributos `nombre` y  `modelo`, y también posee los métodos de `cambiar_modo` y `tarea`.
+Aquí, mi clase `Robot` tiene los atributos `nombre` y  `modelo`, y también posee los métodos de `cambiar_modo` y `tarea`.
 
 ## Class `Robot`
 
