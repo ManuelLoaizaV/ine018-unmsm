@@ -1,0 +1,23 @@
+Bueno, en este caso escogí Programación Orientada a Objetos en Python.
+La razón es porque siempre escuché el termino POO cuando investigaba
+acerca de ciertos códigos (siempre me gustó "hackear" mi lap, por eso
+ya está pidiendo ayuda xdxd), además una vez entré a una clase de un amigo, 
+me quedé escuchando lo que decía el profesor y justo su tema o su curso
+(no recuerdo bien de eso) era ese.
+La cosa es que quedé :o viendo todo eso.
+
+Siendo sincera, pensé que sería más fácil (al comienzo no comprendía nada)
+tuve que ver videos, investigar, leer (la página que mencionó: 
+Python docs), imaginar ejemplos creativos para no hacerlo muy trivial,
+entre otras cosas, y, como puede observar tambien, en mis códigos 
+hasta me divertí colocando mi serie y grupo favorito, o un Robot, 
+o una cuenta e.e
+
+En conclusión, fue una experiencia genial, me divertí mucho creando 
+esos códigos (y creando objetos). De la mano a eso, aprendí cosas 
+que antes no sabía, me ayudó mucho a comprender el tema que antes 
+no comprendía para nada.
+Igual, siendo sincera, sigue siendo todo un mundo por descubir, pero 
+al menos ya conozco algo que me puede servir más adelante ^^.
+
+Hasta aquí mi reporte del POO uu
