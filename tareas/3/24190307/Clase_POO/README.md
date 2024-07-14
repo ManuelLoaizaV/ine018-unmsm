@@ -113,8 +113,8 @@ Aquí  mi clase `Robot` tiene los atributos `nombre` y  `modelo`, y también pos
   ```
   Fuuka2:
   El modelo de Fuuka2 es IDLE.
-  Fuuka2 ha cambiado al modo trabajo
+  Fuuka2 ha cambiado al modo trabajo.
   Fuuka2 está realizando tareas de trabajo.
-  Fuuka2 ha cambiado al modo descanso
+  Fuuka2 ha cambiado al modo descanso.
   Fuuka2 está modo descanso, no realiza tareas.
   ```
