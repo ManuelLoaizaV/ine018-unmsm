@@ -1,4 +1,4 @@
-## Casting
+## Conversión de tipos
 
 C++ te permite realizar conversiones entre tipos.
 A veces esto ocurre automáticamente. Por ejemplo,
@@ -70,7 +70,7 @@ Funciones trigonométricas:
 | `cos(x)` | Retorna el coseno del ángulo $x$ medido en radianes antihorariamente desde el eje $+x$. |
 | `sin(x)` | Retorna el seno de $x$ radianes. |
 | `tan(x)` | Retorna la tangente de $x$ radianes. |
-| `atan(x)` | Retorna $x^y$. |
+| `atan(x)` | Retorna el ángulo en radianes cuya tangente es $x$. |
 | `atan2(y, x)` | Retorna el ángulo en radianes formado entre el eje $x$ y el segmento que une el origen con $(x, y)$. |
 
 ### `<algorithm>`
@@ -98,9 +98,10 @@ y otras cosas más.
 
 | Función | Descripción |
 |---|---|
-| `atof` | Convierte una cadena en un `double`. |
-| `atoi` | Convierte una cadena en un `int`. |
 | `rand` | Genera un número aleatorio. |
+| `exit` | Termina un programa en ejecución. |
+| `malloc` | Asigna memoria. |
+| `free` | Libera memoria previamente asignada. |
 
 ### `<cctype>`
 
@@ -113,3 +114,11 @@ y otras cosas más.
 | `isupper` | Valida que un caracter esté en mayúscula. |
 | `tolower` | Convierte una letra mayúscula en minúscula. |
 | `toupper` | Convierte una letra minúscula en mayúscula. |
+
+### `<string>`
+
+| Función | Descripción |
+|---|---|
+| `stod` | Convierte una cadena en un `double`. |
+| `stoi` | Convierte una cadena en un `int`. |
+| `to_string` | Convierte un valor numérico en un `string`. |
