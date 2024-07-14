@@ -1,9 +1,7 @@
-def main():
-    c = int(input())
-    
-    gauss = (c * (c + 1)) // 2
-    
-    print( gauss)
+c = int(input())
 
-if __name__ == "__main__":
-    main()
+gauss = (c * (c + 1)) // 2
+    
+print( gauss)
+
+ #mas accesible
