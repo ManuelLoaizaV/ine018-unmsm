@@ -53,7 +53,7 @@ Aquí empezaremos a definir las subclases, o sea a las integrantes del team RWBY
         def Apodo(self):
             print(str(self.apodo))
     ```
-    - Aquí añadiremos un atributo más, por lo que utilizamos la función `super.()` que nos permite llamar a los atributos y los métodos de la superclase `Beacon` y luego en el propio contructor `__init__` de la clase `Ruby` añadimos el atributo `apodo` para finalmente, con el método `Apodo`, imprimir el nuevo atributo.
+    - Aquí añadiremos un atributo más, por lo que utilizamos la función `super.()` que nos permite llamar a los atributos y los métodos de la superclase `Beacon`. Luego en el propio contructor `__init__` de la clase `Ruby` añadimos el atributo `apodo` y finalmente, con el método `Apodo`, imprimimos el nuevo atributo.
 
 - ## Class `Weiss`:
     ```python
