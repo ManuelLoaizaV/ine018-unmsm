@@ -110,7 +110,7 @@ Aquí  mi clase `Robot` tiene los atributos `nombre` y  `modelo`, y también pos
     Esto es debido a que ahora está en modo 'descanso'.
 
 ## Resultados del código ejecutado correctamente:
-  ```python
+  ```
   Fuuka2:
   El modelo de Fuuka2 es IDLE.
   Fuuka2 ha cambiado al modo trabajo
