@@ -6,6 +6,9 @@ def Leer(archivo_entrada):
     return texto
 
 def Extraer(texto):
+    #La expresion "re.findall(r'-?\d+', texto)" es para buscar en el texto de entrada numeros, que tambien acepta negativos
+    #El "encoding="utf-8"" es para que el programa pueda manejar los signos de pregunta, acentuacion, y signos especiales
+    #Al momento de utilizar "with open(archivo_entrada, encoding="utf-8") as entrada:" no utilizo el termino "r" pues es predeterminado
     numeros = re.findall(r'-?\d+', texto)
     numeros = [int(num) for num in numeros]
     return numeros
