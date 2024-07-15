@@ -1,0 +1,2 @@
+Durante el proceso para poder instalarlo, tuve algunas complicaciones debido a que tenia problemas al momento de configurar la ruta de carpeta MinGW-w64 a la path variable de entorno de windowns; luego de ello dificultades al momento de crear la carpeta para subir la tarea al github.
+Esta tarea me ayudo a comprender mejor mi entorno y aumentar mi experiencia con mi ordenador.
