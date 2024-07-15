@@ -1,0 +1,1 @@
+Los rectánglos se intersecan? -> falso

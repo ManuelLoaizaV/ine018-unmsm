@@ -1,0 +1,7 @@
+Proceso de aprendizaje:
+ 
+Evidentemente, en un inicio me desconcertaba la idea de utilizar una herramienta relativamente nueva y de la que desconocia hace uas semanas. Sin embargo, durante el desarrollo de la tarea, he observado la importancia y utilidad de Github como herramienta de aprendizaje,de trabajo y conector diversas ideas respecto a sus usuarios.
+
+Entre las situaciones retadoras a las que me he enfrentado en el progreso, puedo destacar las dificultades que tuve para comprender la importancia de las herramientas MinGW-w64 y su relacion con VSCode, la creacion del fork en el que posteriormente realizaria la tarea y el desarrollo de la programacion y ejecucion del codigo fuente que implemente.
+
+Es cierto que los obstaculos presentes dificultaron la organizacion de mi tiempo; no obstante, puedo decir que he logrado el manejo relativamente adecuasdo de las herramientas que utilice para el desarrollo de esta actividad.

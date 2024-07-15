@@ -1,0 +1,6 @@
+Dificultades:
+- Debido a que gran parte de la explicación para instalar la extensión de C++ en VSC y sus libros estaban en inglés, me tardé bastante aprendiendo el significado de cada término, lo cual me ayudará en futuras entregas de tarea.
+- También el acostumbrarme a la interfaz de github, lo cual no me tompo mucho.
+Aprendizajes:
+- Sé como crear mi repositorio y hacer forks en github.
+- Aprendí el manejo de la extensión de c++ en VSC.

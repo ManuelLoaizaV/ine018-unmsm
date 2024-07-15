@@ -32,4 +32,3 @@ que su contraparte `stack`.
 | `push(valor)` | Inserta `valor` en la cola de la cola. |
 | `pop()` | Elimina un elemento de la cabeza de la cola. |
 | `front()` | Retorna el valor en la cabeza de la cola sin eliminarlo. |
-| `clear()` | Elimina todos los elementos de la cola. |
