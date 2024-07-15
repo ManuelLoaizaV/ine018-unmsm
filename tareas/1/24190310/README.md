@@ -1,4 +1,4 @@
-### ¿Qué dificultades tuve?
+## ¿Qué dificultades tuve?
 Una de las dificultades que tuve fue al momento de la instalación de la cadena de herramientas de MinGW 
 ya que había cambiado la ruta de destino del archivo, por tanto no sabía en cúal carpeta buscar, pero 
 después de analizar, pude darme cuenta de mi error y culminar con éxito la instalación.
