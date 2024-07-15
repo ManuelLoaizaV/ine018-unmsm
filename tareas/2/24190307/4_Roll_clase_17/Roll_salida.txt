@@ -1,0 +1,3 @@
+Resultado: D A B C
+Resultado: A C D B
+Resultado: A B C D

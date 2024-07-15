@@ -1,0 +1,2 @@
+Buenas noches, en primer lugar, me pareció algo tedioso, ya que me confundí en descargar msys64.
+primero lo descargué en el disco local (d:) cosa que al momento de compilar me salía error pero estaba con mis amigos y me pudieron acesorar y al final se pudo solucionar ese problema, hasta que después, una vez más salió error, pero viendo todas las posibilidades para solucionar ese error machuque la opción de run y se pudeo compilar. esta tarea se la quiero dedicar a ellos por la paciencia que me tuvieron, gracias chicos.   

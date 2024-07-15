@@ -1,0 +1,7 @@
+Instalación del compilador:
+
+Durante el proceso de instalación del compilador, sucedieron varios timeout 
+referente a la conexión con el repositorio de donde se descarga los recursos.
+Por otro lado, durante la configuración del entorno no llego a guardarse 
+corretamente el "path", por lo cual no podia inicializar el compilador. 
+Además de los problemas previamente mencionados, todo funcionó correctamente. 

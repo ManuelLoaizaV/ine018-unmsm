@@ -1,0 +1,2 @@
+Introduce la cadena que quieres transformar a buena(solo en la segunda línea):
+xaaaabbbbBBBBAAAAd
