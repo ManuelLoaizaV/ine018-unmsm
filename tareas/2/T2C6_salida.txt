@@ -1,3 +1,0 @@
-La cadena Suellem no es palíndroma.
-La cadena Manuel no es palíndroma.
-La cadena Abbabba es palíndroma.
