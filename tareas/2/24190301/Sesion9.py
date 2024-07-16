@@ -8,3 +8,4 @@ def conjetura_de_collatz(numero):
         numero = 3*numero + 1
 numero = 15
 conjetura_de_collatz(numero)
+      
