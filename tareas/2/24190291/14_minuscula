@@ -1,5 +1,10 @@
-c = float(input("Ingrese la temperatura en Celsius: "))
+def minusculas(s):
+    return s.lower()
 
-f = 9 * c / 5 + 32
-
-print(f"La temperatura en Fahrenheit es {f:.8f}")
+if _name_ == "_main_":
+    print(minusculas("Manuel Loaiza"))
+    print(minusculas("alex cisneros"))
+    print(minusculas("ARIADNA ROSSA"))
+    print(minusculas("pi=3.1415926535897932"))
+    s = "UnMsm2024"
+    print(minusculas(s))
