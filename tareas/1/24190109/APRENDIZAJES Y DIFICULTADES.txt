@@ -1,0 +1,25 @@
+APRENDIZAJES
+
+VISUAL STUDIO CODE:
+En Visual Studio Code pude aprender a compilar y ejecutar códigos en c++, gracias a las diferentes extensiones que nos 
+proporciona este programa, existen distintas funciones y no solo relacionado a c++, eso lo hace muy interesante y 
+complejo a la vez. Es una interfaz más bonita, pero complicado de entender al inicio. Siempre tuve curiosidad 
+en comprender la forma como el profesor compilaba y ejecutaba en clase. Ahora lo voy entendiendo gracias a esta tarea.
+
+GIT HUB:
+En Git he podido aprender como realizar mi propio repositorio, commits, también a eliminar y remover las carpetas que 
+creaba mientras descubría como usar git. Entendí más sobre como realizar un FORK y un PULL REQUEST en un repositorio 
+al que deseo contribuir.
+
+DIFICULTADES
+
+Al inicio todo fue bien ya que me estaba guiando de las indicaciones que nos dio, yo inicié instalando VSC antes que Git,
+ya que tenía muchas ganas de poder compilar y ejecutar en una interfaz nueva como lo que veía en clase, fue muy entendible 
+como editar las variables y también el instalar las extensiones del VSC junto con el compilador MSYS2. El problema llegó 
+ya que al tener muchas funciones era algo confuso, al momento de querer ejecutar mi código no lo lograba y me estanqué ahí.
+Pude resolverlo gracias a la ayuda de una compañera. Lo que más se me dificultó fue el uso del GitHUB, demoré mucho en 
+comprender como usar las distintas funciones e incluso no sabía por dónde empezar ya que es algo nuevo para mí.
+Hasta el momento no me ha quedado claro muchas cosas, pero espero que con la práctica pueda obtener más conocimientos ya que
+a veces resulta un poco frustrante quedarte estancado sin saber como solucionarlo.
+
+PSDT: Elegí poner ese código porque fue el primero que creé cuando empezamos a usar bool e if y le agarré cariño xd

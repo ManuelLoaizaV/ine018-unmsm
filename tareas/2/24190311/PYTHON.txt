@@ -1,0 +1,6 @@
+Los retos o dificultades presentados para esta tarea fueron los de aprender a codear en Python, aunque es cierto que tiene cierto parecido con c++,  conocer el mundo de Python es entrar a algo nuevo, algunas partes son más sencillas, por ejemplo para imprimir se usa Print, para definir una función el uso de Def. Pero por ejemplo, para hacer el codigo morse se implementan Starswith o strip, algo que no se usó cuando aquello se hizo en C++. Así que fue un poco más complicado el realizar y entender lo que está dentro del código. 
+
+Aprendí un poco más acerca de la programación, y desde un campo diferente al de c++, además python fue es un poco menos difícil. En lo personal, sentí que la sintaxis en c++ tiende a ser mas variada lo cual lo complica hasta cierto punto a mi parecer.
+
+
+
