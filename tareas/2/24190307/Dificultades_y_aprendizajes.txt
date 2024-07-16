@@ -1,0 +1,20 @@
+He de decir que al comienzo la tarea me pareció complicada, no 
+por el hecho de instalar y esas cosas, sino que mi mente se 
+había acostumbrado mucho a C++ y ver que algunas cosas ya no se
+aplicaban en Python me causaba confusión, empecé a leer más sobre 
+Python y también vi muchos videos que me sirvieron.
+Sí, como muchas veces comentó, Python parece mucho más sencillo 
+que C++ en el hecho de no definir variables (cosa que se me 
+dificultó entender porque quería identificar como podía reconocer
+los booleanos o una lista o un diccionario, pienso que por allí 
+tambien me enredé), hay muchas cosas que me llamaron la atención 
+y en mis códigos (en comentarios) muestro mi sorpresa o los 
+pensamientos que tenía cuando empezaba a codear.
+
+Una opinión personal al respecto:
+Me gustó usar Python fue una nueva experiencia y me llamó mucho 
+la atención ese lenguaje de programación por lo que seguiré
+estando metida allí para aprender un poco más, pero aun mi 
+corazón le pertenece a C++ ^^ 
+
+PD: Sigo aprendidendo del git :, aun sufro

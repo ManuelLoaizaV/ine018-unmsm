@@ -1,0 +1,3 @@
+Aprendí más sobre el uso de la interfaz de Visual Studio y su uso con python, un lenguaje con sintaxis diferente, y metodos diferentes,
+que abrevia muchos procesos o funciones en c++ en métodos ya listos en python. VCstudio sigue siendo una gran herramienta por su gran facilidad de 
+manejo y mejor uso de interfaz para el usuario.
