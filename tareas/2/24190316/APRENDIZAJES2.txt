@@ -1,0 +1,4 @@
+Generalmente no tuve problemas a la hora de instalar Python y setearlo en el Visual Studio Code. Los tres primeros problemas fueron muy similares en C++, 
+las dificultades mayormente vinieron en el 4to y 5to problema, por lo que tuve que pedir ayuda y usar algunas otras funciones que C++ no las tiene. Aún así
+el último problema se rolvió de manera más fácil que en C++. También tuve algunas dificultades al momento de subir mi tarea al repositorio pero ya me quedó claro
+el cómo realizarlo.
