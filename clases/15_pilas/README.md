@@ -54,4 +54,3 @@ A continuación algunos métodos de la interfaz `stack`:
 | `push(valor)` | Inserta `valor` en la pila tal que este ser convierte en el tope. |
 | `pop()` | Elimina el valor en el tope de la pila. |
 | `top()` | Retorna el valor en el tope de la pila sin eliminarlo. |
-| `clear()` | Elimina todos los elementos de la pila. |

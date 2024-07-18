@@ -1,0 +1,5 @@
+Fue un proceso largo, ya que en visual code tenia que compilar con phyton, al momento de codear si bien es cierto 
+el codigo se hace en menor cantidad lo que si se ve es que aqui si importa mucho el orden, ya que si te pasas una linea
+a la izquierda o derecha tu compilacion cambia  aveces te da error. aprendi que hay nuevas funciones que puedo usar y 
+hace que se reduzca mucho las lineas, se me hace un poco mas sencillo  entendible... debi empezar con phyton, pero aun 
+asi siempre hay cosas nuevas de que aprender.
