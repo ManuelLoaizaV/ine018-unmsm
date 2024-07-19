@@ -1,0 +1,5 @@
+Dificultades:
+Se me presentaron muchas dificultades al momento de descargar el interprete de python, no sé cuál sea el motivo, pero no me fue posible instalarlo. Sin embargo, conocí "google collab" que es una herramienta muy útil de Google, ya que permite crear y compartir documentos interactivos con códigos ejecutables. Además, también tuve dificultades para comprender cómo codear en Python, pero leí y vi videos tutoriales al respectoy puede entender que no era tan dificil como creía.
+
+APRENDIZAJES:
+En este proceso aprendí un nuevo mundo del lenguaje de programación. Si bien es cierto, se parece un poco a codear en c++, python es un mundo diferente y hay que aprender a utilizarlo. Comprendí cómo se definen las varias, como llamar a las funciones, la sintáxis, nuevas funcionalidades cómo "swapcase" que funciona cambiar de letras mayúsculas a minusculas o viceversa, etc. Además pude conocer esta nueva herramienta de google que es beneficiosa para cualquier persona, pues permite que cualquiera pueda constuir un entero de programación sin muchos recursos.
