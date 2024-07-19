@@ -15,7 +15,8 @@
 Tomemos como ejemplo lo siguiente (parte del codigo fuente del proyecto):
 
 
-new_image = ImageOps.grayscale(image)
+    
+    new_image = ImageOps.grayscale(image)
 
     new_image.save("3_grises.jpg")
 
