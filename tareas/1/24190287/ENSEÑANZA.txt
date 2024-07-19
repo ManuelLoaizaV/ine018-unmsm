@@ -1,0 +1,6 @@
+Me costó mucho aprender usar github para poder enviar los archivos mediante el fork y el pull resquet.
+También aprendí a usar el interfaz de Visual Code Studio para escribir códgios pues parace muy interactivo con el usuario y posee una gran variedad
+de herramientas.
+
+
+ 
