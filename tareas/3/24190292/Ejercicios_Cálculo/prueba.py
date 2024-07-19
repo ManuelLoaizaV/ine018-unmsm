@@ -11,6 +11,6 @@ expr = Integral(x**2 + y**2, (x, 0, 1))
 init_printing(use_unicode=True)
 
 
-archivo= 'pruebasalida.txt'
-with open(archivo, 'w') as archivo:
-    archivo.write("holasgnjksegksegnlksejghsejkghkseth")
+archivogaaa= 'pruebasalida.txt'
+with open(archivogaaa, 'w') as archivo:
+    archivo.write("holasgnjksegksegnlksejghsejkghkseth\n wrtwetwetewt")
