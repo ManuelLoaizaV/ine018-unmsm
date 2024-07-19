@@ -1,0 +1,1 @@
+Los circulos con centros 0 , 0 y 50 , 50 no se intersectan.

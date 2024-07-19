@@ -1,0 +1,3 @@
+En esta tarea no fue muy complicada ya que, teniendo conocimientos de c++ pude relacionarlor con python.
+Aprendi como usar python en cuanto a bucles, mapas, fucniones, listas, condicionales, etc.
+Tuve un poco de problemas en un ejercicio de la sesion20 pero al final pude resolverlo, en general me gusto la tarea me ayudo a entender mejor python.

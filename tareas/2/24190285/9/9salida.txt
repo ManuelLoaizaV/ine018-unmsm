@@ -1,0 +1,112 @@
+55 es impar entonces hago 3n+1: 166
+166 es par entonces tomo la mitad: 83
+83 es impar entonces hago 3n+1: 250
+250 es par entonces tomo la mitad: 125
+125 es impar entonces hago 3n+1: 376
+376 es par entonces tomo la mitad: 188
+188 es par entonces tomo la mitad: 94
+94 es par entonces tomo la mitad: 47
+47 es impar entonces hago 3n+1: 142
+142 es par entonces tomo la mitad: 71
+71 es impar entonces hago 3n+1: 214
+214 es par entonces tomo la mitad: 107
+107 es impar entonces hago 3n+1: 322
+322 es par entonces tomo la mitad: 161
+161 es impar entonces hago 3n+1: 484
+484 es par entonces tomo la mitad: 242
+242 es par entonces tomo la mitad: 121
+121 es impar entonces hago 3n+1: 364
+364 es par entonces tomo la mitad: 182
+182 es par entonces tomo la mitad: 91
+91 es impar entonces hago 3n+1: 274
+274 es par entonces tomo la mitad: 137
+137 es impar entonces hago 3n+1: 412
+412 es par entonces tomo la mitad: 206
+206 es par entonces tomo la mitad: 103
+103 es impar entonces hago 3n+1: 310
+310 es par entonces tomo la mitad: 155
+155 es impar entonces hago 3n+1: 466
+466 es par entonces tomo la mitad: 233
+233 es impar entonces hago 3n+1: 700
+700 es par entonces tomo la mitad: 350
+350 es par entonces tomo la mitad: 175
+175 es impar entonces hago 3n+1: 526
+526 es par entonces tomo la mitad: 263
+263 es impar entonces hago 3n+1: 790
+790 es par entonces tomo la mitad: 395
+395 es impar entonces hago 3n+1: 1186
+1186 es par entonces tomo la mitad: 593
+593 es impar entonces hago 3n+1: 1780
+1780 es par entonces tomo la mitad: 890
+890 es par entonces tomo la mitad: 445
+445 es impar entonces hago 3n+1: 1336
+1336 es par entonces tomo la mitad: 668
+668 es par entonces tomo la mitad: 334
+334 es par entonces tomo la mitad: 167
+167 es impar entonces hago 3n+1: 502
+502 es par entonces tomo la mitad: 251
+251 es impar entonces hago 3n+1: 754
+754 es par entonces tomo la mitad: 377
+377 es impar entonces hago 3n+1: 1132
+1132 es par entonces tomo la mitad: 566
+566 es par entonces tomo la mitad: 283
+283 es impar entonces hago 3n+1: 850
+850 es par entonces tomo la mitad: 425
+425 es impar entonces hago 3n+1: 1276
+1276 es par entonces tomo la mitad: 638
+638 es par entonces tomo la mitad: 319
+319 es impar entonces hago 3n+1: 958
+958 es par entonces tomo la mitad: 479
+479 es impar entonces hago 3n+1: 1438
+1438 es par entonces tomo la mitad: 719
+719 es impar entonces hago 3n+1: 2158
+2158 es par entonces tomo la mitad: 1079
+1079 es impar entonces hago 3n+1: 3238
+3238 es par entonces tomo la mitad: 1619
+1619 es impar entonces hago 3n+1: 4858
+4858 es par entonces tomo la mitad: 2429
+2429 es impar entonces hago 3n+1: 7288
+7288 es par entonces tomo la mitad: 3644
+3644 es par entonces tomo la mitad: 1822
+1822 es par entonces tomo la mitad: 911
+911 es impar entonces hago 3n+1: 2734
+2734 es par entonces tomo la mitad: 1367
+1367 es impar entonces hago 3n+1: 4102
+4102 es par entonces tomo la mitad: 2051
+2051 es impar entonces hago 3n+1: 6154
+6154 es par entonces tomo la mitad: 3077
+3077 es impar entonces hago 3n+1: 9232
+9232 es par entonces tomo la mitad: 4616
+4616 es par entonces tomo la mitad: 2308
+2308 es par entonces tomo la mitad: 1154
+1154 es par entonces tomo la mitad: 577
+577 es impar entonces hago 3n+1: 1732
+1732 es par entonces tomo la mitad: 866
+866 es par entonces tomo la mitad: 433
+433 es impar entonces hago 3n+1: 1300
+1300 es par entonces tomo la mitad: 650
+650 es par entonces tomo la mitad: 325
+325 es impar entonces hago 3n+1: 976
+976 es par entonces tomo la mitad: 488
+488 es par entonces tomo la mitad: 244
+244 es par entonces tomo la mitad: 122
+122 es par entonces tomo la mitad: 61
+61 es impar entonces hago 3n+1: 184
+184 es par entonces tomo la mitad: 92
+92 es par entonces tomo la mitad: 46
+46 es par entonces tomo la mitad: 23
+23 es impar entonces hago 3n+1: 70
+70 es par entonces tomo la mitad: 35
+35 es impar entonces hago 3n+1: 106
+106 es par entonces tomo la mitad: 53
+53 es impar entonces hago 3n+1: 160
+160 es par entonces tomo la mitad: 80
+80 es par entonces tomo la mitad: 40
+40 es par entonces tomo la mitad: 20
+20 es par entonces tomo la mitad: 10
+10 es par entonces tomo la mitad: 5
+5 es impar entonces hago 3n+1: 16
+16 es par entonces tomo la mitad: 8
+8 es par entonces tomo la mitad: 4
+4 es par entonces tomo la mitad: 2
+2 es par entonces tomo la mitad: 1
