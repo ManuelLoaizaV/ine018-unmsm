@@ -1,6 +1,8 @@
 #importamos las funcioens que necesitamos
-from sympy import  real_root , diff, parse_expr, Pow
-from sympy.abc import x,y
+from sympy import  real_root , diff, parse_expr, Pow, init_printing
+from sympy.abc import x
+
+init_printing(use_unicode=True)
 # colocamos la función
 Ec = parse_expr('((x-27)/(x+8)+sin(sin(4*x)**2)**3)**(1/3)')
 #derivamos
