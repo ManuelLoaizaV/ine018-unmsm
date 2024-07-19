@@ -1,0 +1,7 @@
+La dificultad no estuvo en tanto en descargar, por la experiencia de la tarea anterior.
+Sino, en modificar el código a Python (resultó ser más fácil de lo que pensé) y también 
+en la lectura y escritura de archivos (tuve que leer y ver unos cuantos videos para 
+orientarme). En esto último al realizarlo directamente en la carpeta me salía error (Errno2)
+y, luego de probar varias veces lo hice directamente en una carpeta de mi escritorio 
+(se ejecutaba con normalidad), y así luego lo hice con todos los ejercicios para luego
+pasarlo al repositorio. 
