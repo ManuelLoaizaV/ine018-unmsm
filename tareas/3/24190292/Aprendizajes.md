@@ -7,3 +7,8 @@ Objetos, algo que destacó de C.
 
 Además era como prácticar para el examen de cálculo :) .
 # ¿Qué aprendí?
+Aprendí las múltiples funciones. Mejor dicho aprendí un poco de los sinnúmeros
+funciones que provee sympy en cálculo básico. Además de entender mejor las funciones y comportamiento
+de python.
+Aprendi a transformar expresiones matemáticas a modo Latex, aunque no fue parte del 
+trabajo en sí. 
