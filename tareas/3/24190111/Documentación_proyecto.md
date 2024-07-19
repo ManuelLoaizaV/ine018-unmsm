@@ -13,11 +13,11 @@
 
 ### Ejecución:
 Tomemos como ejemplo lo siguiente (parte del codigo fuente del proyecto):
-.
-.
+
+
 new_image = ImageOps.grayscale(image)
     new_image.save("3_grises.jpg")
-.
-.
+
+
 -En esta parte lo que quieres hacer es poner en escala de grises la imagen. Asi que primero tienes que modificar la imagen usando .grayscale(image) y luego guardar la modificacion en un nuevo archivo .jpg.
 -Este proceso es analogo con las demas funcionalidades asi que depende del ejecutor que tanto cambios poder hacer en su imagen.
