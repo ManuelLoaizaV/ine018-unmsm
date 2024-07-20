@@ -67,7 +67,7 @@ Uso sleep para esperar un poco antes de iniciar mi siguiente comando.
 
 En vista que es una lista algo extensa, las carreras no fueron colocadas en una página, sino que la dividieron en 9 páginas, por lo que si quería seguir obteniendo las demás necesitaba moverme a la siguiente página. Entonces nuevamente use el comando `driver.find_element` para buscar el botón que me lleva a la siguiente página (resulto que no fue un botón, sino un hipervínculo), para ello nuevamente una inspección de la página y ubicar al responsable de dirigirme a la siguiente página.
 
-![navigator](/proyect-web-scraping/images/navigator.png)
+![navigator](/tareas/3/24190103/Proyect_web_scraping/images/navigator.png)
 
 ```py
 
@@ -80,7 +80,7 @@ En vista que es una lista algo extensa, las carreras no fueron colocadas en una 
 Lo nuevo aquí fue que no solo era necesario ubicar al elemento, sino que también debía realizar un click para pasar de página, entonces una vez ubicado y guardado en mi variable `next`, uso el comando `next.click()` para realizar dicha acción.
 En esta parte invertí regular tiempo porque no lograba hacer que ocurra, tengo costumbre de no borrar líneas de código fallidos porque puedo revisarlos más adelante y recordar en que me equivoque, por eso en mi código original se puede apreciar algunos de los intentos que me tomo y muchos otros que borre que no aparecen en mi versión final. 
 
-![errores](/proyect-web-scraping/images/errores.png)
+![errores](/tareas/3/24190103/Proyect_web_scraping/images/errores.png)
 
 Ya casi por terminar, al notar que la acción iba a repetirse al menos 9 veces por la cantidad de páginas que tiene, decidí colocarlos en un bucle.
 
