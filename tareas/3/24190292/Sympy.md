@@ -30,7 +30,7 @@ Si es que no se quiere variables, se puede fácilmente reemplazar por un valor
 numérico que queramos, repito sympy tiene un sinfin de funciones, que podemos 
 usar para crear muchas más funciones que necesitemos.
 
-Toda la documentación de (sympy)[https://docs.sympy.org/latest/index.html] 
+Toda la documentación de [*sympy*](https://docs.sympy.org/latest/index.html)
 está documentado.
 
 ## ¿Como funciona Sympy en mis códigos?
