@@ -1,0 +1,21 @@
+Aprendizajes:
+Sintaxis y estructura del lenguaje: Aprender la sintaxis de Python, que es más concisa y utiliza indentación para definir bloques de código en lugar de llaves como en C++.
+
+Manejo de funciones y parámetros: Entender cómo definir funciones en Python y cómo se manejan los parámetros de entrada y salida, que es más flexible y dinámico en comparación con C++.
+
+Uso de funciones matemáticas: Utilizar funciones matemáticas proporcionadas por el módulo math en Python, como sqrt para calcular la raíz cuadrada, en lugar de incluir bibliotecas como en C++ (#include <cmath>).
+
+Comparación de valores y operadores lógicos: Aprender cómo Python maneja operadores lógicos (<= en este caso) de manera similar a C++, pero sin necesidad de especificar tipos de datos explícitamente.
+
+Pruebas y depuración: Practicar la ejecución del código Python y aprender a depurarlo utilizando herramientas y técnicas adecuadas, que pueden diferir de las utilizadas en C++.
+
+Dificultades potenciales:
+Indentación y estructura: Adaptarse al uso de la indentación en Python puede ser confuso al principio si estás acostumbrado a la estructura basada en llaves en C++.
+
+Manejo de errores y excepciones: Aprender cómo Python maneja errores y excepciones puede ser diferente a lo que estás acostumbrado en C++, y puede requerir un enfoque diferente para manejar errores en tu código.
+
+Tipos de datos y conversiones: Python maneja tipos de datos de manera dinámica, lo que significa que no necesitas declarar tipos explícitamente, pero esto también puede llevar a errores si no se manejan adecuadamente las conversiones de tipos.
+
+Librerías y módulos: Familiarizarse con las librerías y módulos estándar de Python, como math, y aprender a utilizarlas efectivamente para tareas matemáticas y científicas.
+
+Diferencias de rendimiento: Python es generalmente más lento que C++ debido a su naturaleza interpretada y manejo dinámico de tipos, por lo que entender estas diferencias y cómo pueden afectar el rendimiento de tu código es importante, especialmente en aplicaciones críticas.
