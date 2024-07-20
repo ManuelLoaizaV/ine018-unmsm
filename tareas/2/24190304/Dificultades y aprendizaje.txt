@@ -1,0 +1,6 @@
+Dificultades: 
+Se me hizo demasiado complicado lo del Github pero lo pude abordar de una manera paciente y se me complico 
+lo de codificar los ultimos ejercicios en phyton como lo de morse y lo de convertir a cadena buena ya que son algunas codigos diferentes.
+Aprendizaje:
+Me gusta más trabajar en python me da más libertad al codificar y que sus codigos son más pequeños y simples, ahorrando
+tiempo y memoria, me gusta trabajar en python, solo seria cuestion de estar practicando.

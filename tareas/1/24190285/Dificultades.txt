@@ -1,0 +1,5 @@
+Durante el momento de descarga no fue mucho el problema.
+La dificultad que tuve fue al momento de compilar, no podía hacerlo por más intentos que hacía. Luego de calmarme y ver varios videos lo volví a intentar y esta vez salió.
+Otro problema que tuve fue al momento de usar el GitHub, ya que al ser un programa nuevo y al estar en inglés no le entendía bien. Luego de revisarlo bien y de probar varias veces le agarré el truco y ahora es más sencillo de usarlo. El momento de subir el código tuve muchos problemas, me desesperé y por un momento lo pensé en dejar así, pero lo volví a intentar un rato después. Tuve varios errores al momento de subirlo(sobre todo porque me había confundido al inicio al faltarme una parte de mi código) y eso no me dejaba compilar. Me demoré en darme cuenta (cerca de 1 hora), luego de revisar varias veces el código me di cuenta del error y volver a escribir todo, logré mandarlo.
+
+
