@@ -1,0 +1,112 @@
+	
+		// DESARROLLO Y FUNCIONAMIENTO DE UN SERVIDOR WEB CON FASTAPI //
+
+DESARROLLO
+
+El proceso de desarrollo consta de tres pasos principales, el primero de crear una carpeta 
+donde se descargarán todos los archivos de FastApi, el segundo es el desarrollo de código
+de la aplicación que se quiera trabajar, el tercero es mediente el terminal de windows (en
+este caso) levantar nuestro servidor y hacer que esté en marcha.
+
+1 Para este caso crear la carpeta FastAPI en la dirección: (C:)/Users/Hp
+
+	a la que accedemos mediane el terminal 		   (C:)/Users/Hp/cd FastAPI
+ 	Luego en el gestor de archivos de la computadora buscamos la carpeta,
+	dentro colocamos nuestra carpeta de python donde estará nuestro
+	código, en este caso "Web_Mateco" carpeta que abrimos en python y 
+	dentro de esa dirección creamos nuestro archivo main, main.py para 
+	el caso
+
+2 Lo conectamos, instalamos los scripts
+	e instalamos los archivos de fastapi con los siguientes comandos
+		
+							& python -m venv Web_Mateco-env
+							& Web_Mateco-env\Scripts\sctivate.bat
+							& pip install fastapi
+
+	Luego instalamos uvicorn y levantamos el srevidor para que permanesca
+	encendido en todo tiempo al editar el código con los siguientes comandos
+
+							& pip install uvicorn
+							& uvicorn main:app --reload
+
+3 En nuestro archivo main.py de python escribimos el código del trabajo o 
+	proyecto que deseamos realizar, para el caso, una biblioteca:
+
+	from fastapi import FastAPI, HTTPException
+	from pydantic import BaseModel
+	from typing import Optional, List
+
+	app = FastAPI()
+
+	 class Libro(BaseModel):
+   	 id: int
+    	 titulo: str
+    	 autor: str
+   	 paginas: int
+    	 editorial: Optional[str]
+		
+	libros = []
+
+	@app.get("/")
+	def index():
+    		return {"message": "Hola Profe"}
+
+	@app.get("/Libros/{id}", response_model=Libro)
+	def mostrar_libro(id: int):
+    	    for libro in libros:
+        	if libro.id == id:
+            		return libro
+    		raise HTTPException(status_code=404, detail="Libro no encontrado")
+
+	@app.post("/Libros", response_model=Libro)
+	def insertar_libro(libro: Libro):
+    		libros.append(libro)
+    		return {"message": f"libro {libro.titulo} insertado"}
+
+	@app.get("/Libros", response_model=List[Libro])
+	def obtener_libros():
+    		return libros
+
+	El código consta de las siguientes partes:
+		
+		Tiene la clase libro la cual consta de ciertos atributos, id, titulo, autor
+		paginas, editorial(que es opcional)
+
+		Tiene 4 métodos la primera solo de presentación, la segunda get, para llamar
+		el contenido de un libro por su "id", el tercero para llamar todos los libros
+		registrados, y la cuarta para el registro de nuevos libros.
+
+FUNCIONAMIENTO
+
+	Revisar en el terminar la dirección IP que nos entrega de nuestro servidor web,
+	http://127.0.0.1:8000 para el caso, e ingresar a la url de nuestro navegador, donde 
+	en primera instacia veremos el pirmer metodo ejecutarse: {"message": "Hola Profe"}
+	
+	Si colocamos http://127.0.0.1:8000/Libros o http://127.0.0.1:8000/Libros/id no nos
+	arojará nada pues no hemos registrado ningún libro todavia. A lo que ingresamos a 
+	http://127.0.0.1:8000/docs y podemos ver toda la documentación Api de nuestro servidor
+	hecho automaticamente por FastApi, a su vez que podemos usar su interfaz para corroborar
+	la eficacia de nuestro servidor
+
+	Obervamos 4 métodos y vamos al Post para ingresar nuevos libros:
+		
+	{
+ 	 "id": 3,
+  	"titulo": "La guerra del fin del mundo",
+  	"autor": "Mario Vargas Llosa",
+  	"paginas": 749,
+  	"editorial": "Barcelona"
+	}
+
+		damos en Execute y se registra nuestro nuevo libro a la Biblioteca
+		asi cuanto deseemos.
+
+	Para poder ver un libro registrado vamos a siguiente dirección http://127.0.0.1:8000/Libros/id
+	con "id" el número de nuestro libro y observaremos los atributos de dicho libro.
+
+	Para poder ver todos lo libros registrados vamos a la dirección http://127.0.0.1:8000/Libros
+	y se observará una lista de todos los libros registrados y sus respectivos atributos.
+	Con lo que quedaria corroborado la funcionalidad de nuestro servidor web.
+
+

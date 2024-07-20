@@ -1,0 +1,20 @@
+15 es impar, entonces hago 3n + 1: 46
+46 es par, entonces tomo la mitad: 23.0
+23.0 es impar, entonces hago 3n + 1: 70.0
+70.0 es par, entonces tomo la mitad: 35.0
+35.0 es impar, entonces hago 3n + 1: 106.0
+106.0 es par, entonces tomo la mitad: 53.0
+53.0 es impar, entonces hago 3n + 1: 160.0
+160.0 es par, entonces tomo la mitad: 80.0
+80.0 es par, entonces tomo la mitad: 40.0
+40.0 es par, entonces tomo la mitad: 20.0
+20.0 es par, entonces tomo la mitad: 10.0
+10.0 es par, entonces tomo la mitad: 5.0
+5.0 es impar, entonces hago 3n + 1: 16.0
+16.0 es par, entonces tomo la mitad: 8.0
+8.0 es par, entonces tomo la mitad: 4.0
+4.0 es par, entonces tomo la mitad: 2.0
+2.0 es par, entonces tomo la mitad: 1.0
+Wow, fue un viaje de 17 paso(s) desde 15 hasta 1.
+Pero al final llegué. Eso quiere decir que 15 es maravilloso.
+Me pregunto qué números no serán maravillosos...
