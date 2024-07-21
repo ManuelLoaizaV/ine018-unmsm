@@ -1,0 +1,21 @@
+Aprendizajes:
+Sintaxis y estructura del lenguaje: Aprenderás a adaptarte a la sintaxis de Python, que es más concisa y flexible en comparación con C++.
+
+Tipos de datos y conversiones: Python maneja tipos de datos de manera dinámica, lo que significa que no necesitas declarar explícitamente el tipo de una variable como en C++. Las conversiones entre tipos también son más sencillas y automáticas.
+
+Entrada y salida estándar: La forma de obtener entrada del usuario (input() en Python) y la forma de imprimir resultados (print() con f-strings) son diferentes a usar cin y cout en C++.
+
+Operaciones matemáticas: Python permite operaciones matemáticas directas y flexibles con números de punto flotante, similar a C++, pero sin las restricciones de tipos explícitos.
+
+Interpolación de cadenas: Aprenderás a utilizar f-strings para formatear cadenas de manera eficiente y legible, lo cual es una característica poderosa y conveniente de Python.
+
+Dificultades potenciales:
+Identación y estructura: Python utiliza la indentación para definir bloques de código, lo que puede ser un cambio drástico si estás acostumbrado a C++ donde se usan llaves {}.
+
+Manejo de errores y excepciones: Python maneja errores y excepciones de manera diferente a C++. Es importante entender cómo Python gestiona las excepciones y cómo manejarlas adecuadamente en tus programas.
+
+Librerías y módulos: Si tu programa necesita funcionalidades específicas más allá de las operaciones básicas, puede que necesites familiarizarte con las librerías y módulos de Python correspondientes.
+
+Tipos de datos y precisión: Aunque Python maneja tipos de datos de manera automática, la precisión y el manejo de grandes números pueden requerir consideraciones adicionales, especialmente cuando se trabaja con números muy grandes o pequeños.
+
+Ecosistema y herramientas: Familiarizarse con el ecosistema de desarrollo de Python, incluyendo herramientas como entornos virtuales, gestores de paquetes (como pip), y otros, puede ser un desafío inicial.

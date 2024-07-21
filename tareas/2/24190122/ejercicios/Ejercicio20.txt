@@ -1,0 +1,10 @@
+Aprendizajes:
+De estos aprendizajes los pondré a prueba con la práctica de ejercicios similares
+•	Aprender a utilizar diccionarios para mapear claves (letras y números) a valores (código Morse).
+•	Practicar técnicas para manejar y manipular cadenas (texto.upper(), split(), join(), etc.) y listas (append(), for loops anidados) en Python.
+•	Implementar funciones que permitan traducir tanto de texto a código Morse como de código Morse a texto, aplicando reglas específicas de separación entre letras y palabras.
+•	Crear una interfaz simple para interactuar con el usuario mediante la consola (input() y print())
+•	Considerar cómo manejar caracteres no definidos en el diccionario (por ejemplo, ignorar o manejar errores).
+Dificultades:
+•	Garantizar que las funciones manejen correctamente entradas inesperadas o incorrectas del usuario, como caracteres no válidos para el código Morse.
+•	Implementar y entender correctamente los separadores utilizados (' ' entre letras y '/' entre palabras) según las convenciones del código Morse.
