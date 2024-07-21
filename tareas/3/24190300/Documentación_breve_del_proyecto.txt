@@ -1,0 +1,25 @@
+> ¿Cómo funciona el proyecto?
+1. Nos aseguramos de tener instalada la biblioteca "Pillow" en nuestro entorno virtual
+de Python; si no la tenemos instalada, lo hacemos escribiendo `pip install Pillow` en 
+nuestra terminal.
+2. Utilizamos la biblioteca "PIL" e importamos específicamente las funciones "Image"
+para poder trabajar con la imagen (incluso pudiendo dimensionarla) e "ImageFilter" para 
+poder aplicar filtros a la imagen, esto para hacer la escritura más sencilla.
+3. Debemos abrir la imagen con la que trabajaremos utilizando `Image.open(nombre.jpg)`.
+4. Luego, añadimos los filtros que deseamos a las imágenes utilizando
+`imagen = imagen.filter(ImageFilter.NOMBRE_DEL_FILTRO)`, siendo "imagen" la variable que
+representa la imagen que hemos cargado y contiene toda su información.
+> ImageFilter.BLUR: filtro de desenfoque.
+> ImageFilter.CONTOUR: marca contornos (da el efecto de un dibujo con lápiz).
+> ImageFilter.EDGE_ENHANCE: realza los pixeles de los bordes, definiendo mejor la imagen.
+5. Si queremos redimensionarla, utilizamos `imagen.resize(dimensiones)`.
+6. Finalmente, guardamos los resultados con:
+`variable_con_modificación.save(nombre_del_archivo_destinatario.jpg)`.
+
+> ¿Cómo ejecutamos el proyecto?
+1. Una vez en nuestra terminal, nos aseguramos que el directorio sea el correcto (donde
+se encuentra la imagen). Si no es así, utilizamos el comando `cd ruta/al/directorio`.
+2. Una vez verificada, utilizamos el código `python nombre_del_script.py` para 
+ejecutarlo.
+3. Verificamos si el resultado aparece en el directorio en el que nos encontramos
+trabajando.

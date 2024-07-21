@@ -1,0 +1,21 @@
+Aprendizajes:
+Sintaxis y estructura del lenguaje: Aprender la sintaxis de Python, que es más concisa y utiliza la indentación para definir bloques de código en lugar de llaves como en C++.
+
+Manipulación de cadenas y caracteres: Familiarizarse con las funciones de Python para trabajar con cadenas, como len() para obtener la longitud de una cadena y ord() para obtener el valor ASCII de un carácter.
+
+Manejo dinámico de tipos: Aprender cómo Python maneja tipos de datos dinámicamente, lo que permite que la misma función cadena_a_entero maneje tanto enteros positivos como negativos sin necesidad de especificar tipos.
+
+Operaciones matemáticas básicas: Reforzar el conocimiento sobre operaciones matemáticas básicas, como multiplicación y suma, aplicadas en el contexto de la construcción de un número entero a partir de sus dígitos.
+
+Pruebas y depuración: Practicar la ejecución del código Python y aprender a depurarlo utilizando herramientas y técnicas adecuadas, lo cual es esencial para asegurar que la función maneje correctamente todos los casos de entrada esperados.
+
+Dificultades potenciales:
+Manejo de índices y caracteres: En Python, el manejo de índices y caracteres puede ser diferente debido a la naturaleza de las cadenas y la indexación basada en cero, lo cual puede requerir un ajuste en la forma de iterar sobre los caracteres de una cadena en comparación con C++.
+
+Diferencias en la manipulación de cadenas: Python no tiene una manipulación de cadenas exactamente equivalente a las funciones de biblioteca estándar de C++, lo que puede llevar a adaptaciones en la forma en que se accede y se manipula el contenido de las cadenas.
+
+Tipos de datos y conversiones automáticas: Aunque Python maneja conversiones entre tipos de datos de manera automática y dinámica, puede ser un cambio respecto a C++ donde se deben realizar conversiones explícitas de tipos.
+
+Aspectos de rendimiento y eficiencia: Python, al ser un lenguaje interpretado y dinámico, puede tener diferencias en el rendimiento en comparación con C++, especialmente en operaciones intensivas de manipulación de cadenas o cálculos numéricos muy grandes.
+
+Adaptación a la filosofía y características de Python: Adaptarse a las filosofías y características específicas de Python, como el manejo dinámico de tipos y la ausencia de declaraciones de tipos explícitas, puede requerir un ajuste en la forma de pensar y diseñar programas.

@@ -1,0 +1,14 @@
+En un principio no tenia ni idea de cómo comenzar un código en Python,
+a pesar de haber hecho algunos ejercicios en vacaciones, creo porque me
+había acostumbrado a como era en C++ me había olvidado y todo parecía
+nuevo, pero viendo vídeos, consejos de chat, y sobretodo ejemplos,
+relacioné varias cosas que hacía similar en C++ como crear una función
+o que el antiguo cout<< se volvió un print, entre otros. También algo
+que noté es que si no está todo bien “ordenado” o una línea debajo de
+otra puede causar que no funcione. De varios ejemplos que vi, no parece
+haber diferencia entre usar comillas dobles y simples, creo. Algo más
+que aprendí es que a diferencia de C++ algunos ejercicios pueden
+resolverse de una manera menos compleja porque en Python hay mayor
+libertad por así decirlo para manejar tus valores. Siento que aún estoy
+muy por debajo de mi “nivel” que tengo en C++ que necesito ver mis ejemplos
+anteriores para no equivocarme, pero con la práctica iré escalando.

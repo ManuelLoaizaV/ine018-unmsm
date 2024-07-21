@@ -1,0 +1,17 @@
+Antes de empezar:
+verificar si instalaste correctamente selenium y chromedrivers desde el terminal en este caso vs code con pip show slenium, he visto que otros pueden crearlo de manera
+virtual, eso depende de cada usuario creo
+- He usado la laptop de mi hermano que ahora ya es mia :) ya que es mas rapida razon por la cual dice jose/onedrive/escritorio 
+Empezamos:
+el codigo para el webdriver suele ser asi, hay diversas formas 
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+
+escribimos el link al cual queremos dirigirnos con driver.get y el link: 'https://unmsm.edu.pe/formacion-academica/carreras-de-pregrado'
+usamos f12 para ver todas las opciones de dicha pagina
+es importante ponerle cuantos segundos estara abierta la pagina con time.sleep yo puse 10000 por que si no pones nada se abre  se cierra automaticamente
+he visto que el f12 hay cantidad de opciones para editar en este caso solo abri las carreras de pregrado e implemente tambien dirigirme defrente a la carrera
+que quiera ir con element_to_be_clickable puse type search por que ese era el buscador, buscador.clear() para que busques algo nuevo despues de borrar
+buscador.send_keys("aqui va la carrera") puse la carrera que queria dirigirme y finalmente el tiempo para que se cierre la pagina. lo ejecutas y listo, aclaro que puedes tambien hacerlo desde el terminal 
+con def y print para que te salga ahi mismo, pero me encanta mas la forma como esta....
