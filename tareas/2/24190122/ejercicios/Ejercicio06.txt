@@ -1,0 +1,4 @@
+Aprendizaje 
+•	En este nuevo lenguaje de programación, Python, aprendí cómo ingresar variables, realizar operaciones e imprimir los resultados.
+Dificultades
+•	Debido al nuevo entorno y al cambio de C++ a Python, tuve que adaptarme a la sintaxis de este nuevo lenguaje. Logré esto gracias a los videos de ProgramacionATS, los cuales han sido de gran ayuda en el desarrollo de este curso.

@@ -1,0 +1,14 @@
+¿Cómo funciona el proyecto?
+Primero tuve que descargar selenium y los webdrivers del navegador que iba a utilizar que en mi caso fue Google Chrome, muy importante es que el webdriver
+sea compatible con la version del navegador.
+Importar formatos y bibliotecas que utilizare.
+Creo una funcion para poder realizar el web scraping para cualquier carrera que busquemos, primero modificamos las opciones de Chrome para que se maximice
+la ventana y deshabilitamos las extensiones para que el programa no actue de forma extraña.
+Se abre Chrome e ingresamos a la URL proporcionada por el docente, una vez dentro se busca con "Inspeccionar" el código fuente de la web para nosotros
+realizar un click en el lugar donde podremos realizar la búsqueda de la carrera. Esto mismo realizaremos para los datos que solicitaremos.
+Una vez hecho el click escribirá el nombre de la carrera que ingresamos en la terminal, despues de realizadad la búsqueda se hara otro click en el título
+de la carrera y encontrará los datos que solicitamos: Descripción, grado, título, duración, perfil del egresado.
+Finalmente imprimimos los datos que extraímos y cerramos la ventana.
+
+Aclaración: Pusimos un tiempo de espera entre cada ejecución, porque si se ejecuta de manera muy rápida entonces no tomará con precisión la información de la
+carrera que solicitamos.

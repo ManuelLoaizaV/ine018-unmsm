@@ -1,0 +1,17 @@
+>
+Simulación de calculadora RPN (ingrese H para ayuda)
+>
+Ingrese expresiones en RPN,
+en donde los operadores aparecen luego de
+los operandos sobre los cuales serán aplicados.
+Cada línea consiste de número, un operador
+o uno de los siguientes comandos:
+ Q: Terminar el programa
+ H: Mostrar este mensaje de ayuda
+ C: Limpiar la memoria de la calculadora
+>
+Memoria completamente limpia :)
+>
+37.400000000000006
+4.6000000000000005
+42.00000000000001

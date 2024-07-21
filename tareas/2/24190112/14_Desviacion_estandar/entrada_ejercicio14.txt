@@ -1,0 +1,2 @@
+Tenemos la siguiente lista de números:
+[-20, 15, 10, 6, 8, 4]
