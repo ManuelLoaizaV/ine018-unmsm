@@ -14,6 +14,6 @@ funciones que provee sympy en cálculo básico. Además de entender mejor las fu
 y comportamientode python.
 - Una pequeñísima introducción a hmtl que será otro lenguaje para aprender pronto 
 - Estuve leyendo documentación en sympy, y existen un sinfin de funciones que sé que me ayudaran en los demás cursos que están por venir. 
-- Además sympy lo puedo manejar fácilemnte para que me pueda ayudar cuando use 
-latex, que estoy comprometido de aprender de una vez por lo que es ideal al hacer 
-expresiones matemáticas (hate word).
+- Además sympy lo puedo manejar fácilmente para que me pueda ayudar cuando use 
+latex (por ejmplos en markdown aprendí lo básico) que estoy comprometido de aprender de una vez por lo que es ideal al hacer 
+expresiones matemáticas (word no es ideal para expresiones matemáticas).
