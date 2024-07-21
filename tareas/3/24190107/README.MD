@@ -62,9 +62,13 @@ En este archivo usamos diferentes bibliotecas.
   from PIL import Image , ImageEnhance ,ImageDraw, ImageFont
   
 ```
-
 **En el ejemplo de `ImageEnhance.Sharpness(image)`**
-
+```py
+Ajus = ImageEnhance.Sharpness(Imag)
+Imag_Sharp =Ajus.enhance(2.0)
+Imag_Sharp.save("imagen_sharp.jpg")
+Imag_Sharp.show()
+```
 Usamos algunas funciones para cambiar el brillo, contraste y la nitidez``ImageEnhance.Brightness(image)`` ``ImageEnhance.Contrast(image)``
 ``ImageEnhance.Sharpness(image)``
 El mismo principio se aplica a los ajustes de brillo, contraste y nitidez.
@@ -79,7 +83,13 @@ Controlamos la nitidez:
  >**x > 1.0**  Incrementa la nitidez.
 
 **En el ejemplo de `ImageDraw.Draw()`** 
-
+```py
+Escri = ImageDraw.Draw(Imag)
+Fuente = ImageFont.truetype("DejaVuSans.ttf", 60)
+Escri.text((100, 100), "Loto!", (0, 0, 0), font=Fuente)
+Imag.save("imagen_texto.jpg")
+Imag.show()
+```
 Podemos escribir en la imagen junto a 
 `ImageFont.truetype()`para llamar la fuente y el tamaño
 `ImageDraw.text(position, text, fill, font)`.
@@ -87,7 +97,7 @@ De ahi implementamos este codigo para añadir la posicion dentro de la imagen, e
 
 Creamos un objeto de dibujo *Escri* para dibujar en *Imag*.
 El texto "Loto!" se dibuja en la posición (100, 100), en  color negro, utilizando la fuente "DejaVuSans" de tamaño 60.
-Como ultimo paso usamos la funcion `Image.show()` para mostrarnos la imagen.
+Como ultimo paso usamos la funcion `Imag.show()` para mostrarnos la imagen.
 
 
 ###  Redimensionar.py 
@@ -95,10 +105,20 @@ Como ultimo paso usamos la funcion `Image.show()` para mostrarnos la imagen.
   from PIL import Image 
 ```
 **En el ejemplo de `Image.resize(size, resample)`**
-redimensiona la imagen *Imag* a un tamaño de 600 píxeles de ancho y 1200 píxeles de alto, Guarda la imagen redimensionada en un archivo llamado *Imagen_Redimensionada1.jpg* `Image.save()` y la muestra usando`Image.show()`.
+```py
+Tamaño = Imag.resize((600, 1200))
+Tamaño.save("Imagen_Redimensionada1.jpg")
+Tamaño.show()
+```
+Redimensiona la imagen *Imag* a un tamaño de 600 píxeles de ancho y 1200 píxeles de alto, Guarda la imagen redimensionada en un archivo llamado *Imagen_Redimensionada1.jpg* `Image.save()` y la muestra usando`Tamaño.show()`.
 
-**En el ejemplo de `Image.rotate(angle, expand, fillcolor)`** 
-rota la imagen *Imag* en 45 grados, ajusta el lienzo para que la imagen completa sea visible , rellena las áreas vacías con color rojo, la guarda en un archivo llamado *Imagen_Multiple.jpg*  `Image.save()` y la muestra `Image.show()`.
+**En el ejemplo de `Image.rotate(angle, expand, fillcolor)`**
+```py 
+Multiples = Imag.rotate(45,expand = 1, fillcolor="Red")
+Multiples.save("Imagen_Multiple.jpg")
+Multiples.show()
+```
+Rota la imagen *Imag* en 45 grados, ajusta el lienzo para que la imagen completa sea visible , rellena las áreas vacías con color rojo, la guarda en un archivo llamado *Imagen_Multiple.jpg*  `Multiples.save()` y la muestra `Multiples.show()`.
 
 
 ### Imagen_Filtros.py
@@ -106,17 +126,36 @@ rota la imagen *Imag* en 45 grados, ajusta el lienzo para que la imagen completa
   from PIL import Image ,ImageFilter
 ```
 **En el ejemplo de `Imag.split()`**
-Divide la imagen *Imag* en sus componentes de color: Rojo (R), Verde (V) y Azul (A). 
+```py
+Ba_R, Ba_V, Ba_A = Imag.split()
+Ancho, Alto = Imag.size
+Imag_negro = Image.new(mode="L", size=(Ancho, Alto), color="Black")
+
+Imag_R = Image.merge("RGB", (Ba_R, Imag_negro, Imag_negro))
+Imag_R.show()
+Imag_R.save("Imagen_Roja.jpg")
+
+Imag_V = Image.merge("RGB", (Imag_negro, Ba_V, Imag_negro))
+Imag_V.show()
+Imag_V.save("imagen_Verde.jpg")
+
+Imag_A = Image.merge("RGB", (Imag_negro, Imag_negro, Ba_A))
+Imag_A.show()
+Imag_A.save("Imagen_Azul.jpg")
+```
+
+Divide la imagen `Imag.split()` en sus componentes de color: Rojo (R), Verde (V) y Azul (A). 
 Las bandas de color se asignan a *Ba_R, Ba_V y Ba_A* respectivamente.
 `Imag.size` Obtiene las dimensiones de la imagen Imag, 
 `Image.new` y crea una nueva imagen negra con el modo "L" (escala de grises).
 
-`Image.merge` Fusiona las bandas de color para crear una nueva imagen en la que solo el canal rojo está presente, mientras que los canales verde y azul son negros. Guarda esta imagen como *Imagen_Roja.jpg* `Image.save()` y la muestra `Image.show()`y el mismo procedimiento con los demas colores.
+`Image.merge` Fusiona las bandas de color para crear una nueva imagen en la que solo el canal rojo está presente, mientras que los canales verde y azul son negros. Guarda esta imagen como *Imagen_Roja.jpg* `Imag_R.save()` y la muestra `Imag_R.show()`y el mismo procedimiento con los demas colores.
 
 ### Collage.py
 ```py
   from PIL import Image ,ImageDraw , ImageFont
 ```
+
 **En el primer collage**,carga tres imagenes,creamos una nueva imagen blanca de 600x200 píxeles para el collage `Image.new`.
 Pegamos las tres imagenes redimensionadas en el collage en las posiciones especificadas usando coordenadas dentro 600x200 `collage.paste`,guardamos el collage como *Collage1.jpg* `Image.save()` y lo muestra `Image.show()`.
 
