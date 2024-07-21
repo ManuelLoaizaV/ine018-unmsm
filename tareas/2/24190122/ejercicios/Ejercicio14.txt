@@ -1,0 +1,10 @@
+Aprendizajes:
+•	El código muestra como iterar una cadena (s) utilizando el bucle for y como acceder a cada carácter individualmente
+•	Se utiliza una lista (resultado) para almacenar los caracteres modificados y luego se usa el método .append() para agregar caracteres al resultado.
+•	Se utiliza la función chr() y ord() para convertir caracteres de minúsculas a mayúsculas. ord(s[i]) - 32 calcula el código ASCII del carácter en mayúscula correspondiente.
+•	Se emplea el operador <= para comparar caracteres y determinar si están en el rango de minúsculas ('a' a 'z').
+•	Se utiliza el método ''.join(resultado) para concatenar los caracteres de la lista resultado en una cadena final.
+Dificultades:
+•	La conversión de minúsculas a mayúsculas se realiza usando la manipulación de códigos ASCII.
+•	El código no modifica caracteres que no son letras minúsculas ('a' a 'z') 
+•	La eficiencia del código puede ser un problema con entradas grandes debido a la creación repetida de listas y la concatenación de cadenas. 
