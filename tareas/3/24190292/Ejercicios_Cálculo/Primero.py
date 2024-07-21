@@ -29,4 +29,4 @@ Ecuacion = tangente*x + Ecencero
 Ecuacion = real_root(Ecuacion) 
 
 print("La ecuación de la normal cuando x = 0 es:")
-print('y = ',Ecuacion)
+print(f"y = {Ecuacion}")

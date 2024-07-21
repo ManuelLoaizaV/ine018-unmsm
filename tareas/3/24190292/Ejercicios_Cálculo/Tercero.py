@@ -1,5 +1,5 @@
 #importamos las funciones
-from sympy import diff, parse_expr
+from sympy import diff, parse_expr, pprint
 from sympy.abc import x,y
 
 F = parse_expr('x**2*sin(x+y)-5*y*E**x-3/sqrt(7)')
@@ -12,5 +12,5 @@ derivaday = diff(F,y)
 #calculamos por divisiones
 dy_dx = (-1)*derivadax/derivaday
 
-print(dy_dx)
+pprint(dy_dx)
 

@@ -2,6 +2,20 @@
 Antes de usar se debe instalar `sympy` . Se puede hacer directamente desde VSC
 Se debe colocar el siguiente comando `pip install sympy` para instalar y 
 automáticamente sympy se "acomodará" en todos los sitios que se requiera.
+Además se tiene que instalar `mpmath` usando el comando `pip install sympy`, 
+si crees que lo tienes puedes comprobarlo en el símbolo del sistema y escribir `pip list`
+para comprobar si está instalado.
+```sh
+C:\> pip list
+Package           Version
+----------------- -------
+mpmath            1.3.0
+pip               24.0  
+sympy             1.13.0
+
+C:\>
+```
+
 ## ¿Cómo funciona Sympy?
 Sympy es una biblioteca que se usa mayormente en expresiones matemáticas
 usando para ello expresiones simbólicas si se requiere, usa algoritmos para
@@ -80,14 +94,16 @@ x**(1/3)
 `nsimplify` para hacer que se represente mediante un numero racional el exponente, pues 
 hace lo contrario a simplificar.
 
+A continuación algunas funciones que ofrece sympy 
+
 |Función | Descripción|
 |---|---|
 |`symbols`| define una una a más variables|
 |`sin`| retorna un valor simbólico a menos que sea entero|
 |`solve(Eq,x)`| retorna la lista de soluciones de la ecuación `Eq` = 0 para la variable `x`|
-|`diff( fun,x)`|retorna la derivada de la función `fun` respecto a la variable `x`|
+|`diff( fun,x)`|retorna la derivada de la función [fun] respecto a la variable `x`|
 |`real_root`| retorna la solución real, si es que existe para una operación|
-|`pprint`| imprime expresiones matemáticas más legibles |
+|`pprint`| Imprime expresiones matemáticas más legibles |
 |`parse_expr`| convierte una cadena a expresión matemática|
 |`subs`| reemplaza una variable por otro valor |
 |`is_real`| Retorna `True` si el predicado de una variable es real|
@@ -95,3 +111,6 @@ hace lo contrario a simplificar.
 |`evalf`| retorna una expresión numérica de una expresión metamática si es que no hay variables|
 |`simplify`| retorna la simplificación de una expresión matemática|
 |`nsimplify`| retorna una expresión matemática simplificada pero usando números racionales|
+<div style="text-align: center;">
+<img src="https://docs.sympy.org/latest/_images/sympy-500px.png"  width="300" height="300">
+</div >
