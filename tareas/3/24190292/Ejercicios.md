@@ -1,12 +1,10 @@
 ## Primero 
-Hallar la ecuación de la recta normal en el punto de abscisas $x=0$ , si
+Hallar la ecuación de la recta normal en el punto de abscisas $x=0$ , si:
 
 $$ 
-    y^3 = \frac{x-27}{x+8} + sin^3(sin^2(4x))
+    y = \sqrt[3] {\frac{x-27}{x+8} + sin^3(sin^2(4x))}
 $$
  
-
-
 ## Segundo 
 Determinar razonadamente $\frac{dy}{du}$ si se tienen las siguientes funiones
 
@@ -18,8 +16,6 @@ $$
     u = \arctan\left(\frac{x^2-3}{1+3x^2}\right)
 $$
 
-
-
 ## Tercero
 Determina $ \frac{dy}{dx}$
 
@@ -27,15 +23,12 @@ $$
     f(x,y)= x^2\sin(x+y)-5\cdot y\cdot e^x - \frac{3}{\sqrt{7}}
 $$ 
 
-
-
 ## Cuarto
 Determina los puntos de inflexión y sus concavidades de:
 
 $$ 
     e^ x\cdot (x^2-5\cdot x+6)
 $$
-
 
 ## Quinto (AGA)
 Si tenemos un triángulo isósceles ABC y se tienen los punto A = ( 2, 1, -4) y B =( 7, 8, 5). Calcular el Punto medio de la base si ésta es parte de la recta definida por la siguiente ecuación:

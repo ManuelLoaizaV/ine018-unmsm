@@ -47,6 +47,8 @@ usar para crear muchas más funciones que necesitemos.
 Toda la documentación de [*sympy*](https://docs.sympy.org/latest/index.html)
 está documentado.
 
+<br>
+
 ## diferencias entre `sympy` y `math`
 |Tema|sympy|math|
 |---|---|---|
@@ -56,6 +58,8 @@ está documentado.
 |Precisión| Usa presición simbólica y permite aproximaciones numéricas| Solo puede usar números de punto flotante en python|
 
 Las diferencias entre cmath y math en python son la manipulación de número compejos que dispone cmath.
+
+<br>
 
 ## ¿Como funciona Sympy en mis códigos?
 He usado solo funciones básicas de cálculo como symbols, subs que sustituye el
@@ -75,7 +79,7 @@ sin(4)
 ```
 `evalf` se usa para encontrar el número y no solo su representación.
 
-Además de cálculos sencillos usando `diff` que calula la derivada de un polinomio.
+Además de cálculos sencillos usando `diff` que calcula la derivada de un polinomio.
 Se usó `solve` para poder encontrar las soluciones a polinomios.
 
 También `real_root` para encontrar la solución real de una expresión si es que pueden salir
@@ -96,13 +100,15 @@ hace lo contrario a simplificar.
 
 A continuación algunas funciones que ofrece sympy 
 
+<br>
+
 |Función | Descripción|
 |---|---|
 |`symbols`| define una una a más variables|
 |`sin`| retorna un valor simbólico a menos que sea entero|
 |`solve(Eq,x)`| retorna la lista de soluciones de la ecuación `Eq` = 0 para la variable `x`|
 |`diff( fun,x)`|retorna la derivada de la función [fun] respecto a la variable `x`|
-|`real_root`| retorna la solución real, si es que existe para una operación|
+|`real_root`| Retorna la raíz real de un número, especialmente cuando trabajo con números negativos|
 |`pprint`| Imprime expresiones matemáticas más legibles |
 |`parse_expr`| convierte una cadena a expresión matemática|
 |`subs`| reemplaza una variable por otro valor |
@@ -111,6 +117,6 @@ A continuación algunas funciones que ofrece sympy
 |`evalf`| retorna una expresión numérica de una expresión metamática si es que no hay variables|
 |`simplify`| retorna la simplificación de una expresión matemática|
 |`nsimplify`| retorna una expresión matemática simplificada pero usando números racionales|
-<div style="text-align: center;">
+<div style="text-align: center;"> <!-- parece que no funciona en git Hub :v pero en mi VSC el Preview si funciona adecuadamente pipipi-->
 <img src="https://docs.sympy.org/latest/_images/sympy-500px.png"  width="300" height="300">
 </div >
