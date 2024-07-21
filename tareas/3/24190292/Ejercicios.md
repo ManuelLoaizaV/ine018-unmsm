@@ -2,14 +2,14 @@
 Hallar la ecuación de la recta normal en el punto de abscisas $x=0$ , si:
 
 $$ 
-    y = \sqrt[3] {\frac{x-27}{x+8} + sin^3(sin^2(4x))}
+    y = \sqrt[3] {\frac{x-27}{x+8} + \sin^3(\sin^2(4x))}
 $$
  
 ## Segundo 
 Determinar razonadamente $\frac{dy}{du}$ si se tienen las siguientes funiones
 
 $$
-    y=f(x)= \frac{1}{2 \cdot \sqrt{2}} \cdot \ln\left(\frac{x^2-\sqrt{2} \cdot x+1}{x^2+\sqrt{2} \cdot x+1} \right) + \frac{1}{\sqrt{2}} \cdot \arctan\left(\frac{\sqrt{2} \cdot x}{1-x^2}\right)
+    y=F(x)= \frac{1}{2 \cdot \sqrt{2}} \cdot \ln\left(\frac{x^2-\sqrt{2} \cdot x+1}{x^2+\sqrt{2} \cdot x+1} \right) + \frac{1}{\sqrt{2}} \cdot \arctan\left(\frac{\sqrt{2} \cdot x}{1-x^2}\right)
 $$
 
 $$
