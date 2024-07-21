@@ -1,0 +1,5 @@
+Dificultades que tuve con el cambio de c++ a python fueron muchas, en general es por la costumbre que ya tenia a usar c++
+aunque no fue mucho tiempo, python tiene diferentes "normas", si lo puedo llamar asi, y una de las cosas que no entendi mucho
+es sobre los espacio pero analogo a c++ serian los punto y coma;cosas que aprendi con esto fue usar más el VS code en vez del 
+replit lo cual se me hace más comodo ahora el VS y aprendi algo basico y apurado sobre python pero llamo el suficiente interes
+para seguir investigado sobre el lenguaje.

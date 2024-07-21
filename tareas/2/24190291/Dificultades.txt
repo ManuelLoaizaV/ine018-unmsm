@@ -1,0 +1,10 @@
+Es algo mareado usar python luego de acostumbrarme a la estructura de c++, 
+aunque es algo parecido, así que a la vezya no hay tanta dificultad.
+En el colegio llevé Python, lo llevé muy poco, pero me hecho acordar
+y aprender más.
+Me hubiese gustado que comencemos con python por lo que es un poco más sencillo,
+C++ me costó más aprender y aún me cuesta, pero igual lo seguiré estudiando hasta 
+aprenderlo bien, pienso llevar cursos para reforzar.
+Respecto a lo de actualizar no entendía bien que debía hacer, pero por fin lo logré,
+y a lo de descargar python en VSCode y usarlo, ya fue sencillo por haberlo hecho para
+la tarea 1 con C++.

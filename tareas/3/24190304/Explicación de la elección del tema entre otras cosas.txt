@@ -1,0 +1,7 @@
+Explicación de la elección del tema, por qué le resultó interesante y qué aprendió de este.
+
+Elegí este tema porque me dio curiosidad y para demostrar que puedo aceptar retos mayores, y lograr el resultado.
+
+Porque vi que eran los datos de la pandemia y me dio intriga, además de querer ver los resultados en el grafico estadístico y como fue el progreso de la pandemia en mi distrito.
+
+Aprendí a como utilizar las bibliotecas pandas, numpy y matplotlib, y ha como descargarlos, yo lo hice desde el terminal de mi laptop, y además algo muy importante que aprendí es ha como codificar de manera eficiente, al principio no me salió, hice varios intentos, pero fui aprendiendo de mis errores y logre el resultado esperado.
