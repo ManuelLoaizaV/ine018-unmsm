@@ -1,0 +1,18 @@
+> Breña
+15082
+15083
+> 15086
+Magdalena del Mar
+San Miguel
+Pueblo Libre
+> Magdalena del Mar
+7021
+15076
+15086
+> 15076
+Magdalena del Mar
+Jesus María
+> Shibuya
+El distrito no existe.
+> 1
+El código no existe.
