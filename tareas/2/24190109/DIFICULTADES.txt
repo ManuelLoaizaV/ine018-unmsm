@@ -1,0 +1,10 @@
+DIFICULTADES:
+Mi mayor dificultad en este proceso fue poder adaptarme a un nuevo lenguaje de programación, a pesar de ver las 
+soluciones y comparar en ambos lenguajes y observar que en el lenguaje Python son más simples, ya estaba acostumbrado 
+a otra forma de resolver.
+Me sentía muy satisfecho con los problemas que hice, cuando las cosas te salen se siente muy bien, también me 
+sorprendió muchos la forma como se reducía la solución en este nuevo lenguaje, pero de nuevo se me complicó todo al
+ intentar el último problema.
+Trataba de encontrarle la similitud entre los comandos como append y push, investigando más también puede lograrlo. 
+Finalmente quiero agradecer a mi amigo Alex, que se tomó el tiempo de ayudarme en los últimos problemas. Se ganó el 
+cielo y su pan con tamal.

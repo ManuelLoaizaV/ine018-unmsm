@@ -1,0 +1,21 @@
+Crear servidores Web es una de las experiencias más interesantes en el mundo de la programación
+y desarrollo web, por ello aprender esta herramienta y de forma muy didactica me llamó la antención
+para desarrollar como mi trabajo final.
+
+En el ámbito del desarrollo web existen muchas maneras de hacerlo, y al día de hoy existe herrmientas
+que simplifican su esfuerzo sin disminuir los resultados, y para ello una de las herramientas más usadas
+es FastApi, un web framework con muchas funciones caracterizándose pricipalmente por ser rápido, simple y
+automático, generando la documentación API de forma automática, y desarrollable en python.
+
+Es por ello, y por lo novedoso e innovador que es crear paginas y/o servidores web, que decidí
+optar por este trabajo tratando de sumergirme en todo lo relacionado a páginas web y ganar un poco
+de experiencia en el área. 
+
+Al final del proceso aprendí la existencia de herramientas útiles para el desarrollo de servidores web,
+FastApi, cómo levantar el servidor desde nuestra pc usando la ventana de comandos de windwos, y cómo
+diseñar el código para el uso de la interfaz de los servidores web mediante python. 
+
+Agregar que ha sido una feliz y grata experiencia realizar este trabajo, habiendo tenido suerte
+al existir y escoger este tema, permitiendome desenvolverme en unos de los temas que más me 
+llamaron la atención aprender desde hace un tiempo y conocer nuevas tecnologías que simplifiquen su
+trabajo para implimentación a nivel particular, empresarial y profesional

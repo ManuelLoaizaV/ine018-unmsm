@@ -1,0 +1,14 @@
+def convertir_a_buena(s):
+    stack = []
+    for char in s:
+        if stack and stack[-1].lower() == char.lower() and stack[-1] != char:
+            stack.pop()
+        else:
+            stack.append(char)
+    return ''.join(stack)
+
+if __name__ == "__main__":
+    print(convertir_a_buena("UNMSM"))
+    print(convertir_a_buena("s"))
+    print(convertir_a_buena("xabBAycCz"))
+    print(convertir_a_buena("xaaabbbBBBAAAd"))
