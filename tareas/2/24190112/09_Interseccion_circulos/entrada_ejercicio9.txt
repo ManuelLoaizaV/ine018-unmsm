@@ -1,0 +1,9 @@
+Primer Círculo:
+Coordenadas del centro: 0 , 0.
+Radio: 10
+
+Segundo Círculo:
+Coordenadas del centro: 50 , 50.
+Radio: 10
+
+¿Los círculos intersectan?

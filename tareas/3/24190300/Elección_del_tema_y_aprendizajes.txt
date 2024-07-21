@@ -1,0 +1,21 @@
+> ¿Por qué elegí el tema?
+Me pareció bastante interesante la idea de poder editar imágenes con Python, pues
+en mi cabeza sonaba algo muy ajeno a lo que normalmente codificaba. Para ser honesto,
+creí que el proceso sería mucho más complicado de lo que realmente fue, lo único que
+debía hacer era colocar el nombre del filtro que quería aplicar, también intenté 
+cambiar el tamaño de la imagen.
+
+> ¿Qué aprendí?
+Además del hecho de que trabajar con códigos involucra un terreno mucho más amplio del
+que pensaba, no solo por la tarea que realicé, sino por todas las demás cosas que vi 
+que eran posibles dentro de las demás opciones; aprendí un poco sobre algunos filtros
+para desenfocar, suavizar, dar nitidez a las imágenes (siendo que existen muchos filtros
+para conseguir los mismos efectos, pero en diferentes grados).
+Además, aprendí a realizar una instalación de biblioteca y utilizarla, creo que eso 
+fue lo más tedioso en la tarea, pero se pudo. 
+No soy muy bueno en cosas relacionadas a la fotografía y edición de imágenes, me faltó
+un mejor ojo para reconocer diferencias entre los efectos de un flitro y otro, pero 
+supongo que es algo que puedo entrenar probando los filtros en diferentes imágenes, por
+lo demás, lo considero una herramienta genial y un editor de imágenes bastante
+sencillo de utilizar, al menos para alguien que lo utilizaría de forma casual (aún no
+sé hasta dónde puede llegar).

@@ -1,0 +1,10 @@
+¿Por qué elegí este tema?
+Primeramente leí un poco acerca de todas las opciones para saber en qué consistía cada uno, y fue PILLOW el que me resultó más interesante, debido a sus múltiples funciones en cuanto a la edición de imágenes, y permite poner en práctica la creatividad para transformarlas y crear algo cautivador.
+
+PILLOW tiene una amplia cantidad de herramientas que nos permiten realizar diferentes actividades que podemos implementar en nuestra edición, por ejemplo, la de recortar y redimensionar imágenes, y la de aplicar distintos filtros como el de colocar a tonos grises, desenfocar e incluso la función de marco.
+
+En otras palabras, es como tener un estudio fotográfico pero de forma digital en nuestro escritorio, donde cada imagen puede ser cambiada y mejorada con lo que se nos ocurra, dejando volar nuestras ideas creativas.
+
+Y es debido a ello que decidí elegirlo, era algo que desconocía pero que ahora considero una forma práctica de editar fotos o imágenes desde Python, lo cual era algo que no pensé que podría darse. Las funciones me sorprendieron debido a su variedad y efectividad, y me agradó mucho llevar a cabo el uso de PILLOW en PYTHON.
+
+Para la realización de esto, presente algunas dificultades en cuanto a la instalación de Pillow y a implementarlo en el Vscode, pero con ayuda de algunos tutoriales pude solucionar dicho problema y así realizar el proyecto.
