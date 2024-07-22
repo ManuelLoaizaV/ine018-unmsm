@@ -1,0 +1,48 @@
+codigos_postales = {
+  "Pueblo Libre": ["15083", "15084", "15086", "15088"],
+  "Magdalena del Mar": ["15083", "15084", "15086"],
+  "San Miguel": ["15084", "15086", "15088"],
+  # Agrega más distritos y códigos postales aquí
+}
+
+def buscar_codigos_postales(distrito):
+  """
+  Busca los códigos postales de un distrito.
+
+  Args:
+      distrito: El nombre del distrito a buscar.
+
+  Returns:
+      Una lista de códigos postales o un mensaje de error si el distrito no existe.
+  """
+  if distrito in codigos_postales:
+      return codigos_postales[distrito]
+  else:
+      return "El distrito no existe."
+
+def buscar_distritos(codigo_postal):
+  """
+  Busca los distritos que tienen un código postal.
+
+  Args:
+      codigo_postal: El código postal a buscar.
+
+  Returns:
+      Una lista de distritos o un mensaje de error si el código postal no existe.
+  """
+  distritos = []
+  for distrito, codigos in codigos_postales.items():
+      if codigo_postal in codigos:
+          distritos.append(distrito)
+  if distritos:
+      return distritos
+  else:
+      return "El código postal no existe."
+
+while True:
+  busqueda = input("> ")
+  if busqueda.isdigit():
+      resultado = buscar_distritos(busqueda)
+  else:
+      resultado = buscar_codigos_postales(busqueda)
+  print(resultado)
