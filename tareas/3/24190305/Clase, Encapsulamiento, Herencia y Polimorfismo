@@ -1,0 +1,57 @@
+class Vehiculo:
+  """Clase base para todos los vehículos."""
+
+  def __init__(self, marca, modelo, año):
+    """Inicializa un nuevo vehículo."""
+    self.__marca = marca  # Encapsulamiento: atributo privado
+    self.__modelo = modelo
+    self.__año = año
+
+  def get_marca(self):
+    """Devuelve la marca del vehículo."""
+    return self.__marca
+
+  def set_marca(self, nueva_marca):
+    """Establece una nueva marca para el vehículo."""
+    self.__marca = nueva_marca
+
+  def mostrar_info(self):
+    """Muestra la información del vehículo."""
+    print(f"Marca: {self.get_marca()}")
+    print(f"Modelo: {self.__modelo}")
+    print(f"Año: {self.__año}")
+
+class Coche(Vehiculo):
+  """Clase derivada de Vehiculo para coches."""
+
+  def __init__(self, marca, modelo, año, num_puertas):
+    """Inicializa un nuevo coche."""
+    super().__init__(marca, modelo, año) # Herencia
+    self.__num_puertas = num_puertas
+
+  def mostrar_info(self):
+    """Muestra la información del coche."""
+    super().mostrar_info()
+    print(f"Número de puertas: {self.__num_puertas}")
+
+class Motocicleta(Vehiculo):
+  """Clase derivada de Vehiculo para motocicletas."""
+
+  def __init__(self, marca, modelo, año, cilindrada):
+    """Inicializa una nueva motocicleta."""
+    super().__init__(marca, modelo, año)
+    self.__cilindrada = cilindrada
+
+  def mostrar_info(self):
+    """Muestra la información de la motocicleta."""
+    super().mostrar_info()
+    print(f"Cilindrada: {self.__cilindrada}")
+
+# Crear objetos de las diferentes clases
+coche = Coche("Toyota", "Corolla", 2022, 4)
+moto = Motocicleta("Honda", "CBR600RR", 2021, 600)
+
+# Usar el método mostrar_info() para cada objeto
+coche.mostrar_info()
+print("-" * 20)
+moto.mostrar_info()
