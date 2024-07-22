@@ -1,0 +1,16 @@
+def celsius_to_fahrenheit(celsius):
+  """Convierte grados Celsius a Fahrenheit.
+
+  Args:
+    celsius: La temperatura en grados Celsius.
+
+  Returns:
+    La temperatura en grados Fahrenheit.
+  """
+  fahrenheit = (celsius * 9/5) + 32
+  return fahrenheit
+
+# Ejemplo de uso
+celsius = 25
+fahrenheit = celsius_to_fahrenheit(celsius)
+print(f"{celsius} grados Celsius son equivalentes a {fahrenheit} grados Fahrenheit.")
