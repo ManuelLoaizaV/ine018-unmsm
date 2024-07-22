@@ -1,0 +1,44 @@
+def es_buena(cadena):
+  """
+  Verifica si una cadena es buena.
+
+  Args:
+    cadena: La cadena a verificar.
+
+  Returns:
+    True si la cadena es buena, False en caso contrario.
+  """
+  for i in range(len(cadena) - 1):
+    if cadena[i].islower() and cadena[i + 1].isupper():
+      return False
+  return True
+
+def convertir_a_buena(cadena):
+  """
+  Convierte una cadena mala en una buena.
+
+  Args:
+    cadena: La cadena a convertir.
+
+  Returns:
+    La cadena buena resultante.
+  """
+  while not es_buena(cadena):
+    for i in range(len(cadena) - 1):
+      if cadena[i].islower() and cadena[i + 1].isupper():
+        cadena = cadena[:i] + cadena[i+2:]
+        break
+  return cadena
+
+# Ejemplos de uso
+cadena1 = "Manuel"
+cadena2 = "s"
+cadena3 = "UNMSM"
+cadena4 = "xabBAycCz"
+
+print(f"La cadena '{cadena1}' es buena: {es_buena(cadena1)}")
+print(f"La cadena '{cadena2}' es buena: {es_buena(cadena2)}")
+print(f"La cadena '{cadena3}' es buena: {es_buena(cadena3)}")
+print(f"La cadena '{cadena4}' es buena: {es_buena(cadena4)}")
+
+print(f"La cadena '{cadena4}' convertida a buena es: {convertir_a_buena(cadena4)}")
