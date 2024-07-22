@@ -1,0 +1,19 @@
+def string_a_entero(cadena_digitos):
+  """Convierte una cadena de dígitos a un número entero.
+
+  Args:
+    cadena_digitos: La cadena de dígitos a convertir.
+
+  Returns:
+    El número entero correspondiente a la cadena de dígitos.
+  """
+
+  numero = 0
+  for digito in cadena_digitos:
+    numero = numero * 10 + int(digito)
+  return numero
+
+# Ejemplo de uso
+cadena = "12345"
+numero_entero = string_a_entero(cadena)
+print(f"La cadena '{cadena}' convertida a entero es: {numero_entero}")
