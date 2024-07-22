@@ -1,0 +1,9 @@
+Elegí la opción 1, implementar ejemplos de clases, encapsulamiento, herencia y polimorfismo en Python por la importancia de estos 
+conceptos en la programación orientada a objetos (POO). Python es un lenguaje muy utilizado a nivel mundial, lo que hace que aprender 
+estos conceptos en este lenguaje sea muy útil y relevante.
+
+Me resultó interesante ya que con la programación orientada a objetos pude implementar estos ejemplos que me permitió comprender cómo 
+se aplican en situaciones reales. Además, me ayudó a mejorar mis habilidades en Python, un lenguaje que valoro por su simplicidad y eficacia.
+
+En este proyecto aprendí a crear y usar clases, cómo proteger los datos dentro de una clase, cómo reutilizar y extender el código mediante 
+clases derivadas, cómo tratar diferentes clases de manera uniforme, lo que facilita la flexibilidad y extensión del código.

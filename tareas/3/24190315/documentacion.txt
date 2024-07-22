@@ -1,0 +1,41 @@
+INTRODUCCION
+
+Este proyecto implementa ejemplos de clases, encapsulamiento, herencia y polimorfismo en Python. Son indispensables en la programación orientada a objetos (POO) y esenciales para el desarrollo software estructurado.
+
+ARCHIVOS
+
+El presente proyecto tiene como archivos clases.py, encapsulamiento.py, herencia.py, polimorfismo.py, eleccion_del_tema.txt, documentacion_del_proyecto.txt, captura_de_la_ejecucion.png.
+
+DESCRIPCION DE LOS CODIGOS
+
+1. Clases (Ecuación cuadrática)
+- La clase "EcuacionCuadratica" se utiliza para representar y resolver ecuaciones cuadráticas de la forma ax^2+bx+c=0.
+- Los atributos son los coeficientes a, b, c y la lista raíces donde se almacena las raíces de la ecuación.
+- En los métodos cree el constructor "_init_(self, coea, coeb, coec)" y las funciones raíces(self) que devuelve la lista de raíces y calcular(self) que calcula las raíces de la ecuación con la fórmula general.
+- El procedimiento para calcular las raíces es el siguiente:
+a. Primero se calcula el discriminante 𝑑=𝑏^2−4𝑎𝑐.
+b. Si el d = 0, la ecuación tiene una raíz real: Calcula la raíz 𝑥1=−𝑏/(2𝑎) y la agrega a la lista raices.
+c. Si el d > 0, la ecuación tiene dos raíces reales: Calcula las raíces x1 y x2 usando la fórmula cuadrática y las añade a la lista raices.
+d. Si el d < 0, la ecuación no tiene raíces reales y la lista raices se queda vacía.
+- Finalmente se crean 3 instancias de la clase "EcuacionCuadratica" con diferentes coeficientes, se calculan sus raíces y se imprimen
+
+2. Encapsulamiento (alumno) 
+- La clase "Persona" encapsula datos dentro de una clase para proteger la integridad de los datos y restringir el acceso.
+- El atributo privado self._nombre es un atributo que no se puede acceder directamente desde fuera de la clase. Está prefijado con dos guiones bajos (_) lo que significa que el atributo es privado.
+- __saludar es un método privado que imprime un mensaje. De la misma forma que el atributo, este método indica que no debe ser llamado desde fuera de la clase.
+- mostrar_nombre es un método público que devuelve el valor del atributo privado __nombre. Proporciona una forma segura de acceder al valor del atributo desde fuera de la clase.
+- Cree una isntancia de la clase persona: alumno = Persona()
+- Se accede al método y atributo privados __saludar y __nombre mediante técnicas que nos permite utilizar Python.
+- Finalmente se imprimen los resultados.
+
+3. Herencias (Calcular áreas)
+- Se creó los atributos área que almacena el área de la figura y perímetro que almacena el perímetro de la figura.
+- Se creó  el constructor _init_(self, nombre) que inicializa el nombre de la figura. Después, el méodo Area(self) que devuelve el valor del atributo area. Luego, Perimetro(self) que devuelve el valor del atributo perimetro.
+- Se implementó la clase Triangulo y Cuadrado que hereda de la clase Figura.
+- El método calcularArea calcula el área del triángulo y del cuadrado y almacena el resultado en el atributo area. De la misma forma con el método calcularPerimetro que calcula el perímetro del cuadrado y almacena el resultado en el atributo perimtero.
+- Finalmente se crean las instancias para que el programa imrpima los resultados.
+
+4. Polimorfismo (Mascotas)
+- En la clase Perro se crea el método hacer_sonido(self) la cual imprime "Guau", que es el sonido característico de un perro. De la misma forma con las clases Gato y Cocodrilo se crean métodos para los sonidos correspondientes.
+- La función hacer_sonido_del_animal(animal) acepta un objeto animal y llama al método hacer_sonido de ese objeto. Dado que todas las clases Perro, Gato, Cocodrilo tienen el método hacer_sonido, esta función puede trabajar con cualquier objeto que tenga dicho método.
+- Sea crea las instancias para perro, gato y cocodrilo. Después se llama a la función hacer_sonido_del_animal para luego imprimir los sonidos que corresponde a cada animal.

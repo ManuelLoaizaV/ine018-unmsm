@@ -1,0 +1,6 @@
+Las dificultades que tuve en el proceso de completar la tarea 2 fueron que no conocía a plenitud las funciones de Python, 
+específicamente las equivalentes a las trabajadas durante las clases en c++. Sin embargo, al comprender como eran las
+equivalencias de las sintaxis, vi que eran bastante parecidas y con ayuda de videos de YouTube y guías de Python que
+investigué, logré aprender más cosas, e incluso me pareció más amigable y sencillo como se manejaba en Python. Por ejemplo,
+poder declarar cualquier función con "def", o no tener la necesidad de llamar a bibliotecas constantemente para las
+funciones básicas.

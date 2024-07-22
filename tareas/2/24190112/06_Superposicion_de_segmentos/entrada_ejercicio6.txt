@@ -1,0 +1,1 @@
+¿Los segmentos [0, 10] y [10, 20] se superponen?

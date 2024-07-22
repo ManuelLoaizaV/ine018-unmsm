@@ -1,0 +1,13 @@
+DIFICULTADES:
+la dificultad más importante fue la de entender como funciona python a comparación de c++.
+Lo que fuí aprendiendo en el transcurso de la tarea fue que hay ligeras diferencias que determinan 
+que el código sea más corto y conciso , sin perder su función ya establecida.
+Un ejemplo de estas diferencias es que utiliza funciones como input() para la entrada y print() para la salida.
+Como noté, no es necesario declarar el tipo de las variables explícitamente, en el caso de 
+c++ tendríamos que colocar cin y cout , como la mayoría de nosotros conocemos.
+Y recalco que esta es solo un ejemplo de las muchas diferencias que encontré pero 
+que cumplen la misma función , tal vez al comienzo sea algo complejo pero luego con la práctica
+se volverá parte de nuestro lenguaje de programación.
+Entonces, en conclusión, está tarea fue fundamental para tener un spoiler de que veremos seguramente
+más adelante , y sobretodo el curso fue de los mayores retos de este ciclo, pero para bien , pues 
+me ayudó a esforzarme para poder comprenderlo y conocer lo básico de esta gran herramienta.

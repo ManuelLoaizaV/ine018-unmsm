@@ -1,0 +1,3 @@
+DABC
+ACDB
+ABCD

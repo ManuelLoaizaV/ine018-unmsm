@@ -1,0 +1,11 @@
+La mayor dificultad que tuve fue en los nuevos términos. Más que nada solo era saber cuales son y hacerle un equivalente a los ya usados
+anteriormente en C++. Tengo que decir que Python me gustó bastante es mucho más facil programar, ya tiene bastantes funciones programadas sin
+necesidad de llamar a muchas bibliotecas como en C++. Me hubiera gustado que se nos enseñe a programar en C++.
+Debo agregar también que otra dificultad que tuve pero yo elegi es realizarlo por lectura y escritura de archivos, no lo entendi al inicio pero una
+vez comprendes el funcionamiento y como Python lee los archivos y lo que tienes que poner para que lo lea correctamente fue muy fácil.
+Las equivalencias con el C++: Listas = Vectores, la diferencia es que las listas son más flexibles acerca del tipo de datos que tiene algo que los 
+vectores no. En Diccionarios = Mapas, la diferencia está en que los diccionarios estan en desorden y los mapas no. Y algo curioso sobre las pilas es que
+no necesitaba llamar una biblioteca sino que con la misma lista se puede implementar al igual que las colas pues si evaluamos la lista con numeros negativos,
+ejemplo: lista[-1] esto empezará desde el último valor y es la definición de una pila (LIFO), sobre las colas ocurre lo mismo solo hay que empezar por el 0.
+En general, me encantó Python además algo que me llamó bastante la atención y es que no se declaraba los tipos de variables antes de las funciones como el bool, int, float,
+double y sobre el long que no debia preocuparme por ingresar números grandes porque Python ya viene con eso implementado.

@@ -1,0 +1,7 @@
+Aprendizajes:
+•	He aprendido a utilizar listas en Python, agregar y eliminar elementos en este caso caracteres.
+•	Se uso métodos de cadenas como lower() para manejar comparaciones que ignoran el caso.
+•	Invertir una cadena utilizando el slicing ([::-1]) en Python.
+•	El slicing ([inicio:fin:paso]) se usa para realizar operaciones como la inversión de cadenas.
+Dificultades:
+•	En casos especiales como en cadenas vacías o cadenas con un solo carácter puede presentarse dificultades en la ejecución del código.
