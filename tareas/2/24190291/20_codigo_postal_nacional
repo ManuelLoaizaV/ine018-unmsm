@@ -1,0 +1,31 @@
+def main():
+    codigos_postales = {
+        "Breña": [15082, 15083],
+        "Magdalena del Mar": [7021, 15076, 15086],
+        "San Miguel": [15086, 15087, 15088],
+        "Pueblo Libre": [15083, 15084, 15086, 15088],
+        "Jesus María": [2002, 15072, 15073, 15076, 15084],
+        "Lima": [7006, 15001, 15003, 15004, 15006, 15018, 15046, 15079, 15081, 15082, 15083, 15085, 15088, 15093, 15101, 15822, 21001]
+    }
+
+    while True:
+        entrada = input("> ")
+
+        if entrada.isdigit():
+            codigo = int(entrada)
+            for distrito, codigos in codigos_postales.items():
+                if codigo in codigos:
+                    print(distrito)
+                    break
+            else:
+                print("El código postal no existe.")
+        else:
+            distrito = entrada.strip()
+            if distrito in codigos_postales:
+                for codigo in codigos_postales[distrito]:
+                    print(codigo)
+            else:
+                print("El distrito no existe.")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,30 @@
+> Empezando por la instalación y la actualización de mi respositorio local, no tuve 
+muchos problemas en ese aspecto.
+> Continuando con Python, la verdad es que me parece una herramienta bastante interesante
+y, definitivamente, más intuitiva que C++ en muchos aspectos, por ejemplo, pude notar
+que el input me permitía definir una variable, al mismo tiempo que la leía y podía 
+acompañarlo de una impresión, es como si pudiera hacer las 3 cosas en una sola línea.
+> Otra cosa que me llamó mucho la atención fueron las conversiones. Por defecto, los 
+"input" te retornan cadenas, pero es muy fácil convertirlos a "float" o "int", y lo
+mismo a la inversa (necesario para imprimir mis archivos de texto).
+> Noté que los while, for e if no necesitaban paréntesis en sus condiciones; además,
+las llaves fueron reemplazadas por ":", lo que no mes gustó de esto fue que es más
+prioritario conservar el espaciado horizontal y era más tedioso corregir cosas 
+relacionadas ya que tenía que mover todas las líneas.
+> La sintaxis del for es muchísimo más intuitiva, tanto en el for convencional como
+en el for por rango (lo pude ver en los pares, cuando utilicé "mapas" (o algo así)).
+> Es mucho más sencillo poner los elementos de un contenedor (lista) en una cadena.
+> El código ASCII es diferente, eso no me gusta tanto porque no puedo sumar los
+caracteres directamente, sino llamar a su valor en ASCII y crear un nuevo caracter.
+PD: en ese ejercicio pude usar "upper", pero en el original lo había resuelto con ASCII,
+así que, por si acaso xd, lo hice de ese modo.
+> La sintaxis en los mapas también es más intuitiva, utilizamos "in" para ver si un
+elemento pertenece a un contenedor, de hecho, me gustó mucho su uso en la línea 60
+del ejercicio de la clase 17.
+> He de decir que donde sufrí bastante fue en los archivos de salida; en realidad,
+había usado print e input para todo, pero luego me animé a realizar modificaciones
+y fue la parte donde más tarde... Había utilizado "while" para algunas cosas, pero luego
+tuve que usar "for" para poder iterar en las líneas de los archivos de entrada
+(no sé si hubiera tenido el mismo resultado con while), asímismo, tuve otros 
+contratiempos, pero se pudo lograr.
+> Hay cosas que aún no comprendo del todo, pero espero aprender mucho más en un futuro.

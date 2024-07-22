@@ -1,0 +1,1 @@
+La desviación estándar de la lista de números dada es: 11.20

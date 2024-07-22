@@ -1,0 +1,7 @@
+Aprendizajes:
+•	En este ejercicio, utilizamos las funciones distancia y esTrectangulo de la clase de funciones para organizar y reutilizar el código.
+•	Empleamos fórmulas comúnmente vistas en matemáticas, como la geometría analítica, las cuales nos ayudaron en la resolución del ejercicio.
+•	También utilizamos el operador lógico "or" en la función esTrectangulo para verificar si los tres puntos forman un triángulo rectángulo.
+Dificultades:
+•	Con el caso de la precisión en los cálculos de la distancia puede ser un desafío debido a posibles errores de redondeo en números decimales.
+•	En la compresión de la condición lógica “or” se me puede presentar confuso dado al cambio de lenguaje de programación y a la nueva sintaxis

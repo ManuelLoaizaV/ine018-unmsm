@@ -1,0 +1,4 @@
+¿Cómo lo ejecutamos?
+Muy fácil, primero en la terminal ingresaremos el nombre de la carrera que deseamos obtener la información.
+Aplicamos enter y se abrirá el navegador que se utilizó, se ejecutará el código y finalmente en la terminal aparecerá toda
+nuestra información solicitada.
