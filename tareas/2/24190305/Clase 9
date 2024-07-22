@@ -1,0 +1,48 @@
+import math
+
+def distancia(x1, y1, x2, y2):
+  """Calcula la distancia entre dos puntos.
+
+  Args:
+    x1: Coordenada x del primer punto.
+    y1: Coordenada y del primer punto.
+    x2: Coordenada x del segundo punto.
+    y2: Coordenada y del segundo punto.
+
+  Returns:
+    La distancia entre los dos puntos.
+  """
+  return math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
+
+def es_triangulo_rectangulo(x1, y1, x2, y2, x3, y3):
+  """Determina si un triángulo es rectángulo.
+
+  Args:
+    x1, y1: Coordenadas del primer vértice.
+    x2, y2: Coordenadas del segundo vértice.
+    x3, y3: Coordenadas del tercer vértice.
+
+  Returns:
+    True si el triángulo es rectángulo, False en caso contrario.
+  """
+  lado1 = distancia(x1, y1, x2, y2)
+  lado2 = distancia(x1, y1, x3, y3)
+  lado3 = distancia(x2, y2, x3, y3)
+
+  # Verificar si la suma de los cuadrados de dos lados es igual al cuadrado del t lado
+  return (lado1**2 + lado2**2 == lado3**2) or \
+         (lado1**2 + lado3**2 == lado2**2) or \
+         (lado2**2 + lado3**2 == lado1**2)
+
+# Ejemplo de uso
+x1 = 0
+y1 = 0
+x2 = 3
+y2 = 0
+x3 = 0
+y3 = 4
+
+if es_triangulo_rectangulo(x1, y1, x2, y2, x3, y3):
+  print("El triángulo es rectángulo.")
+else:
+  print("El triángulo no es rectángulo.")
