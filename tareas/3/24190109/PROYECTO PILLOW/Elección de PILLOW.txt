@@ -1,0 +1,10 @@
+
+¿POR QUÉ ELEGÍ PILLOW COMO PROYECTO?
+
+Tuve el proyecto de PILLOW como segunda opción, ya que como me gusta muchos los números y estamos en semana de 
+finales me había llamado mucho la atención realizar el proyecto de Cálculo con SymPy. Tenía planeado realizar 
+ambos; inicié realizando PILLOW, ya que me daba curiosidad como se podía editar fotografías mediante PYTHON. 
+Una de las razones que me ayudó en mi elección fue mi afición por las fotografías.
+Fue muy interesante y complicado solo al iniciar, ya después me dí cuenta que es muy didáctico y más simple 
+de lo complejo que parecía al comienzo. Este proyecto me demandó mucho tiempo, por lo cual no pude realizar 
+el Cálculo con SymPy, pero ello no sginifica que no lo haga por mi cuenta. Me encantó PILLOW.
