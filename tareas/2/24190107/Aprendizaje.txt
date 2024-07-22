@@ -1,0 +1,14 @@
+Aprendizaje
+
+Para empezar fue dificil aprender un nuevo lenguaje las nuevas funciones,la nueva 
+sintaxis, me vi varios videos antes de meterme a codear, me rendi cuando tenia problemas 
+para que funcione vsc pero luego volvi con fuerzaaa.
+Me parecio increible la cantidad de funciones , que reducian considerablemente el codigo.
+a medida que aprendia de listas, vi mucha similitud con lo que ya habiamos visto.
+
+**Puntos aprendidos:
+-Programar en python,aprendi lo basico.
+-Tambien reforze mi conocimiento sobre funciones y listas
+-Aprendi muchas funciones que reducian bastante el codigo como upper , join,etc.(seguro
+ que aun queda un mundo sin explorar).
+-aprendi a actualizar la carpeta clonada , era tan facil solo un pull c:.

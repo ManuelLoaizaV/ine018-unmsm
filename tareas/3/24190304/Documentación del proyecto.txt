@@ -1,0 +1,14 @@
+Una breve documentación del proyecto explicando su funcionamiento y cómo ejecutarlo.
+
+Este proyecto tiene como principal objetivo visualizar la evolución de la Pandemia, yo soy de El Agustino por eso utilice eso como base de datos. Al utilizar el terminal nos brinda una representación gráfica de la evolución de los casos de la pandemia en El Agustino.
+También una complicación que tuve es que no lo pude subir en cvs como vi en videos, asi que lo copie y pegue en mi código todos los datos de El Agustino. Además instale las bibliotecas pandas que me ayudan a la manipulación de datos, numpy para operaciones numéricas y matplotlib para la visualización de datos.
+Funcionamiento:
+1. Primero importe las bibliotecas pandas, numpy e Matplotlib.
+2. Subi los datos de mi distrito con el link que mando.
+3. Organizo las filas y columnas.
+4. Agrupo para calcular la suma de cada caso y poder ver la evolución.
+5. Converti algunos datos en datetime para obtener una mejor visualización.
+6. Y ya luego es la impresión, códigos para ver el tamaño, los títulos entre otras cosas.
+Como ejecutarlo
+En mi caos utilize el terminal de visual studio code, aunque también con el terminal de tu computadora, colocando Python y luego el nombre con lo que lo guardas.
+ 

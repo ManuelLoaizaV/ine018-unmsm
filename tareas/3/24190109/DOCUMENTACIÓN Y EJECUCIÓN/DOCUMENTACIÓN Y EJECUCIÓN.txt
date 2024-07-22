@@ -1,0 +1,40 @@
+DOCUMENTACIÓN
+
+PILLOW
+
+Pillow es una biblioteca adicional para el lenguaje de programación 
+Python que agrega soporte para abrir, manipular y guardar muchos formatos de archivo de imágenes 
+diferentes. 
+
+DESCARGA: 
+
+Primero, lo que hice fue habilitar el comando pip.
+En la consola de VSC coloqué el comando -m pip install --upgrade pip para la actualización
+y posterior descarga de PILLOW. 
+(ADJUNTO IMAGEN DE COMO QUEDÓ HABILITADA PARA PODER CONTINUAR CON LA INSTALACIÓN).
+
+Segundo, con la ayuda del comando pip procedo a la descarga de la biblioteca PILLOW, mediante el 
+comando -m pip install --upgrade pip Pillow.
+(ADJUNTO IMAGEN DE LA INSTALACIÓN DE LA BIBLIOTECA PILLOW).
+
+Tercero, comprobé la exitosa instalación de la bilioteca, colocando import PIL y PIL.__version__
+
+
+EJECUCIÓN:
+
+Para poder importar las clases y funciones de Python Imaging Library (PIL), que es una biblioteca 
+de Python ampliamente utilizada para el procesamiento de imágenes, debemos utilizar el código 
+"  from PIL import Image, ImageOps, ImageEnhance, ImageFilter  ".
+
+EJEMPLO:
+
+CARGAR UNA IMAGEN:
+        image = Image.open("HALA MADRID.jpg")
+
+EDICION DE FILTRO:
+         new_imagen = imagen.filter(ImageFilter.SMOOTH)
+         new_imagen.save("EdicionDeFiltro.jpg")
+
+**REPETIR ESTE PROCESO DE EDICION EN CUALQUIER OTRA FUNCION QUE DESEEMOS REALIZAR.
+
+

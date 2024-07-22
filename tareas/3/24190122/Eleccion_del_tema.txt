@@ -1,0 +1,14 @@
+Elección del tema: Exploración de datos de la pandemia
+Elegí este tema que trata sobre los datos recolectados en la pagina QLAB PUCP, porque al saber  que cómo ha impactado esta crisis sanitaria a nivel local es importante para comprender mejor su alcance y sus efectos en la comunidad tanto como reflexionar sobre esto. 
+La pandemia de COVID-19  ha afectado en todo aspecto, desde la salud pública hasta la economía y la sociedad en general. 
+
+Por qué resultó interesante:
+Este tema me resultó particularmente interesante por varias razones:
+La pandemia no solo ha sido un evento de salud pública, sino que también ha afectado la vida cotidiana de las personas no solo en mi distrito sino tambien a escala mundial, pero para tener una vision cercana a nosotros y no tan general nos spuede ayudar a comparar la situacion en que nos encontrabamos.
+Utilizar herramientas como pandas, numpy y matplotlib para analizar datos reales y relevantes me permite aplicar mis habilidades en un contexto significativo. Esto no solo refuerza mis conocimientos técnicos, sino que también me enseña a interpretar y comunicar hallazgos de manera efectiva.
+
+
+Lo que aprendí de este:
+Al explorar los datos de la pandemia en mi departamento, he aprendido:
+Mejoré mi capacidad para manejar los datos utilizando bibliotecas como pandas y numpy. 
+Adquirí conocimientos básicos sobre conceptos epidemiológicos como tasas de contagio, mortalidad y porcentaje de muertes relacionadas con COVID-19. 

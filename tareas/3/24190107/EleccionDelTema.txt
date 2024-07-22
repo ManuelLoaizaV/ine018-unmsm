@@ -1,0 +1,24 @@
+### Eleccion del tema
+El nombre me llamo la atencion, y la edicion es algo en lo que suelo pasar mi tiempo,
+Siento que puede ser muy util en mi dia a dia.
+
+### Por que me resulto interesante
+¿Como seria abrir,editar imagenes desde mi consola, sin tener que redireccionarme a su 
+carpeta o tener un editor particular? 
+Con solo saber la ubicacion  ya seria posible, seria muy util reproducir videos o 
+imagenes, no se el alcanze que tiene estas funciones pero 
+vamos alla para descubrirlo c:
+### Que aprendio de este tema
+es la primera vez que editaba desde codigo ,asi que tuve muchas dificultades para
+encontrar un sentido a ciertos funciones.
+- Mejore mi repertorio de funciones en python, ahora tengo mas codigos que puedo usar 
+  en mis ediciones.
+- Descubri el uso de los numeros en la implementacion de imagenes asi como la ubicacion de los colores 
+  ya me se algunas coordenadas de los colores.
+- Aprendi a cambiar formatos entre imagenes asi de sencillo, no se si habra otras complicaciones 
+  con formatos mas avanzados.
+- Tengo una nocion de la posiciones,filtros, y diferentes bibliotecas.
+- Aprendi lo basico ,y aun queda todo un mundo para descubrir para el procesamiento de
+  las imagenes
+ 
+Muchas Gracias Profesor Manuel Loaiza ,Gracias por sus lecciones y compartir su conocimiento. 
