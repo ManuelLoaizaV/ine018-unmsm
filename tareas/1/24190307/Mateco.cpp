@@ -1,20 +1,20 @@
 #include <iostream>
-#include <stack>
-
-
+#include <string>
 using namespace std;
 
-int main(void) {
-    int a;
-    stack <int> binario;
-
+int main() {
+    string a;
+    cout << "Buen día, ingrese su código de estudiante: ";
     cin >> a;
 
-    cout << a << endl;
+    while (a != "24190307") {
+        cout << "Este código no está registrado." << endl;
+        cout << "Por favor, inténtelo de nuevo: ";
+        cin >> a;
+    }
 
-    
-
-
+    cout << "Bienvenida, Ariadna (" << a << ")." << endl;
 
     return 0;
 }
+// Primero probé con un valor que no era mi código, ya luego con el valor verdadero ^^
