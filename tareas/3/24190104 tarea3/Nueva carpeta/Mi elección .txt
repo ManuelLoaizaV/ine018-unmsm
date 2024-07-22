@@ -1,0 +1,13 @@
+¿Por qué escogí a la Programación orientada a objetos?
+Siempre escuché acerca de la POO, sobretodo cuando llegaba la hora de clasificar a ciertos objetos
+que serán parte de nuestro programa, fue más mi curiosidad y mis ganas de terminar de comprender 
+cómo funcionan estas definiciones en nuestro código. Este trabajo trajo consigo muchas dudas resueltas,
+tales como: diferenciar las definiciones de atributos y métodos, comprender que el encapsulamiento me ayuda a mantener  
+ocultos a los atributos, que la herencia es una clase nueva que se crea a partir de una clase que ya existe y que
+hereda todos sus atributos y métodos, y también no puedo soslayar al polimorfismo que me permite obtener una respuesta
+diferente a un mismo mensaje.
+En la mayoría de los códigos usé la temática del deporte , en específico , al fútbol, dado que me gusta relacionar
+este ámbito con cualquier tema que deba comprender, este pequeña acción me facilita la comprensión del tema.
+Agradecer al profesor Manuel Loaiza , puesto que siempre nos brindaba ejemplos cotidianos para poder facilitar la 
+comprensión de los temas del curso , y sobtretodo a su disponibilidad para resolver nuestras dudas, siempre rescataré 
+esas actitudes empáticas que tuvo con nosotros.
