@@ -1,0 +1,25 @@
+
+#Elección del Tema pillow
+
+He decidido centrarme en la biblioteca Pillow de Python para manipulación de imágenes debido a su amplia versatilidad y aplicaciones en la edición de imágenes digitales.
+Pillow, una biblioteca que es una bifurcación de PIL (Python Imaging Library), permite realizar una variedad de tareas que incluyen abrir, manipular, y guardar imágenes en varios formatos.
+ Mi interés en este tema surge de la creciente demanda de habilidades en procesamiento de imágenes y el impacto que estas herramientas tienen en la creación y edición de contenido visual en múltiples disciplinas.
+
+ #Razones de Interés
+
+Aplicaciones Prácticas: La manipulación de imágenes es fundamental en diversas áreas como el desarrollo web, la creación de contenido multimedia y el análisis de datos. 
+Aprender a usar Pillow me permite comprender mejor cómo se pueden automatizar y optimizar estos procesos.
+ Creatividad y Experimentación: La capacidad de aplicar filtros, redimensionar imágenes, y combinar diferentes elementos visuales abre un mundo de posibilidades creativas. Me resulta fascinante explorar cómo se pueden realizar cambios y efectos en imágenes a través del código.
+
+#Aprendizajes
+
+Manejo de Archivos de Imagen: Aprendí cómo abrir, guardar y mostrar imágenes en diferentes formatos. 
+Esto incluye trabajar con formatos comunes como JPEG y PNG, y entender cómo cada formato afecta la calidad y el tamaño del archivo.
+
+Manipulación Básica y Avanzada: He adquirido experiencia en redimensionar imágenes, aplicar filtros y ajustar propiedades como el contraste y la saturación. 
+Estas técnicas son útiles para preparar imágenes para su uso en aplicaciones web o para mejorar su calidad visual.
+
+# Conclusión
+
+Trabajar con Pillow ha sido genial. No solo he mejorado en Python, sino que también he aprendido mucho sobre cómo manejar y mejorar imágenes.
+ Estoy muy emocionado de usar todo esto en próximos proyectos y seguir explorando lo que se puede hacer con el procesamiento de imágenes.

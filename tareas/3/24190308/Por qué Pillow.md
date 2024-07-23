@@ -1,0 +1,6 @@
+POR QUÉ PILLOW?
+=============
+####Por qué elegí hacer mi proyecto sobre Pillow?
+Al revisar las opciones las opciones disponibles, la que me llamó la atención inmediatamente fue Pillow, porque no sabía que se podían trabajar con imágenes y mucho menos realizar todas modificaciones que pillow posee.
+####Aprendizaje
+En el proceso de codificación de mi proyecto aprendí una gran variedad de cosas. Para empezar, tuve que investigar mucho sobre Pillow y sobre todo cómo hacerlo funcionar en Google Colab, ya que al no poder trabajar en Visual Studio Code, habían ciertos procesos adicionales que tenía que realizar, sobre todo porque no podía acceder directamente a los archivos de mi computadora, por lo que primero era necesario subir el archivo. También, aprendí sobre las herramientas que la biblioteca Pillow, como ImageFilter, ImageEnhance, ImageOps que poseen diferentes funcionalidades para poder editar las imagenes, desde poner diferentes filtros, subir el brillo, redimencionar las imagenes, cambiar el color, etc.

@@ -1,0 +1,10 @@
+Dificultades:
+
+La primera dificultad que tuve fue adaptar la sintaxis de C++ a Python. 
+Luego, tuve que averiguar algunas librerías para importar y ejecutar el programa de forma correcta. 
+Otra dificultad que tuve fue resolver posibles errores de sintaxis ya que presentan diferencias ambos lenguajes de programación.
+
+Aprendizajes:
+
+El proyecto me permitió mejorar la comprensión de la sintaxis y las funciones estándar de Python.
+Además, a familiarizarme más con el entorno de desarrollo de Visual Studio Code y cómo utilizarlo ede manera eficiente para programar en Python.

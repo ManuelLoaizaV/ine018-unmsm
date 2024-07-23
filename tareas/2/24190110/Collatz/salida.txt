@@ -1,0 +1,16 @@
+7 es impar, entonces hago 3n + 1: 22
+22 es par, estonces tomo la mitad: 11
+11 es impar, entonces hago 3n + 1: 34
+34 es par, estonces tomo la mitad: 17
+17 es impar, entonces hago 3n + 1: 52
+52 es par, estonces tomo la mitad: 26
+26 es par, estonces tomo la mitad: 13
+13 es impar, entonces hago 3n + 1: 40
+40 es par, estonces tomo la mitad: 20
+20 es par, estonces tomo la mitad: 10
+10 es par, estonces tomo la mitad: 5
+5 es impar, entonces hago 3n + 1: 16
+16 es par, estonces tomo la mitad: 8
+8 es par, estonces tomo la mitad: 4
+4 es par, estonces tomo la mitad: 2
+2 es par, estonces tomo la mitad: 1

@@ -1,0 +1,15 @@
+
+¿QUÉ APRENDÍ DE PILLOW?
+
+Con PILLOW aprendí principalmente de lo que trata, editar imágenes.
+Puede manejar y adaptarme bien a todas las herramientas, comandos y
+bibliotecas que posee, ya que estas me permitieron realizar múltiples
+funciones como lo es redimensionar el tamaño de las imágenes, editar 
+iluminación y saturación de las fotografías, aplicar distintos filtros
+de la gran variedad que nos brinda, también logré aprender como poder
+realizarlo en Visual Studio Code, desde la instalación, hasta la 
+aplicación de cada una de las funciones que posee.
+Este proyecto me hizo recordar a cuando instalé VSC, para PILLOW fue
+algo similar así que no se me complicó mucho, lo complicado fue poder
+codearlo y averiguar los comandos que tienen para realizar justo las
+funciones que deseamos. Fue un proyecto muy interesante.

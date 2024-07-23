@@ -1,0 +1,9 @@
+
+¿ POR QUÉ ME PARECIÓ INTERESANTE?
+
+Justo como lo había mencionado, soy muy apasionado de las fotografías. Incluso una de mis ideas
+y hobbies es diseñar, editar y crear imágenes, por lo cual quería saber como era el método aquí
+en PYTHON. Es un mecanismo totalmente diferente, ya no es presionar botones y que el editor lo 
+haga todo solo. Aquí tenía que hacerlo yo mismo y también investigar los comandos y bibliotecas
+que posee PILLOW. Siempre tuve la idea que PYTHON solo era para programar, pero hoy descubrí que 
+programando también se pueden editar fotografías.

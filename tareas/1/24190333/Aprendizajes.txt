@@ -1,0 +1,6 @@
+AAAAAAAAA INSTALARLO ME COSTÓ
+más me costó el runner xd, definitivamente el terminal lo es todo, aprendí a hacer las cosas a tiempo y
+el triangulito para debug y run no me daba, asi que tuve que desinstalar otra vez y otra vez y otra vez,
+todo porque me negaba a hacerlo manualmente desde la terminal.
+Pero bue, así es como ahora puedo usar el lenguaje c++ en VSCode.
+Y sí, proximamente soy team Linux.

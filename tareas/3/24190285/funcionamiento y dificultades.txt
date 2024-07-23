@@ -1,0 +1,13 @@
+Me decidí por la edición de imágenes, ya que pensé al inicio que iba a ser complicado
+realizar todas las ediciones a una sola imagen. Luego me di con la sorpresa que era más
+fácil de lo que parecía. Me resultó interesante ver cómo se modificaban las imágenes a
+través de unos códigos, y que al juntarlos se podrían realizar una infinidad de modificaciones.
+En mi caso, yo realicé los filtros por separado:
+1: blur sirve para desenfocar imágenes
+2: contour marca contornos
+3: Edge enhance realza los bordes
+4: emboss obtiene el relieve de la imagen
+5: find edges busca límites
+6: sharpen sirve para afinar la imagen
+7: smooth suaviza la imagen
+8: da color (en RGB) a la imagen

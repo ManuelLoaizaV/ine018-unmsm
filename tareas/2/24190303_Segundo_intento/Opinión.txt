@@ -1,0 +1,1 @@
+Resulto una tarea complicada para mí, con lo tanto que me costó entender las primeras funciones de C++, entender las funciones de Python en corto tiempo fue agotador. Además, tuve que volver a repasar pilas para comprender las listas, y con la costumbre de C++, era confuzo codear en Python. Ahora, con más práctica, noto que es una herramienta que facilita muchos puntos.

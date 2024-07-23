@@ -1,0 +1,15 @@
+Elegí este tema porque me llamó mucho la atención todo el potencial que tiene,
+desde hace años o diría incluso que a principio de año había tenido la necesidad
+de usarlo, pero no sabía como buscarlo específicamente 'web scraping' y al final
+nunca lo encontré y no lo usé. En mi colegio llevamos clases de html y por mi
+cuenta también veía videos y aprendí, por esa parte cuando elegí este tema asumí
+que no tendría problemas, y así fue, de hecho practicamente solo era cuestión de
+inspeccionar en la página.
+Durante el proceso de desarrollar el código, al inicio tuve problemas para instalar
+el selenium y webdriver porque al parecer mi sistema linux no permitia hacer
+'modificaciones externas' y estaba pensando en instalar otra version Linux, pero iba
+a ser muy tedioso, luego encontré la opción de crear un entorno virtual y fue mucho 
+más sencillo hacerlo desde ahí. Aunque para esta tarea haya aprendido y necesitado usar
+solo lo básico como buscar atributos y almacenarlos o interactuar con ellos haciendo
+click, por mi parte seguiré investigando y aprendiendo a usarlo, me divertí mucho
+haciendo esta tarea (liberé mi prof. Manuel Loaiza interior).

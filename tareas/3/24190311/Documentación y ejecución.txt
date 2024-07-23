@@ -1,0 +1,27 @@
+PILLOW
+Es una biblioteca de procesamiento o edición de imágenes en Python, y que cuenta con una amplia variedad de funciones, de fácil comprensión.
+
+Pillow proporciona una interfaz fácil de usar para realizar operaciones básicas y avanzadas en imágenes. Algunas de las herramientas que presenta son:
+
+- Redimensionar, recortar y rotar imágenes:
+- Ajustar brillo, contraste y otros atributos de la imagen.
+- Convertir imágenes entre modos de color (por ejemplo, RGB, escala de grises, CMYK).
+- Aplicación de Filtros y Efectos: como desenfoque, contorno, detalle, realce de bordes, entre otros.
+
+¿CÓMO EJECUTAR PILLOW EN PHYTON?
+1) Primero realizar la instalación, para eso debemos ir a Símbolo de sistema y colocar "pip install pillow"
+2)Verificamos la instalación ejecutando "pip show pillow"
+3) Al abrir Python y colocar "from PIL..." podremos entrar y hacer uso de las funciones variadas de que nos proporciona PILLOW.
+
+EJMPLO (DESENFOCAR UNA IMAGEN?
+- Se inicia con:          from PIL import Image, ImageFilter
+- Para abrir la imagen:   imagen = Image.open('ejemplo.jpg')
+- Aplicación del filtro:  imagen_desenfocada = imagen.filter(ImageFilter.BLUR)
+- Guardar el resultado:   imagen_desenfocada.save('desenfocada.jpg')
+
+NOTA DE LA EJECUCIÓN
+Guardar el script Python que utiliza Pillow con la extensión ".py"
+Asegurarnos de que la imagen de entrada (ejemplo.jpg en el ejemplo) esté en el directorio correcto o especificar la ruta completa al archivo si está en otra ubicación.
+
+CONCLUSIÓN
+Pillow facilita el procesamiento y la manipulación de imágenes en Python y cuenta con una gran cantidad de funcionalidades. Es ideal para aquellos que trabajan en proyectos que requieren análisis de imágenes, transformaciones gráficas y generación de contenido visual dinámico.
