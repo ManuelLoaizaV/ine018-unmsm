@@ -1,0 +1,7 @@
+Principalmente elegí el de la biblioteca sympy pq pensé que sería uno
+dificultoso pero lo que más se me llego a complicar en la tarea fue el
+no poder descargar la biblioteca xD, me salia un error con el pip y al 
+poner pip install sympy me daba error asi que tuve que desinstalar e instalar
+python denuevo y me funcionó, ya que pude descargarlo me puse a ver que cosas
+tenia la biblioteca y use un problema con derivadas simple ya que es hasta donde
+llega mi conocimiento todavía :b
