@@ -1,0 +1,14 @@
+Elejí este tema ya que a primera vista
+lo relacioné con el Excel (mas que todo con las macros), lo que pensé que
+sería algo sencillo por realizar jiji (me confundí de codigos mas de lo q pensé)
+lo que me dió mucha curiosidad de los cambios y opciones que se puede haber.
+Relacioné POO a dos casos los cuales presento en la tarea.
+No fue dificil pensar los dos casos, pero si me mareaba un poco con los codigos.
+
+Se me hizo muy interesante el principio de herencia, busqué como podría ser el 
+código en cpp, definitivamente se ve mas seguro. (confirmando lo dicho en la
+segunda tarea "c++ mi lugar seguro".)
+
+Aprendí mucho sobre python y c++ (a pesar que no sea la tarea en ese lenguaje),
+también lo relacioné con la vida real en los dos casos, lo que me causa mas 
+intriga sobre más casos en la vida real en los que se puedan usar POO.
