@@ -1,0 +1,1 @@
+Bueno en esta tarea se hizo complicado adecuarse a la nueva sintaxis de python ya que estamos acostumbrados a c++, también las funciones que cambian de nombre , las variables que se declaran distinto y otra cosas que tuve que aprender.
