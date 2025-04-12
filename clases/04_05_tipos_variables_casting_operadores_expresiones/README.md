@@ -248,7 +248,7 @@ int main(void) {
 
 ### Operadores de comparación
 
-| Operador | Significado           |
+| Operador | Significado |
 |----------|-------------------|
 | `<` | menor que |
 | `<=` | menor o igual que |
@@ -387,3 +387,26 @@ c = c + a;
 
 cout << a << " " << b << " " << c << endl;
 ```
+
+## Conversión de tipos
+
+C++ te permite realizar conversiones entre tipos.
+A veces esto ocurre automáticamente. Por ejemplo,
+```cpp
+int entero = 3;
+float real = entero;
+```
+funciona sin problemas porque ocurrió un casting implícito.
+Esto también permite hacer
+```cpp
+float real = 3.14;
+int entero = real;
+```
+a pesar de que un entero no pueda almacenar el valor `3.14`.
+
+A veces C++ solo te permitirá realizar la conversión si explíticamente lo solicitas.
+Para esto tenemos cuatro operadores:
+`const_cast`,
+`static_cast`,
+`dynamic_cast`
+y `reinterpret_cast`.
