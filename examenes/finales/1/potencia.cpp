@@ -2,9 +2,7 @@
 using namespace std;
 
 int Elevar(int n, int k) {
-    if (k == 0) {
-        return 1;
-    }
+    if (k == 0) return 1;
     return n * Elevar(n, k - 1);
 }
 

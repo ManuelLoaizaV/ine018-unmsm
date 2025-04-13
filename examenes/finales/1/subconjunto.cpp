@@ -2,7 +2,7 @@
 #include <set>
 using namespace std;
 
-bool EsSubconjuntoDe(set<int> S, set<int> T) {
+bool EsSubconjuntoDe(const set<int>& S, const set<int>& T) {
     for (int x : S) {
         if (!T.contains(x)) {
             return false;
