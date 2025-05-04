@@ -2,9 +2,10 @@
 using namespace std;
 
 int main(void) {
+    int n = 5;
+
     // Inicializar
     int i = 1;
-    int n = 10;
 
     // Condicion
     while (i <= n) {
