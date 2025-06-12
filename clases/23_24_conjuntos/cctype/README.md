@@ -1,7 +1,7 @@
 # Implementado la biblioteca `<cctype>`
 
-En la [clase 4](/clases/04_casting_bibliotecas/)
-aprendimos sobre la biblioteca `<cctpe>`
+En la [semana 2](/clases/04_05_tipos_variables_casting_operadores_expresiones/)
+aprendimos sobre la cabecera `<cctype>`
 en la cual exportamos muchas funciones que
 validan el tipo de dato de un caracter.
 
