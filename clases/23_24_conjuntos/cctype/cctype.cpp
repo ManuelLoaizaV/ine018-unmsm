@@ -34,7 +34,7 @@ bool ispunct(char c) {
     return puntuacion.contains(c);
 }
 bool isprint(char c) {
-    return isdigit(c) || isupper(c) || islower(c) || ispunct(c) || isspace(c);
+    return isalnum(c) || ispunct(c) || isspace(c);
 }
 
 int main(void) {
@@ -44,13 +44,13 @@ int main(void) {
     }
     for (char c = 'a'; c <= 'z'; c++) {
         minusculas.insert(c);
-        if (c <= 'e') {
+        if (c <= 'f') {
             hexadecimales.insert(c);
         }
     }
     for (char c = 'A'; c <= 'Z'; c++) {
         mayusculas.insert(c);
-        if (c <= 'E') {
+        if (c <= 'F') {
             hexadecimales.insert(c);
         }
     }
